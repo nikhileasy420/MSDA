@@ -1,0 +1,51 @@
+﻿station_code,station_name,address,distance_from_berryessa,lattitude,longitude,zipcode,stop_id
+SSAN,South San Francisco,1333 Mission Road,51.3,37.664245,-122.44396,94080,SS
+SBRN,San Bruno,1151 Huntington Avenue,41.1,37.579412,-121.928277,94536,SB
+SFIA,San Francisco International Airport,International Terminal,51.1,37.615966,-122.392409,94128,SO
+MLBR,Millbrae,200 North Rollins Road,44.4,37.600271,-122.386702,94030,MB
+WDUB,West Dublin/Pleasanton,6501 Golden Gate Drive,28.2,37.699756,-121.92824,94568,WD
+RICH,Richmond,1700 Nevin Avenue,58.5,37.936853,-122.353099,94801,RM
+DELN,Del Norte,6400 Cutting Boulevard,51.2,37.925655,-122.317269,94530,DN
+PLZA,El Cerrito Plaza,6699 Fairmount Avenue,55.7,37.903058,-122.299271,94564,EP
+NBRK,North Berkeley,1750 Sacramento Street,53.7,37.873967,-122.28344,94704,NB
+DBRK,Downtown Berkeley,2160 Shattuck Avenue,53.4,37.869867,-122.268045,94704,BK
+ASHB,Ashby,3100 Adeline Street,52.8,37.853024,-122.26978,94704,AS
+MCAR,MacArthur,555 40th Street,49.8,37.828415,-122.267227,94609,MA
+19TH,19th Street Oakland,1900 Broadway,47.8,37.80835,-122.268602,94612,19
+12TH,12th Street Oakland,1245 Broadway,47.8,37.803664,-122.271604,94612,12
+LAKE,Lake Merritt,800 Madison Street,47.1,37.797027,-122.26518,94607,LM
+FTVL,Fruitvale,3401 East 12th Street,43.8,37.774836,-122.224175,94601,FV
+COLS,Coliseum,7200 San Leandro Street,41.8,37.754006,-122.197273,94621,CL
+SANL,San Leandro,1401 San Leandro Boulevard,38.5,37.721947,-122.160844,94577,SL
+BAYF,Bay Fair,15242 Hesperian Boulevard,34.5,37.697185,-122.126871,94541,BF
+HAYW,Hayward,699 B Street,31.7,37.670399,-122.087967,94545,HY
+SHAY,South Hayward,28601 Dixon Street,30.3,37.634375,-122.057189,94544,SH
+UCTY,Union City,10 Union Square,24.4,37.591208,-122.017867,94401,UC
+FRMT,Fremont,2000 BART Way,11.2,37.557465,-121.976608,94539,FM
+CAST,Castro Valley,3301 Norbridge Drive,35.5,37.692466,-121.9001,94546,CV
+DUBL,Dublin/Pleasanton,5801 Owens Drive,18.3,37.701695,-121.899541,94568,ED
+PITT,Pittsburg/Bay Point,1700 West Leland Road,57.4,38.018914,-121.88808,94565,WP
+NCON,North Concord/Martinez,3700 Port Chicago Highway,52.7,38.003193,-122.024653,94520,NC
+COLM,Colma,365 D Street,47.8,37.684638,-122.126263,94578,CM
+CONC,Concord,1451 Oakland Avenue,49.1,37.973737,-122.029095,94520,CN
+PHIL,Pleasant Hill,1365 Treat Boulevard,44.3,38.018914,-121.88808,94565,PH
+WCRK,Walnut Creek,200 Ygnacio Valley Road,40.7,37.905522,-122.067527,94523,WC
+LAFY,Lafayette,3601 Deer Hill Road,36.7,37.893394,-122.123801,94549,LF
+ORIN,Orinda,11 Camino Pablo,34.9,37.878361,-122.183791,94563,OR
+ROCK,Rockridge,5660 College Avenue,49.1,37.844702,-122.251371,94702,RR
+WOAK,West Oakland,1451 7th Street,47.9,37.804827,-122.29514,94607,OW
+EMBR,Embarcadero,298 Market Street,47.4,37.792874,-122.39702,94111,EM
+MONT,Montgomery Street,598 Market Street,47.5,37.789405,-122.401066,94104,MT
+POWL,Powell Street,899 Market Street,47.5,37.784471,-122.407974,94102,PL
+CIVC,Civic Center,1150 Market Street,48.3,37.779732,-122.414123,94102,CC
+16TH,16th Street Mission,2000 Mission Street,46.5,37.764799,-122.419406,94110,16
+24TH,24th Street Mission,2800 Mission Street,45.9,37.75247,-122.418143,94110,24
+GLEN,Glen Park,2901 Diamond Street,45.4,37.733064,-122.433817,94131,GP
+BALB,Balboa Park,401 Geneva Avenue,42.4,37.721585,-122.447506,94112,BP
+DALY,Daly City,500 John Daly Boulevard,38,37.70612,-122.46908,94014,DC
+OAKL,Oakland City Center/12th St,1245 Broadway,20.7,37.803,-122.271,94612,OK
+WARM,Warm Springs/South Fremont,45193 Warm Springs Blvd,12.1,37.5022,-121.9392,94539,WS
+MLPT,Milpitas,1755 Montague Expressway,5.6,37.4159,-121.8976,95035,ML
+BERY,Berryessa/North San Jose,1375 Mabury Road,0,37.409,-121.8752,95133,BE
+PCTR,Pittsburg Center,2099 Railroad Ave,50.8,38.016,-121.8899,94565,PC
+ANTC,Antioch,1600 Slatten Ranch Road,57.8,37.9951,-121.8022,94531,AN

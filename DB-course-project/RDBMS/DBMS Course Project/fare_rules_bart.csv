@@ -1,0 +1,2501 @@
+﻿fare_id,origin_id,destination_id,Price,currency_type,origin_station,destination_station
+1,SSAN,SSAN,6.4,USD,South San Francisco,South San Francisco
+2,SSAN,SBRN,3.6,USD,South San Francisco,San Bruno
+3,SSAN,SFIA,8.55,USD,South San Francisco,San Francisco International Airport
+4,SSAN,MLBR,3.6,USD,South San Francisco,Millbrae
+5,SSAN,WDUB,7.35,USD,South San Francisco,West Dublin/Pleasanton
+6,SSAN,RICH,5.9,USD,South San Francisco,Richmond
+7,SSAN,DELN,5.7,USD,South San Francisco,Del Norte
+8,SSAN,PLZA,5.5,USD,South San Francisco,El Cerrito Plaza
+9,SSAN,NBRK,5.3,USD,South San Francisco,North Berkeley
+10,SSAN,DBRK,5.25,USD,South San Francisco,Downtown Berkeley
+11,SSAN,ASHB,5.15,USD,South San Francisco,Ashby
+12,SSAN,MCAR,5,USD,South San Francisco,MacArthur
+13,SSAN,19TH,4.9,USD,South San Francisco,19th Street Oakland
+14,SSAN,12TH,4.9,USD,South San Francisco,12th Street Oakland
+15,SSAN,LAKE,4.9,USD,South San Francisco,Lake Merritt
+16,SSAN,FTVL,5.2,USD,South San Francisco,Fruitvale
+17,SSAN,COLS,5.4,USD,South San Francisco,Coliseum
+18,SSAN,SANL,5.75,USD,South San Francisco,San Leandro
+19,SSAN,BAYF,6,USD,South San Francisco,Bay Fair
+20,SSAN,HAYW,6.3,USD,South San Francisco,Hayward
+21,SSAN,SHAY,6.65,USD,South San Francisco,South Hayward
+22,SSAN,UCTY,7.2,USD,South San Francisco,Union City
+23,SSAN,FRMT,7.55,USD,South San Francisco,Fremont
+24,SSAN,CAST,6.3,USD,South San Francisco,Castro Valley
+25,SSAN,DUBL,7.55,USD,South San Francisco,Dublin/Pleasanton
+26,SSAN,PITT,8,USD,South San Francisco,Pittsburg/Bay Point
+27,SSAN,NCON,7.45,USD,South San Francisco,North Concord/Martinez
+28,SSAN,COLM,3.6,USD,South San Francisco,Colma
+29,SSAN,CONC,7.2,USD,South San Francisco,Concord
+30,SSAN,PHIL,6.75,USD,South San Francisco,Pleasant Hill
+31,SSAN,WCRK,6.6,USD,South San Francisco,Walnut Creek
+32,SSAN,LAFY,6.2,USD,South San Francisco,Lafayette
+33,SSAN,ORIN,5.75,USD,South San Francisco,Orinda
+34,SSAN,ROCK,5.15,USD,South San Francisco,Rockridge
+35,SSAN,WOAK,4.8,USD,South San Francisco,West Oakland
+36,SSAN,EMBR,4.35,USD,South San Francisco,Embarcadero
+37,SSAN,MONT,4.35,USD,South San Francisco,Montgomery Street
+38,SSAN,POWL,4.35,USD,South San Francisco,Powell Street
+39,SSAN,CIVC,4.35,USD,South San Francisco,Civic Center
+40,SSAN,16TH,4.15,USD,South San Francisco,16th Street Mission
+41,SSAN,24TH,4.05,USD,South San Francisco,24th Street Mission
+42,SSAN,GLEN,3.8,USD,South San Francisco,Glen Park
+43,SSAN,BALB,3.6,USD,South San Francisco,Balboa Park
+44,SSAN,DALY,3.6,USD,South San Francisco,Daly City
+45,SSAN,OAKL,12.1,USD,South San Francisco,Oakland City Center/12th St
+46,SSAN,WARM,8.05,USD,South San Francisco,Warm Springs/South Fremont
+47,SSAN,MLPT,8.85,USD,South San Francisco,Milpitas
+48,SSAN,BERY,9.1,USD,South San Francisco,Berryessa/North San Jose
+49,SSAN,PCTR,8.2,USD,South San Francisco,Pittsburg Center
+50,SSAN,ANTC,8.9,USD,South San Francisco,Antioch
+51,SBRN,SSAN,3.6,USD,San Bruno,South San Francisco
+52,SBRN,SBRN,6.4,USD,San Bruno,San Bruno
+53,SBRN,SFIA,8.55,USD,San Bruno,San Francisco International Airport
+54,SBRN,MLBR,3.6,USD,San Bruno,Millbrae
+55,SBRN,WDUB,7.65,USD,San Bruno,West Dublin/Pleasanton
+56,SBRN,RICH,6.2,USD,San Bruno,Richmond
+57,SBRN,DELN,5.95,USD,San Bruno,Del Norte
+58,SBRN,PLZA,5.8,USD,San Bruno,El Cerrito Plaza
+59,SBRN,NBRK,5.6,USD,San Bruno,North Berkeley
+60,SBRN,DBRK,5.5,USD,San Bruno,Downtown Berkeley
+61,SBRN,ASHB,5.4,USD,San Bruno,Ashby
+62,SBRN,MCAR,5.3,USD,San Bruno,MacArthur
+63,SBRN,19TH,5.2,USD,San Bruno,19th Street Oakland
+64,SBRN,12TH,5.2,USD,San Bruno,12th Street Oakland
+65,SBRN,LAKE,5.2,USD,San Bruno,Lake Merritt
+66,SBRN,FTVL,5.5,USD,San Bruno,Fruitvale
+67,SBRN,COLS,5.7,USD,San Bruno,Coliseum
+68,SBRN,SANL,6,USD,San Bruno,San Leandro
+69,SBRN,BAYF,6.3,USD,San Bruno,Bay Fair
+70,SBRN,HAYW,6.6,USD,San Bruno,Hayward
+71,SBRN,SHAY,6.95,USD,San Bruno,South Hayward
+72,SBRN,UCTY,7.5,USD,San Bruno,Union City
+73,SBRN,FRMT,7.85,USD,San Bruno,Fremont
+74,SBRN,CAST,6.6,USD,San Bruno,Castro Valley
+75,SBRN,DUBL,7.85,USD,San Bruno,Dublin/Pleasanton
+76,SBRN,PITT,8.3,USD,San Bruno,Pittsburg/Bay Point
+77,SBRN,NCON,7.7,USD,San Bruno,North Concord/Martinez
+78,SBRN,COLM,3.6,USD,San Bruno,Colma
+79,SBRN,CONC,7.5,USD,San Bruno,Concord
+80,SBRN,PHIL,7.05,USD,San Bruno,Pleasant Hill
+81,SBRN,WCRK,6.85,USD,San Bruno,Walnut Creek
+82,SBRN,LAFY,6.45,USD,San Bruno,Lafayette
+83,SBRN,ORIN,6.05,USD,San Bruno,Orinda
+84,SBRN,ROCK,5.45,USD,San Bruno,Rockridge
+85,SBRN,WOAK,5.1,USD,San Bruno,West Oakland
+86,SBRN,EMBR,4.8,USD,San Bruno,Embarcadero
+87,SBRN,MONT,4.8,USD,San Bruno,Montgomery Street
+88,SBRN,POWL,4.8,USD,San Bruno,Powell Street
+89,SBRN,CIVC,4.8,USD,San Bruno,Civic Center
+90,SBRN,16TH,4.6,USD,San Bruno,16th Street Mission
+91,SBRN,24TH,4.5,USD,San Bruno,24th Street Mission
+92,SBRN,GLEN,4.2,USD,San Bruno,Glen Park
+93,SBRN,BALB,4.05,USD,San Bruno,Balboa Park
+94,SBRN,DALY,3.6,USD,San Bruno,Daly City
+95,SBRN,OAKL,12.4,USD,San Bruno,Oakland City Center/12th St
+96,SBRN,WARM,8.35,USD,San Bruno,Warm Springs/South Fremont
+97,SBRN,MLPT,9.15,USD,San Bruno,Milpitas
+98,SBRN,BERY,9.4,USD,San Bruno,Berryessa/North San Jose
+99,SBRN,PCTR,8.45,USD,San Bruno,Pittsburg Center
+100,SBRN,ANTC,9.15,USD,San Bruno,Antioch
+101,SFIA,SSAN,8.55,USD,San Francisco International Airport,South San Francisco
+102,SFIA,SBRN,8.55,USD,San Francisco International Airport,San Bruno
+103,SFIA,SFIA,6.4,USD,San Francisco International Airport,San Francisco International Airport
+104,SFIA,MLBR,4.95,USD,San Francisco International Airport,Millbrae
+105,SFIA,WDUB,12.8,USD,San Francisco International Airport,West Dublin/Pleasanton
+106,SFIA,RICH,11.35,USD,San Francisco International Airport,Richmond
+107,SFIA,DELN,11.15,USD,San Francisco International Airport,Del Norte
+108,SFIA,PLZA,10.95,USD,San Francisco International Airport,El Cerrito Plaza
+109,SFIA,NBRK,10.75,USD,San Francisco International Airport,North Berkeley
+110,SFIA,DBRK,10.7,USD,San Francisco International Airport,Downtown Berkeley
+111,SFIA,ASHB,10.6,USD,San Francisco International Airport,Ashby
+112,SFIA,MCAR,10.45,USD,San Francisco International Airport,MacArthur
+113,SFIA,19TH,10.35,USD,San Francisco International Airport,19th Street Oakland
+114,SFIA,12TH,10.35,USD,San Francisco International Airport,12th Street Oakland
+115,SFIA,LAKE,10.35,USD,San Francisco International Airport,Lake Merritt
+116,SFIA,FTVL,10.65,USD,San Francisco International Airport,Fruitvale
+117,SFIA,COLS,10.85,USD,San Francisco International Airport,Coliseum
+118,SFIA,SANL,11.2,USD,San Francisco International Airport,San Leandro
+119,SFIA,BAYF,11.45,USD,San Francisco International Airport,Bay Fair
+120,SFIA,HAYW,11.75,USD,San Francisco International Airport,Hayward
+121,SFIA,SHAY,12.1,USD,San Francisco International Airport,South Hayward
+122,SFIA,UCTY,12.65,USD,San Francisco International Airport,Union City
+123,SFIA,FRMT,13,USD,San Francisco International Airport,Fremont
+124,SFIA,CAST,11.75,USD,San Francisco International Airport,Castro Valley
+125,SFIA,DUBL,13,USD,San Francisco International Airport,Dublin/Pleasanton
+126,SFIA,PITT,13.45,USD,San Francisco International Airport,Pittsburg/Bay Point
+127,SFIA,NCON,12.9,USD,San Francisco International Airport,North Concord/Martinez
+128,SFIA,COLM,8.9,USD,San Francisco International Airport,Colma
+129,SFIA,CONC,12.65,USD,San Francisco International Airport,Concord
+130,SFIA,PHIL,12.2,USD,San Francisco International Airport,Pleasant Hill
+131,SFIA,WCRK,12.05,USD,San Francisco International Airport,Walnut Creek
+132,SFIA,LAFY,11.65,USD,San Francisco International Airport,Lafayette
+133,SFIA,ORIN,11.2,USD,San Francisco International Airport,Orinda
+134,SFIA,ROCK,10.6,USD,San Francisco International Airport,Rockridge
+135,SFIA,WOAK,10.25,USD,San Francisco International Airport,West Oakland
+136,SFIA,EMBR,10,USD,San Francisco International Airport,Embarcadero
+137,SFIA,MONT,10,USD,San Francisco International Airport,Montgomery Street
+138,SFIA,POWL,10,USD,San Francisco International Airport,Powell Street
+139,SFIA,CIVC,10,USD,San Francisco International Airport,Civic Center
+140,SFIA,16TH,9.9,USD,San Francisco International Airport,16th Street Mission
+141,SFIA,24TH,9.8,USD,San Francisco International Airport,24th Street Mission
+142,SFIA,GLEN,9.55,USD,San Francisco International Airport,Glen Park
+143,SFIA,BALB,9.4,USD,San Francisco International Airport,Balboa Park
+144,SFIA,DALY,9.15,USD,San Francisco International Airport,Daly City
+145,SFIA,OAKL,17.6,USD,San Francisco International Airport,Oakland City Center/12th St
+146,SFIA,WARM,13.5,USD,San Francisco International Airport,Warm Springs/South Fremont
+147,SFIA,MLPT,14.3,USD,San Francisco International Airport,Milpitas
+148,SFIA,BERY,14.6,USD,San Francisco International Airport,Berryessa/North San Jose
+149,SFIA,PCTR,13.65,USD,San Francisco International Airport,Pittsburg Center
+150,SFIA,ANTC,14.35,USD,San Francisco International Airport,Antioch
+151,MLBR,SSAN,3.6,USD,Millbrae,South San Francisco
+152,MLBR,SBRN,3.6,USD,Millbrae,San Bruno
+153,MLBR,SFIA,4.95,USD,Millbrae,San Francisco International Airport
+154,MLBR,MLBR,6.4,USD,Millbrae,Millbrae
+155,MLBR,WDUB,8,USD,Millbrae,West Dublin/Pleasanton
+156,MLBR,RICH,6.6,USD,Millbrae,Richmond
+157,MLBR,DELN,6.35,USD,Millbrae,Del Norte
+158,MLBR,PLZA,6.15,USD,Millbrae,El Cerrito Plaza
+159,MLBR,NBRK,5.95,USD,Millbrae,North Berkeley
+160,MLBR,DBRK,5.9,USD,Millbrae,Downtown Berkeley
+161,MLBR,ASHB,5.8,USD,Millbrae,Ashby
+162,MLBR,MCAR,5.65,USD,Millbrae,MacArthur
+163,MLBR,19TH,5.55,USD,Millbrae,19th Street Oakland
+164,MLBR,12TH,5.55,USD,Millbrae,12th Street Oakland
+165,MLBR,LAKE,5.55,USD,Millbrae,Lake Merritt
+166,MLBR,FTVL,5.85,USD,Millbrae,Fruitvale
+167,MLBR,COLS,6.05,USD,Millbrae,Coliseum
+168,MLBR,SANL,6.4,USD,Millbrae,San Leandro
+169,MLBR,BAYF,6.65,USD,Millbrae,Bay Fair
+170,MLBR,HAYW,7,USD,Millbrae,Hayward
+171,MLBR,SHAY,7.3,USD,Millbrae,South Hayward
+172,MLBR,UCTY,7.85,USD,Millbrae,Union City
+173,MLBR,FRMT,8.2,USD,Millbrae,Fremont
+174,MLBR,CAST,6.95,USD,Millbrae,Castro Valley
+175,MLBR,DUBL,8.2,USD,Millbrae,Dublin/Pleasanton
+176,MLBR,PITT,8.65,USD,Millbrae,Pittsburg/Bay Point
+177,MLBR,NCON,8.1,USD,Millbrae,North Concord/Martinez
+178,MLBR,COLM,4.15,USD,Millbrae,Colma
+179,MLBR,CONC,7.85,USD,Millbrae,Concord
+180,MLBR,PHIL,7.4,USD,Millbrae,Pleasant Hill
+181,MLBR,WCRK,7.25,USD,Millbrae,Walnut Creek
+182,MLBR,LAFY,6.85,USD,Millbrae,Lafayette
+183,MLBR,ORIN,6.4,USD,Millbrae,Orinda
+184,MLBR,ROCK,5.8,USD,Millbrae,Rockridge
+185,MLBR,WOAK,5.45,USD,Millbrae,West Oakland
+186,MLBR,EMBR,5.2,USD,Millbrae,Embarcadero
+187,MLBR,MONT,5.2,USD,Millbrae,Montgomery Street
+188,MLBR,POWL,5.2,USD,Millbrae,Powell Street
+189,MLBR,CIVC,5.2,USD,Millbrae,Civic Center
+190,MLBR,16TH,5.15,USD,Millbrae,16th Street Mission
+191,MLBR,24TH,5.05,USD,Millbrae,24th Street Mission
+192,MLBR,GLEN,4.8,USD,Millbrae,Glen Park
+193,MLBR,BALB,4.65,USD,Millbrae,Balboa Park
+194,MLBR,DALY,4.4,USD,Millbrae,Daly City
+195,MLBR,OAKL,12.8,USD,Millbrae,Oakland City Center/12th St
+196,MLBR,WARM,8.7,USD,Millbrae,Warm Springs/South Fremont
+197,MLBR,MLPT,9.5,USD,Millbrae,Milpitas
+198,MLBR,BERY,9.8,USD,Millbrae,Berryessa/North San Jose
+199,MLBR,PCTR,8.85,USD,Millbrae,Pittsburg Center
+200,MLBR,ANTC,9.55,USD,Millbrae,Antioch
+201,WDUB,SSAN,7.35,USD,West Dublin/Pleasanton,South San Francisco
+202,WDUB,SBRN,7.65,USD,West Dublin/Pleasanton,San Bruno
+203,WDUB,SFIA,12.8,USD,West Dublin/Pleasanton,San Francisco International Airport
+204,WDUB,MLBR,8,USD,West Dublin/Pleasanton,Millbrae
+205,WDUB,WDUB,6.4,USD,West Dublin/Pleasanton,West Dublin/Pleasanton
+206,WDUB,RICH,5.75,USD,West Dublin/Pleasanton,Richmond
+207,WDUB,DELN,5.5,USD,West Dublin/Pleasanton,Del Norte
+208,WDUB,PLZA,5.35,USD,West Dublin/Pleasanton,El Cerrito Plaza
+209,WDUB,NBRK,5.1,USD,West Dublin/Pleasanton,North Berkeley
+210,WDUB,DBRK,5.05,USD,West Dublin/Pleasanton,Downtown Berkeley
+211,WDUB,ASHB,5,USD,West Dublin/Pleasanton,Ashby
+212,WDUB,MCAR,4.85,USD,West Dublin/Pleasanton,MacArthur
+213,WDUB,19TH,4.75,USD,West Dublin/Pleasanton,19th Street Oakland
+214,WDUB,12TH,4.75,USD,West Dublin/Pleasanton,12th Street Oakland
+215,WDUB,LAKE,4.75,USD,West Dublin/Pleasanton,Lake Merritt
+216,WDUB,FTVL,4.45,USD,West Dublin/Pleasanton,Fruitvale
+217,WDUB,COLS,4.2,USD,West Dublin/Pleasanton,Coliseum
+218,WDUB,SANL,3.95,USD,West Dublin/Pleasanton,San Leandro
+219,WDUB,BAYF,2.15,USD,West Dublin/Pleasanton,Bay Fair
+220,WDUB,HAYW,3.95,USD,West Dublin/Pleasanton,Hayward
+221,WDUB,SHAY,4.3,USD,West Dublin/Pleasanton,South Hayward
+222,WDUB,UCTY,4.8,USD,West Dublin/Pleasanton,Union City
+223,WDUB,FRMT,5.2,USD,West Dublin/Pleasanton,Fremont
+224,WDUB,CAST,2.15,USD,West Dublin/Pleasanton,Castro Valley
+225,WDUB,DUBL,2.15,USD,West Dublin/Pleasanton,Dublin/Pleasanton
+226,WDUB,PITT,7.65,USD,West Dublin/Pleasanton,Pittsburg/Bay Point
+227,WDUB,NCON,7.05,USD,West Dublin/Pleasanton,North Concord/Martinez
+228,WDUB,COLM,7.15,USD,West Dublin/Pleasanton,Colma
+229,WDUB,CONC,6.85,USD,West Dublin/Pleasanton,Concord
+230,WDUB,PHIL,6.4,USD,West Dublin/Pleasanton,Pleasant Hill
+231,WDUB,WCRK,6.2,USD,West Dublin/Pleasanton,Walnut Creek
+232,WDUB,LAFY,5.8,USD,West Dublin/Pleasanton,Lafayette
+233,WDUB,ORIN,5.4,USD,West Dublin/Pleasanton,Orinda
+234,WDUB,ROCK,4.85,USD,West Dublin/Pleasanton,Rockridge
+235,WDUB,WOAK,4.85,USD,West Dublin/Pleasanton,West Oakland
+236,WDUB,EMBR,6.65,USD,West Dublin/Pleasanton,Embarcadero
+237,WDUB,MONT,6.65,USD,West Dublin/Pleasanton,Montgomery Street
+238,WDUB,POWL,6.65,USD,West Dublin/Pleasanton,Powell Street
+239,WDUB,CIVC,6.65,USD,West Dublin/Pleasanton,Civic Center
+240,WDUB,16TH,6.75,USD,West Dublin/Pleasanton,16th Street Mission
+241,WDUB,24TH,6.8,USD,West Dublin/Pleasanton,24th Street Mission
+242,WDUB,GLEN,6.95,USD,West Dublin/Pleasanton,Glen Park
+243,WDUB,BALB,7.05,USD,West Dublin/Pleasanton,Balboa Park
+244,WDUB,DALY,7.2,USD,West Dublin/Pleasanton,Daly City
+245,WDUB,OAKL,10.95,USD,West Dublin/Pleasanton,Oakland City Center/12th St
+246,WDUB,WARM,5.7,USD,West Dublin/Pleasanton,Warm Springs/South Fremont
+247,WDUB,MLPT,6.5,USD,West Dublin/Pleasanton,Milpitas
+248,WDUB,BERY,6.75,USD,West Dublin/Pleasanton,Berryessa/North San Jose
+249,WDUB,PCTR,7.8,USD,West Dublin/Pleasanton,Pittsburg Center
+250,WDUB,ANTC,8.55,USD,West Dublin/Pleasanton,Antioch
+251,RICH,SSAN,5.9,USD,Richmond,South San Francisco
+252,RICH,SBRN,6.2,USD,Richmond,San Bruno
+253,RICH,SFIA,11.35,USD,Richmond,San Francisco International Airport
+254,RICH,MLBR,6.6,USD,Richmond,Millbrae
+255,RICH,WDUB,5.75,USD,Richmond,West Dublin/Pleasanton
+256,RICH,RICH,6.4,USD,Richmond,Richmond
+257,RICH,DELN,2.15,USD,Richmond,Del Norte
+258,RICH,PLZA,2.15,USD,Richmond,El Cerrito Plaza
+259,RICH,NBRK,2.15,USD,Richmond,North Berkeley
+260,RICH,DBRK,2.15,USD,Richmond,Downtown Berkeley
+261,RICH,ASHB,2.15,USD,Richmond,Ashby
+262,RICH,MCAR,3,USD,Richmond,MacArthur
+263,RICH,19TH,3.2,USD,Richmond,19th Street Oakland
+264,RICH,12TH,3.2,USD,Richmond,12th Street Oakland
+265,RICH,LAKE,3.2,USD,Richmond,Lake Merritt
+266,RICH,FTVL,3.55,USD,Richmond,Fruitvale
+267,RICH,COLS,3.8,USD,Richmond,Coliseum
+268,RICH,SANL,4.15,USD,Richmond,San Leandro
+269,RICH,BAYF,4.4,USD,Richmond,Bay Fair
+270,RICH,HAYW,4.7,USD,Richmond,Hayward
+271,RICH,SHAY,5.05,USD,Richmond,South Hayward
+272,RICH,UCTY,5.6,USD,Richmond,Union City
+273,RICH,FRMT,5.95,USD,Richmond,Fremont
+274,RICH,CAST,4.7,USD,Richmond,Castro Valley
+275,RICH,DUBL,5.95,USD,Richmond,Dublin/Pleasanton
+276,RICH,PITT,6,USD,Richmond,Pittsburg/Bay Point
+277,RICH,NCON,5.4,USD,Richmond,North Concord/Martinez
+278,RICH,COLM,5.7,USD,Richmond,Colma
+279,RICH,CONC,5.2,USD,Richmond,Concord
+280,RICH,PHIL,4.75,USD,Richmond,Pleasant Hill
+281,RICH,WCRK,4.55,USD,Richmond,Walnut Creek
+282,RICH,LAFY,4.2,USD,Richmond,Lafayette
+283,RICH,ORIN,3.75,USD,Richmond,Orinda
+284,RICH,ROCK,3.05,USD,Richmond,Rockridge
+285,RICH,WOAK,3.4,USD,Richmond,West Oakland
+286,RICH,EMBR,5.2,USD,Richmond,Embarcadero
+287,RICH,MONT,5.2,USD,Richmond,Montgomery Street
+288,RICH,POWL,5.2,USD,Richmond,Powell Street
+289,RICH,CIVC,5.2,USD,Richmond,Civic Center
+290,RICH,16TH,5.3,USD,Richmond,16th Street Mission
+291,RICH,24TH,5.35,USD,Richmond,24th Street Mission
+292,RICH,GLEN,5.5,USD,Richmond,Glen Park
+293,RICH,BALB,5.6,USD,Richmond,Balboa Park
+294,RICH,DALY,5.75,USD,Richmond,Daly City
+295,RICH,OAKL,10.5,USD,Richmond,Oakland City Center/12th St
+296,RICH,WARM,6.45,USD,Richmond,Warm Springs/South Fremont
+297,RICH,MLPT,7.25,USD,Richmond,Milpitas
+298,RICH,BERY,7.5,USD,Richmond,Berryessa/North San Jose
+299,RICH,PCTR,6.15,USD,Richmond,Pittsburg Center
+300,RICH,ANTC,6.9,USD,Richmond,Antioch
+301,DELN,SSAN,5.7,USD,Del Norte,South San Francisco
+302,DELN,SBRN,5.95,USD,Del Norte,San Bruno
+303,DELN,SFIA,11.15,USD,Del Norte,San Francisco International Airport
+304,DELN,MLBR,6.35,USD,Del Norte,Millbrae
+305,DELN,WDUB,5.5,USD,Del Norte,West Dublin/Pleasanton
+306,DELN,RICH,2.15,USD,Del Norte,Richmond
+307,DELN,DELN,6.4,USD,Del Norte,Del Norte
+308,DELN,PLZA,2.15,USD,Del Norte,El Cerrito Plaza
+309,DELN,NBRK,2.15,USD,Del Norte,North Berkeley
+310,DELN,DBRK,2.15,USD,Del Norte,Downtown Berkeley
+311,DELN,ASHB,2.15,USD,Del Norte,Ashby
+312,DELN,MCAR,2.6,USD,Del Norte,MacArthur
+313,DELN,19TH,2.85,USD,Del Norte,19th Street Oakland
+314,DELN,12TH,2.85,USD,Del Norte,12th Street Oakland
+315,DELN,LAKE,2.85,USD,Del Norte,Lake Merritt
+316,DELN,FTVL,3.35,USD,Del Norte,Fruitvale
+317,DELN,COLS,3.55,USD,Del Norte,Coliseum
+318,DELN,SANL,3.9,USD,Del Norte,San Leandro
+319,DELN,BAYF,4.15,USD,Del Norte,Bay Fair
+320,DELN,HAYW,4.45,USD,Del Norte,Hayward
+321,DELN,SHAY,4.8,USD,Del Norte,South Hayward
+322,DELN,UCTY,5.35,USD,Del Norte,Union City
+323,DELN,FRMT,5.75,USD,Del Norte,Fremont
+324,DELN,CAST,4.45,USD,Del Norte,Castro Valley
+325,DELN,DUBL,5.7,USD,Del Norte,Dublin/Pleasanton
+326,DELN,PITT,5.75,USD,Del Norte,Pittsburg/Bay Point
+327,DELN,NCON,5.2,USD,Del Norte,North Concord/Martinez
+328,DELN,COLM,5.45,USD,Del Norte,Colma
+329,DELN,CONC,5,USD,Del Norte,Concord
+330,DELN,PHIL,4.5,USD,Del Norte,Pleasant Hill
+331,DELN,WCRK,4.35,USD,Del Norte,Walnut Creek
+332,DELN,LAFY,3.95,USD,Del Norte,Lafayette
+333,DELN,ORIN,3.55,USD,Del Norte,Orinda
+334,DELN,ROCK,2.65,USD,Del Norte,Rockridge
+335,DELN,WOAK,3,USD,Del Norte,West Oakland
+336,DELN,EMBR,5,USD,Del Norte,Embarcadero
+337,DELN,MONT,5,USD,Del Norte,Montgomery Street
+338,DELN,POWL,5,USD,Del Norte,Powell Street
+339,DELN,CIVC,5,USD,Del Norte,Civic Center
+340,DELN,16TH,5.05,USD,Del Norte,16th Street Mission
+341,DELN,24TH,5.1,USD,Del Norte,24th Street Mission
+342,DELN,GLEN,5.3,USD,Del Norte,Glen Park
+343,DELN,BALB,5.35,USD,Del Norte,Balboa Park
+344,DELN,DALY,5.5,USD,Del Norte,Daly City
+345,DELN,OAKL,10.3,USD,Del Norte,Oakland City Center/12th St
+346,DELN,WARM,6.2,USD,Del Norte,Warm Springs/South Fremont
+347,DELN,MLPT,7,USD,Del Norte,Milpitas
+348,DELN,BERY,7.3,USD,Del Norte,Berryessa/North San Jose
+349,DELN,PCTR,5.95,USD,Del Norte,Pittsburg Center
+350,DELN,ANTC,6.65,USD,Del Norte,Antioch
+351,PLZA,SSAN,5.5,USD,El Cerrito Plaza,South San Francisco
+352,PLZA,SBRN,5.8,USD,El Cerrito Plaza,San Bruno
+353,PLZA,SFIA,10.95,USD,El Cerrito Plaza,San Francisco International Airport
+354,PLZA,MLBR,6.15,USD,El Cerrito Plaza,Millbrae
+355,PLZA,WDUB,5.35,USD,El Cerrito Plaza,West Dublin/Pleasanton
+356,PLZA,RICH,2.15,USD,El Cerrito Plaza,Richmond
+357,PLZA,DELN,2.15,USD,El Cerrito Plaza,Del Norte
+358,PLZA,PLZA,6.4,USD,El Cerrito Plaza,El Cerrito Plaza
+359,PLZA,NBRK,2.15,USD,El Cerrito Plaza,North Berkeley
+360,PLZA,DBRK,2.15,USD,El Cerrito Plaza,Downtown Berkeley
+361,PLZA,ASHB,2.15,USD,El Cerrito Plaza,Ashby
+362,PLZA,MCAR,2.3,USD,El Cerrito Plaza,MacArthur
+363,PLZA,19TH,2.55,USD,El Cerrito Plaza,19th Street Oakland
+364,PLZA,12TH,2.55,USD,El Cerrito Plaza,12th Street Oakland
+365,PLZA,LAKE,2.55,USD,El Cerrito Plaza,Lake Merritt
+366,PLZA,FTVL,3.05,USD,El Cerrito Plaza,Fruitvale
+367,PLZA,COLS,3.4,USD,El Cerrito Plaza,Coliseum
+368,PLZA,SANL,3.7,USD,El Cerrito Plaza,San Leandro
+369,PLZA,BAYF,3.95,USD,El Cerrito Plaza,Bay Fair
+370,PLZA,HAYW,4.3,USD,El Cerrito Plaza,Hayward
+371,PLZA,SHAY,4.6,USD,El Cerrito Plaza,South Hayward
+372,PLZA,UCTY,5.15,USD,El Cerrito Plaza,Union City
+373,PLZA,FRMT,5.55,USD,El Cerrito Plaza,Fremont
+374,PLZA,CAST,4.3,USD,El Cerrito Plaza,Castro Valley
+375,PLZA,DUBL,5.5,USD,El Cerrito Plaza,Dublin/Pleasanton
+376,PLZA,PITT,5.6,USD,El Cerrito Plaza,Pittsburg/Bay Point
+377,PLZA,NCON,5,USD,El Cerrito Plaza,North Concord/Martinez
+378,PLZA,COLM,5.3,USD,El Cerrito Plaza,Colma
+379,PLZA,CONC,4.8,USD,El Cerrito Plaza,Concord
+380,PLZA,PHIL,4.35,USD,El Cerrito Plaza,Pleasant Hill
+381,PLZA,WCRK,4.15,USD,El Cerrito Plaza,Walnut Creek
+382,PLZA,LAFY,3.75,USD,El Cerrito Plaza,Lafayette
+383,PLZA,ORIN,3.25,USD,El Cerrito Plaza,Orinda
+384,PLZA,ROCK,2.35,USD,El Cerrito Plaza,Rockridge
+385,PLZA,WOAK,2.75,USD,El Cerrito Plaza,West Oakland
+386,PLZA,EMBR,4.8,USD,El Cerrito Plaza,Embarcadero
+387,PLZA,MONT,4.8,USD,El Cerrito Plaza,Montgomery Street
+388,PLZA,POWL,4.8,USD,El Cerrito Plaza,Powell Street
+389,PLZA,CIVC,4.8,USD,El Cerrito Plaza,Civic Center
+390,PLZA,16TH,4.9,USD,El Cerrito Plaza,16th Street Mission
+391,PLZA,24TH,4.95,USD,El Cerrito Plaza,24th Street Mission
+392,PLZA,GLEN,5.1,USD,El Cerrito Plaza,Glen Park
+393,PLZA,BALB,5.2,USD,El Cerrito Plaza,Balboa Park
+394,PLZA,DALY,5.3,USD,El Cerrito Plaza,Daly City
+395,PLZA,OAKL,10.1,USD,El Cerrito Plaza,Oakland City Center/12th St
+396,PLZA,WARM,6,USD,El Cerrito Plaza,Warm Springs/South Fremont
+397,PLZA,MLPT,6.8,USD,El Cerrito Plaza,Milpitas
+398,PLZA,BERY,7.1,USD,El Cerrito Plaza,Berryessa/North San Jose
+399,PLZA,PCTR,5.75,USD,El Cerrito Plaza,Pittsburg Center
+400,PLZA,ANTC,6.5,USD,El Cerrito Plaza,Antioch
+401,NBRK,SSAN,5.3,USD,North Berkeley,South San Francisco
+402,NBRK,SBRN,5.6,USD,North Berkeley,San Bruno
+403,NBRK,SFIA,10.75,USD,North Berkeley,San Francisco International Airport
+404,NBRK,MLBR,5.95,USD,North Berkeley,Millbrae
+405,NBRK,WDUB,5.1,USD,North Berkeley,West Dublin/Pleasanton
+406,NBRK,RICH,2.15,USD,North Berkeley,Richmond
+407,NBRK,DELN,2.15,USD,North Berkeley,Del Norte
+408,NBRK,PLZA,2.15,USD,North Berkeley,El Cerrito Plaza
+409,NBRK,NBRK,6.4,USD,North Berkeley,North Berkeley
+410,NBRK,DBRK,2.15,USD,North Berkeley,Downtown Berkeley
+411,NBRK,ASHB,2.15,USD,North Berkeley,Ashby
+412,NBRK,MCAR,2.15,USD,North Berkeley,MacArthur
+413,NBRK,19TH,2.15,USD,North Berkeley,19th Street Oakland
+414,NBRK,12TH,2.15,USD,North Berkeley,12th Street Oakland
+415,NBRK,LAKE,2.15,USD,North Berkeley,Lake Merritt
+416,NBRK,FTVL,2.7,USD,North Berkeley,Fruitvale
+417,NBRK,COLS,3.05,USD,North Berkeley,Coliseum
+418,NBRK,SANL,3.5,USD,North Berkeley,San Leandro
+419,NBRK,BAYF,3.75,USD,North Berkeley,Bay Fair
+420,NBRK,HAYW,4.1,USD,North Berkeley,Hayward
+421,NBRK,SHAY,4.4,USD,North Berkeley,South Hayward
+422,NBRK,UCTY,4.95,USD,North Berkeley,Union City
+423,NBRK,FRMT,5.35,USD,North Berkeley,Fremont
+424,NBRK,CAST,4.1,USD,North Berkeley,Castro Valley
+425,NBRK,DUBL,5.3,USD,North Berkeley,Dublin/Pleasanton
+426,NBRK,PITT,5.4,USD,North Berkeley,Pittsburg/Bay Point
+427,NBRK,NCON,4.8,USD,North Berkeley,North Concord/Martinez
+428,NBRK,COLM,5.1,USD,North Berkeley,Colma
+429,NBRK,CONC,4.6,USD,North Berkeley,Concord
+430,NBRK,PHIL,4.15,USD,North Berkeley,Pleasant Hill
+431,NBRK,WCRK,3.95,USD,North Berkeley,Walnut Creek
+432,NBRK,LAFY,3.55,USD,North Berkeley,Lafayette
+433,NBRK,ORIN,2.9,USD,North Berkeley,Orinda
+434,NBRK,ROCK,2.15,USD,North Berkeley,Rockridge
+435,NBRK,WOAK,2.35,USD,North Berkeley,West Oakland
+436,NBRK,EMBR,4.6,USD,North Berkeley,Embarcadero
+437,NBRK,MONT,4.6,USD,North Berkeley,Montgomery Street
+438,NBRK,POWL,4.6,USD,North Berkeley,Powell Street
+439,NBRK,CIVC,4.6,USD,North Berkeley,Civic Center
+440,NBRK,16TH,4.65,USD,North Berkeley,16th Street Mission
+441,NBRK,24TH,4.75,USD,North Berkeley,24th Street Mission
+442,NBRK,GLEN,4.9,USD,North Berkeley,Glen Park
+443,NBRK,BALB,4.95,USD,North Berkeley,Balboa Park
+444,NBRK,DALY,5.1,USD,North Berkeley,Daly City
+445,NBRK,OAKL,9.75,USD,North Berkeley,Oakland City Center/12th St
+446,NBRK,WARM,5.8,USD,North Berkeley,Warm Springs/South Fremont
+447,NBRK,MLPT,6.6,USD,North Berkeley,Milpitas
+448,NBRK,BERY,6.9,USD,North Berkeley,Berryessa/North San Jose
+449,NBRK,PCTR,5.55,USD,North Berkeley,Pittsburg Center
+450,NBRK,ANTC,6.25,USD,North Berkeley,Antioch
+451,DBRK,SSAN,5.25,USD,Downtown Berkeley,South San Francisco
+452,DBRK,SBRN,5.5,USD,Downtown Berkeley,San Bruno
+453,DBRK,SFIA,10.7,USD,Downtown Berkeley,San Francisco International Airport
+454,DBRK,MLBR,5.9,USD,Downtown Berkeley,Millbrae
+455,DBRK,WDUB,5.05,USD,Downtown Berkeley,West Dublin/Pleasanton
+456,DBRK,RICH,2.15,USD,Downtown Berkeley,Richmond
+457,DBRK,DELN,2.15,USD,Downtown Berkeley,Del Norte
+458,DBRK,PLZA,2.15,USD,Downtown Berkeley,El Cerrito Plaza
+459,DBRK,NBRK,2.15,USD,Downtown Berkeley,North Berkeley
+460,DBRK,DBRK,6.4,USD,Downtown Berkeley,Downtown Berkeley
+461,DBRK,ASHB,2.15,USD,Downtown Berkeley,Ashby
+462,DBRK,MCAR,2.15,USD,Downtown Berkeley,MacArthur
+463,DBRK,19TH,2.15,USD,Downtown Berkeley,19th Street Oakland
+464,DBRK,12TH,2.15,USD,Downtown Berkeley,12th Street Oakland
+465,DBRK,LAKE,2.15,USD,Downtown Berkeley,Lake Merritt
+466,DBRK,FTVL,2.55,USD,Downtown Berkeley,Fruitvale
+467,DBRK,COLS,2.9,USD,Downtown Berkeley,Coliseum
+468,DBRK,SANL,3.45,USD,Downtown Berkeley,San Leandro
+469,DBRK,BAYF,3.7,USD,Downtown Berkeley,Bay Fair
+470,DBRK,HAYW,4,USD,Downtown Berkeley,Hayward
+471,DBRK,SHAY,4.35,USD,Downtown Berkeley,South Hayward
+472,DBRK,UCTY,4.9,USD,Downtown Berkeley,Union City
+473,DBRK,FRMT,5.3,USD,Downtown Berkeley,Fremont
+474,DBRK,CAST,4.05,USD,Downtown Berkeley,Castro Valley
+475,DBRK,DUBL,5.25,USD,Downtown Berkeley,Dublin/Pleasanton
+476,DBRK,PITT,5.3,USD,Downtown Berkeley,Pittsburg/Bay Point
+477,DBRK,NCON,4.75,USD,Downtown Berkeley,North Concord/Martinez
+478,DBRK,COLM,5,USD,Downtown Berkeley,Colma
+479,DBRK,CONC,4.5,USD,Downtown Berkeley,Concord
+480,DBRK,PHIL,4.05,USD,Downtown Berkeley,Pleasant Hill
+481,DBRK,WCRK,3.9,USD,Downtown Berkeley,Walnut Creek
+482,DBRK,LAFY,3.45,USD,Downtown Berkeley,Lafayette
+483,DBRK,ORIN,2.75,USD,Downtown Berkeley,Orinda
+484,DBRK,ROCK,2.15,USD,Downtown Berkeley,Rockridge
+485,DBRK,WOAK,2.25,USD,Downtown Berkeley,West Oakland
+486,DBRK,EMBR,4.5,USD,Downtown Berkeley,Embarcadero
+487,DBRK,MONT,4.5,USD,Downtown Berkeley,Montgomery Street
+488,DBRK,POWL,4.5,USD,Downtown Berkeley,Powell Street
+489,DBRK,CIVC,4.5,USD,Downtown Berkeley,Civic Center
+490,DBRK,16TH,4.6,USD,Downtown Berkeley,16th Street Mission
+491,DBRK,24TH,4.65,USD,Downtown Berkeley,24th Street Mission
+492,DBRK,GLEN,4.85,USD,Downtown Berkeley,Glen Park
+493,DBRK,BALB,4.9,USD,Downtown Berkeley,Balboa Park
+494,DBRK,DALY,5.05,USD,Downtown Berkeley,Daly City
+495,DBRK,OAKL,9.6,USD,Downtown Berkeley,Oakland City Center/12th St
+496,DBRK,WARM,5.75,USD,Downtown Berkeley,Warm Springs/South Fremont
+497,DBRK,MLPT,6.55,USD,Downtown Berkeley,Milpitas
+498,DBRK,BERY,6.85,USD,Downtown Berkeley,Berryessa/North San Jose
+499,DBRK,PCTR,5.5,USD,Downtown Berkeley,Pittsburg Center
+500,DBRK,ANTC,6.2,USD,Downtown Berkeley,Antioch
+501,ASHB,SSAN,5.15,USD,Ashby,South San Francisco
+502,ASHB,SBRN,5.4,USD,Ashby,San Bruno
+503,ASHB,SFIA,10.6,USD,Ashby,San Francisco International Airport
+504,ASHB,MLBR,5.8,USD,Ashby,Millbrae
+505,ASHB,WDUB,5,USD,Ashby,West Dublin/Pleasanton
+506,ASHB,RICH,2.15,USD,Ashby,Richmond
+507,ASHB,DELN,2.15,USD,Ashby,Del Norte
+508,ASHB,PLZA,2.15,USD,Ashby,El Cerrito Plaza
+509,ASHB,NBRK,2.15,USD,Ashby,North Berkeley
+510,ASHB,DBRK,2.15,USD,Ashby,Downtown Berkeley
+511,ASHB,ASHB,6.4,USD,Ashby,Ashby
+512,ASHB,MCAR,2.15,USD,Ashby,MacArthur
+513,ASHB,19TH,2.15,USD,Ashby,19th Street Oakland
+514,ASHB,12TH,2.15,USD,Ashby,12th Street Oakland
+515,ASHB,LAKE,2.15,USD,Ashby,Lake Merritt
+516,ASHB,FTVL,2.35,USD,Ashby,Fruitvale
+517,ASHB,COLS,2.7,USD,Ashby,Coliseum
+518,ASHB,SANL,3.25,USD,Ashby,San Leandro
+519,ASHB,BAYF,3.6,USD,Ashby,Bay Fair
+520,ASHB,HAYW,3.9,USD,Ashby,Hayward
+521,ASHB,SHAY,4.25,USD,Ashby,South Hayward
+522,ASHB,UCTY,4.8,USD,Ashby,Union City
+523,ASHB,FRMT,5.2,USD,Ashby,Fremont
+524,ASHB,CAST,3.95,USD,Ashby,Castro Valley
+525,ASHB,DUBL,5.15,USD,Ashby,Dublin/Pleasanton
+526,ASHB,PITT,5.3,USD,Ashby,Pittsburg/Bay Point
+527,ASHB,NCON,4.7,USD,Ashby,North Concord/Martinez
+528,ASHB,COLM,4.9,USD,Ashby,Colma
+529,ASHB,CONC,4.5,USD,Ashby,Concord
+530,ASHB,PHIL,4.05,USD,Ashby,Pleasant Hill
+531,ASHB,WCRK,3.85,USD,Ashby,Walnut Creek
+532,ASHB,LAFY,3.3,USD,Ashby,Lafayette
+533,ASHB,ORIN,2.6,USD,Ashby,Orinda
+534,ASHB,ROCK,2.15,USD,Ashby,Rockridge
+535,ASHB,WOAK,2.15,USD,Ashby,West Oakland
+536,ASHB,EMBR,4.3,USD,Ashby,Embarcadero
+537,ASHB,MONT,4.3,USD,Ashby,Montgomery Street
+538,ASHB,POWL,4.3,USD,Ashby,Powell Street
+539,ASHB,CIVC,4.3,USD,Ashby,Civic Center
+540,ASHB,16TH,4.5,USD,Ashby,16th Street Mission
+541,ASHB,24TH,4.55,USD,Ashby,24th Street Mission
+542,ASHB,GLEN,4.75,USD,Ashby,Glen Park
+543,ASHB,BALB,4.8,USD,Ashby,Balboa Park
+544,ASHB,DALY,4.95,USD,Ashby,Daly City
+545,ASHB,OAKL,9.45,USD,Ashby,Oakland City Center/12th St
+546,ASHB,WARM,5.65,USD,Ashby,Warm Springs/South Fremont
+547,ASHB,MLPT,6.45,USD,Ashby,Milpitas
+548,ASHB,BERY,6.75,USD,Ashby,Berryessa/North San Jose
+549,ASHB,PCTR,5.45,USD,Ashby,Pittsburg Center
+550,ASHB,ANTC,6.15,USD,Ashby,Antioch
+551,MCAR,SSAN,5,USD,MacArthur,South San Francisco
+552,MCAR,SBRN,5.3,USD,MacArthur,San Bruno
+553,MCAR,SFIA,10.45,USD,MacArthur,San Francisco International Airport
+554,MCAR,MLBR,5.65,USD,MacArthur,Millbrae
+555,MCAR,WDUB,4.85,USD,MacArthur,West Dublin/Pleasanton
+556,MCAR,RICH,3,USD,MacArthur,Richmond
+557,MCAR,DELN,2.6,USD,MacArthur,Del Norte
+558,MCAR,PLZA,2.3,USD,MacArthur,El Cerrito Plaza
+559,MCAR,NBRK,2.15,USD,MacArthur,North Berkeley
+560,MCAR,DBRK,2.15,USD,MacArthur,Downtown Berkeley
+561,MCAR,ASHB,2.15,USD,MacArthur,Ashby
+562,MCAR,MCAR,6.4,USD,MacArthur,MacArthur
+563,MCAR,19TH,2.15,USD,MacArthur,19th Street Oakland
+564,MCAR,12TH,2.15,USD,MacArthur,12th Street Oakland
+565,MCAR,LAKE,2.15,USD,MacArthur,Lake Merritt
+566,MCAR,FTVL,2.15,USD,MacArthur,Fruitvale
+567,MCAR,COLS,2.5,USD,MacArthur,Coliseum
+568,MCAR,SANL,3,USD,MacArthur,San Leandro
+569,MCAR,BAYF,3.4,USD,MacArthur,Bay Fair
+570,MCAR,HAYW,3.8,USD,MacArthur,Hayward
+571,MCAR,SHAY,4.1,USD,MacArthur,South Hayward
+572,MCAR,UCTY,4.65,USD,MacArthur,Union City
+573,MCAR,FRMT,5.05,USD,MacArthur,Fremont
+574,MCAR,CAST,3.8,USD,MacArthur,Castro Valley
+575,MCAR,DUBL,5,USD,MacArthur,Dublin/Pleasanton
+576,MCAR,PITT,5.3,USD,MacArthur,Pittsburg/Bay Point
+577,MCAR,NCON,4.7,USD,MacArthur,North Concord/Martinez
+578,MCAR,COLM,4.8,USD,MacArthur,Colma
+579,MCAR,CONC,4.5,USD,MacArthur,Concord
+580,MCAR,PHIL,4.05,USD,MacArthur,Pleasant Hill
+581,MCAR,WCRK,3.85,USD,MacArthur,Walnut Creek
+582,MCAR,LAFY,3.2,USD,MacArthur,Lafayette
+583,MCAR,ORIN,2.15,USD,MacArthur,Orinda
+584,MCAR,ROCK,2.15,USD,MacArthur,Rockridge
+585,MCAR,WOAK,2.15,USD,MacArthur,West Oakland
+586,MCAR,EMBR,4.05,USD,MacArthur,Embarcadero
+587,MCAR,MONT,4.05,USD,MacArthur,Montgomery Street
+588,MCAR,POWL,4.05,USD,MacArthur,Powell Street
+589,MCAR,CIVC,4.05,USD,MacArthur,Civic Center
+590,MCAR,16TH,4.25,USD,MacArthur,16th Street Mission
+591,MCAR,24TH,4.35,USD,MacArthur,24th Street Mission
+592,MCAR,GLEN,4.6,USD,MacArthur,Glen Park
+593,MCAR,BALB,4.65,USD,MacArthur,Balboa Park
+594,MCAR,DALY,4.8,USD,MacArthur,Daly City
+595,MCAR,OAKL,9.2,USD,MacArthur,Oakland City Center/12th St
+596,MCAR,WARM,5.5,USD,MacArthur,Warm Springs/South Fremont
+597,MCAR,MLPT,6.3,USD,MacArthur,Milpitas
+598,MCAR,BERY,6.6,USD,MacArthur,Berryessa/North San Jose
+599,MCAR,PCTR,5.45,USD,MacArthur,Pittsburg Center
+600,MCAR,ANTC,6.15,USD,MacArthur,Antioch
+601,19TH,SSAN,4.9,USD,19th Street Oakland,South San Francisco
+602,19TH,SBRN,5.2,USD,19th Street Oakland,San Bruno
+603,19TH,SFIA,10.35,USD,19th Street Oakland,San Francisco International Airport
+604,19TH,MLBR,5.55,USD,19th Street Oakland,Millbrae
+605,19TH,WDUB,4.75,USD,19th Street Oakland,West Dublin/Pleasanton
+606,19TH,RICH,3.2,USD,19th Street Oakland,Richmond
+607,19TH,DELN,2.85,USD,19th Street Oakland,Del Norte
+608,19TH,PLZA,2.55,USD,19th Street Oakland,El Cerrito Plaza
+609,19TH,NBRK,2.15,USD,19th Street Oakland,North Berkeley
+610,19TH,DBRK,2.15,USD,19th Street Oakland,Downtown Berkeley
+611,19TH,ASHB,2.15,USD,19th Street Oakland,Ashby
+612,19TH,MCAR,2.15,USD,19th Street Oakland,MacArthur
+613,19TH,19TH,6.4,USD,19th Street Oakland,19th Street Oakland
+614,19TH,12TH,2.15,USD,19th Street Oakland,12th Street Oakland
+615,19TH,LAKE,2.15,USD,19th Street Oakland,Lake Merritt
+616,19TH,FTVL,2.15,USD,19th Street Oakland,Fruitvale
+617,19TH,COLS,2.15,USD,19th Street Oakland,Coliseum
+618,19TH,SANL,2.75,USD,19th Street Oakland,San Leandro
+619,19TH,BAYF,3.2,USD,19th Street Oakland,Bay Fair
+620,19TH,HAYW,3.7,USD,19th Street Oakland,Hayward
+621,19TH,SHAY,4,USD,19th Street Oakland,South Hayward
+622,19TH,UCTY,4.55,USD,19th Street Oakland,Union City
+623,19TH,FRMT,4.95,USD,19th Street Oakland,Fremont
+624,19TH,CAST,3.7,USD,19th Street Oakland,Castro Valley
+625,19TH,DUBL,4.9,USD,19th Street Oakland,Dublin/Pleasanton
+626,19TH,PITT,5.3,USD,19th Street Oakland,Pittsburg/Bay Point
+627,19TH,NCON,4.75,USD,19th Street Oakland,North Concord/Martinez
+628,19TH,COLM,4.7,USD,19th Street Oakland,Colma
+629,19TH,CONC,4.5,USD,19th Street Oakland,Concord
+630,19TH,PHIL,4.05,USD,19th Street Oakland,Pleasant Hill
+631,19TH,WCRK,3.9,USD,19th Street Oakland,Walnut Creek
+632,19TH,LAFY,3.4,USD,19th Street Oakland,Lafayette
+633,19TH,ORIN,2.7,USD,19th Street Oakland,Orinda
+634,19TH,ROCK,2.15,USD,19th Street Oakland,Rockridge
+635,19TH,WOAK,2.15,USD,19th Street Oakland,West Oakland
+636,19TH,EMBR,3.85,USD,19th Street Oakland,Embarcadero
+637,19TH,MONT,3.85,USD,19th Street Oakland,Montgomery Street
+638,19TH,POWL,3.85,USD,19th Street Oakland,Powell Street
+639,19TH,CIVC,3.85,USD,19th Street Oakland,Civic Center
+640,19TH,16TH,4.05,USD,19th Street Oakland,16th Street Mission
+641,19TH,24TH,4.15,USD,19th Street Oakland,24th Street Mission
+642,19TH,GLEN,4.4,USD,19th Street Oakland,Glen Park
+643,19TH,BALB,4.55,USD,19th Street Oakland,Balboa Park
+644,19TH,DALY,4.7,USD,19th Street Oakland,Daly City
+645,19TH,OAKL,8.85,USD,19th Street Oakland,Oakland City Center/12th St
+646,19TH,WARM,5.4,USD,19th Street Oakland,Warm Springs/South Fremont
+647,19TH,MLPT,6.2,USD,19th Street Oakland,Milpitas
+648,19TH,BERY,6.5,USD,19th Street Oakland,Berryessa/North San Jose
+649,19TH,PCTR,5.5,USD,19th Street Oakland,Pittsburg Center
+650,19TH,ANTC,6.2,USD,19th Street Oakland,Antioch
+651,12TH,SSAN,4.9,USD,12th Street Oakland,South San Francisco
+652,12TH,SBRN,5.2,USD,12th Street Oakland,San Bruno
+653,12TH,SFIA,10.35,USD,12th Street Oakland,San Francisco International Airport
+654,12TH,MLBR,5.55,USD,12th Street Oakland,Millbrae
+655,12TH,WDUB,4.75,USD,12th Street Oakland,West Dublin/Pleasanton
+656,12TH,RICH,3.2,USD,12th Street Oakland,Richmond
+657,12TH,DELN,2.85,USD,12th Street Oakland,Del Norte
+658,12TH,PLZA,2.55,USD,12th Street Oakland,El Cerrito Plaza
+659,12TH,NBRK,2.15,USD,12th Street Oakland,North Berkeley
+660,12TH,DBRK,2.15,USD,12th Street Oakland,Downtown Berkeley
+661,12TH,ASHB,2.15,USD,12th Street Oakland,Ashby
+662,12TH,MCAR,2.15,USD,12th Street Oakland,MacArthur
+663,12TH,19TH,2.15,USD,12th Street Oakland,19th Street Oakland
+664,12TH,12TH,6.4,USD,12th Street Oakland,12th Street Oakland
+665,12TH,LAKE,2.15,USD,12th Street Oakland,Lake Merritt
+666,12TH,FTVL,2.15,USD,12th Street Oakland,Fruitvale
+667,12TH,COLS,2.15,USD,12th Street Oakland,Coliseum
+668,12TH,SANL,2.75,USD,12th Street Oakland,San Leandro
+669,12TH,BAYF,3.2,USD,12th Street Oakland,Bay Fair
+670,12TH,HAYW,3.7,USD,12th Street Oakland,Hayward
+671,12TH,SHAY,4,USD,12th Street Oakland,South Hayward
+672,12TH,UCTY,4.55,USD,12th Street Oakland,Union City
+673,12TH,FRMT,4.95,USD,12th Street Oakland,Fremont
+674,12TH,CAST,3.7,USD,12th Street Oakland,Castro Valley
+675,12TH,DUBL,4.9,USD,12th Street Oakland,Dublin/Pleasanton
+676,12TH,PITT,5.3,USD,12th Street Oakland,Pittsburg/Bay Point
+677,12TH,NCON,4.75,USD,12th Street Oakland,North Concord/Martinez
+678,12TH,COLM,4.7,USD,12th Street Oakland,Colma
+679,12TH,CONC,4.5,USD,12th Street Oakland,Concord
+680,12TH,PHIL,4.05,USD,12th Street Oakland,Pleasant Hill
+681,12TH,WCRK,3.9,USD,12th Street Oakland,Walnut Creek
+682,12TH,LAFY,3.4,USD,12th Street Oakland,Lafayette
+683,12TH,ORIN,2.7,USD,12th Street Oakland,Orinda
+684,12TH,ROCK,2.15,USD,12th Street Oakland,Rockridge
+685,12TH,WOAK,2.15,USD,12th Street Oakland,West Oakland
+686,12TH,EMBR,3.85,USD,12th Street Oakland,Embarcadero
+687,12TH,MONT,3.85,USD,12th Street Oakland,Montgomery Street
+688,12TH,POWL,3.85,USD,12th Street Oakland,Powell Street
+689,12TH,CIVC,3.85,USD,12th Street Oakland,Civic Center
+690,12TH,16TH,4.05,USD,12th Street Oakland,16th Street Mission
+691,12TH,24TH,4.15,USD,12th Street Oakland,24th Street Mission
+692,12TH,GLEN,4.4,USD,12th Street Oakland,Glen Park
+693,12TH,BALB,4.55,USD,12th Street Oakland,Balboa Park
+694,12TH,DALY,4.7,USD,12th Street Oakland,Daly City
+695,12TH,OAKL,8.85,USD,12th Street Oakland,Oakland City Center/12th St
+696,12TH,WARM,5.4,USD,12th Street Oakland,Warm Springs/South Fremont
+697,12TH,MLPT,6.2,USD,12th Street Oakland,Milpitas
+698,12TH,BERY,6.5,USD,12th Street Oakland,Berryessa/North San Jose
+699,12TH,PCTR,5.5,USD,12th Street Oakland,Pittsburg Center
+700,12TH,ANTC,6.2,USD,12th Street Oakland,Antioch
+701,LAKE,SSAN,4.9,USD,Lake Merritt,South San Francisco
+702,LAKE,SBRN,5.2,USD,Lake Merritt,San Bruno
+703,LAKE,SFIA,10.35,USD,Lake Merritt,San Francisco International Airport
+704,LAKE,MLBR,5.55,USD,Lake Merritt,Millbrae
+705,LAKE,WDUB,4.75,USD,Lake Merritt,West Dublin/Pleasanton
+706,LAKE,RICH,3.2,USD,Lake Merritt,Richmond
+707,LAKE,DELN,2.85,USD,Lake Merritt,Del Norte
+708,LAKE,PLZA,2.55,USD,Lake Merritt,El Cerrito Plaza
+709,LAKE,NBRK,2.15,USD,Lake Merritt,North Berkeley
+710,LAKE,DBRK,2.15,USD,Lake Merritt,Downtown Berkeley
+711,LAKE,ASHB,2.15,USD,Lake Merritt,Ashby
+712,LAKE,MCAR,2.15,USD,Lake Merritt,MacArthur
+713,LAKE,19TH,2.15,USD,Lake Merritt,19th Street Oakland
+714,LAKE,12TH,2.15,USD,Lake Merritt,12th Street Oakland
+715,LAKE,LAKE,6.4,USD,Lake Merritt,Lake Merritt
+716,LAKE,FTVL,2.15,USD,Lake Merritt,Fruitvale
+717,LAKE,COLS,2.15,USD,Lake Merritt,Coliseum
+718,LAKE,SANL,2.75,USD,Lake Merritt,San Leandro
+719,LAKE,BAYF,3.2,USD,Lake Merritt,Bay Fair
+720,LAKE,HAYW,3.7,USD,Lake Merritt,Hayward
+721,LAKE,SHAY,4,USD,Lake Merritt,South Hayward
+722,LAKE,UCTY,4.55,USD,Lake Merritt,Union City
+723,LAKE,FRMT,4.95,USD,Lake Merritt,Fremont
+724,LAKE,CAST,3.7,USD,Lake Merritt,Castro Valley
+725,LAKE,DUBL,4.9,USD,Lake Merritt,Dublin/Pleasanton
+726,LAKE,PITT,5.3,USD,Lake Merritt,Pittsburg/Bay Point
+727,LAKE,NCON,4.75,USD,Lake Merritt,North Concord/Martinez
+728,LAKE,COLM,4.7,USD,Lake Merritt,Colma
+729,LAKE,CONC,4.5,USD,Lake Merritt,Concord
+730,LAKE,PHIL,4.05,USD,Lake Merritt,Pleasant Hill
+731,LAKE,WCRK,3.9,USD,Lake Merritt,Walnut Creek
+732,LAKE,LAFY,3.4,USD,Lake Merritt,Lafayette
+733,LAKE,ORIN,2.7,USD,Lake Merritt,Orinda
+734,LAKE,ROCK,2.15,USD,Lake Merritt,Rockridge
+735,LAKE,WOAK,2.15,USD,Lake Merritt,West Oakland
+736,LAKE,EMBR,3.85,USD,Lake Merritt,Embarcadero
+737,LAKE,MONT,3.85,USD,Lake Merritt,Montgomery Street
+738,LAKE,POWL,3.85,USD,Lake Merritt,Powell Street
+739,LAKE,CIVC,3.85,USD,Lake Merritt,Civic Center
+740,LAKE,16TH,4.05,USD,Lake Merritt,16th Street Mission
+741,LAKE,24TH,4.15,USD,Lake Merritt,24th Street Mission
+742,LAKE,GLEN,4.4,USD,Lake Merritt,Glen Park
+743,LAKE,BALB,4.55,USD,Lake Merritt,Balboa Park
+744,LAKE,DALY,4.7,USD,Lake Merritt,Daly City
+745,LAKE,OAKL,8.85,USD,Lake Merritt,Oakland City Center/12th St
+746,LAKE,WARM,5.4,USD,Lake Merritt,Warm Springs/South Fremont
+747,LAKE,MLPT,6.2,USD,Lake Merritt,Milpitas
+748,LAKE,BERY,6.5,USD,Lake Merritt,Berryessa/North San Jose
+749,LAKE,PCTR,5.5,USD,Lake Merritt,Pittsburg Center
+750,LAKE,ANTC,6.2,USD,Lake Merritt,Antioch
+751,FTVL,SSAN,5.2,USD,Fruitvale,South San Francisco
+752,FTVL,SBRN,5.5,USD,Fruitvale,San Bruno
+753,FTVL,SFIA,10.65,USD,Fruitvale,San Francisco International Airport
+754,FTVL,MLBR,5.85,USD,Fruitvale,Millbrae
+755,FTVL,WDUB,4.45,USD,Fruitvale,West Dublin/Pleasanton
+756,FTVL,RICH,3.55,USD,Fruitvale,Richmond
+757,FTVL,DELN,3.35,USD,Fruitvale,Del Norte
+758,FTVL,PLZA,3.05,USD,Fruitvale,El Cerrito Plaza
+759,FTVL,NBRK,2.7,USD,Fruitvale,North Berkeley
+760,FTVL,DBRK,2.55,USD,Fruitvale,Downtown Berkeley
+761,FTVL,ASHB,2.35,USD,Fruitvale,Ashby
+762,FTVL,MCAR,2.15,USD,Fruitvale,MacArthur
+763,FTVL,19TH,2.15,USD,Fruitvale,19th Street Oakland
+764,FTVL,12TH,2.15,USD,Fruitvale,12th Street Oakland
+765,FTVL,LAKE,2.15,USD,Fruitvale,Lake Merritt
+766,FTVL,FTVL,6.4,USD,Fruitvale,Fruitvale
+767,FTVL,COLS,2.15,USD,Fruitvale,Coliseum
+768,FTVL,SANL,2.15,USD,Fruitvale,San Leandro
+769,FTVL,BAYF,2.7,USD,Fruitvale,Bay Fair
+770,FTVL,HAYW,3.2,USD,Fruitvale,Hayward
+771,FTVL,SHAY,3.7,USD,Fruitvale,South Hayward
+772,FTVL,UCTY,4.25,USD,Fruitvale,Union City
+773,FTVL,FRMT,4.65,USD,Fruitvale,Fremont
+774,FTVL,CAST,3.2,USD,Fruitvale,Castro Valley
+775,FTVL,DUBL,4.6,USD,Fruitvale,Dublin/Pleasanton
+776,FTVL,PITT,5.5,USD,Fruitvale,Pittsburg/Bay Point
+777,FTVL,NCON,4.9,USD,Fruitvale,North Concord/Martinez
+778,FTVL,COLM,5,USD,Fruitvale,Colma
+779,FTVL,CONC,4.7,USD,Fruitvale,Concord
+780,FTVL,PHIL,4.25,USD,Fruitvale,Pleasant Hill
+781,FTVL,WCRK,4.05,USD,Fruitvale,Walnut Creek
+782,FTVL,LAFY,3.65,USD,Fruitvale,Lafayette
+783,FTVL,ORIN,3.05,USD,Fruitvale,Orinda
+784,FTVL,ROCK,2.2,USD,Fruitvale,Rockridge
+785,FTVL,WOAK,2.15,USD,Fruitvale,West Oakland
+786,FTVL,EMBR,4.3,USD,Fruitvale,Embarcadero
+787,FTVL,MONT,4.3,USD,Fruitvale,Montgomery Street
+788,FTVL,POWL,4.3,USD,Fruitvale,Powell Street
+789,FTVL,CIVC,4.3,USD,Fruitvale,Civic Center
+790,FTVL,16TH,4.5,USD,Fruitvale,16th Street Mission
+791,FTVL,24TH,4.65,USD,Fruitvale,24th Street Mission
+792,FTVL,GLEN,4.8,USD,Fruitvale,Glen Park
+793,FTVL,BALB,4.85,USD,Fruitvale,Balboa Park
+794,FTVL,DALY,5,USD,Fruitvale,Daly City
+795,FTVL,OAKL,8.85,USD,Fruitvale,Oakland City Center/12th St
+796,FTVL,WARM,5.15,USD,Fruitvale,Warm Springs/South Fremont
+797,FTVL,MLPT,5.95,USD,Fruitvale,Milpitas
+798,FTVL,BERY,6.2,USD,Fruitvale,Berryessa/North San Jose
+799,FTVL,PCTR,5.65,USD,Fruitvale,Pittsburg Center
+800,FTVL,ANTC,6.35,USD,Fruitvale,Antioch
+801,COLS,SSAN,5.4,USD,Coliseum,South San Francisco
+802,COLS,SBRN,5.7,USD,Coliseum,San Bruno
+803,COLS,SFIA,10.85,USD,Coliseum,San Francisco International Airport
+804,COLS,MLBR,6.05,USD,Coliseum,Millbrae
+805,COLS,WDUB,4.2,USD,Coliseum,West Dublin/Pleasanton
+806,COLS,RICH,3.8,USD,Coliseum,Richmond
+807,COLS,DELN,3.55,USD,Coliseum,Del Norte
+808,COLS,PLZA,3.4,USD,Coliseum,El Cerrito Plaza
+809,COLS,NBRK,3.05,USD,Coliseum,North Berkeley
+810,COLS,DBRK,2.9,USD,Coliseum,Downtown Berkeley
+811,COLS,ASHB,2.7,USD,Coliseum,Ashby
+812,COLS,MCAR,2.5,USD,Coliseum,MacArthur
+813,COLS,19TH,2.15,USD,Coliseum,19th Street Oakland
+814,COLS,12TH,2.15,USD,Coliseum,12th Street Oakland
+815,COLS,LAKE,2.15,USD,Coliseum,Lake Merritt
+816,COLS,FTVL,2.15,USD,Coliseum,Fruitvale
+817,COLS,COLS,6.4,USD,Coliseum,Coliseum
+818,COLS,SANL,2.15,USD,Coliseum,San Leandro
+819,COLS,BAYF,2.15,USD,Coliseum,Bay Fair
+820,COLS,HAYW,2.85,USD,Coliseum,Hayward
+821,COLS,SHAY,3.35,USD,Coliseum,South Hayward
+822,COLS,UCTY,4.05,USD,Coliseum,Union City
+823,COLS,FRMT,4.45,USD,Coliseum,Fremont
+824,COLS,CAST,2.85,USD,Coliseum,Castro Valley
+825,COLS,DUBL,4.4,USD,Coliseum,Dublin/Pleasanton
+826,COLS,PITT,5.7,USD,Coliseum,Pittsburg/Bay Point
+827,COLS,NCON,5.15,USD,Coliseum,North Concord/Martinez
+828,COLS,COLM,5.2,USD,Coliseum,Colma
+829,COLS,CONC,4.9,USD,Coliseum,Concord
+830,COLS,PHIL,4.45,USD,Coliseum,Pleasant Hill
+831,COLS,WCRK,4.3,USD,Coliseum,Walnut Creek
+832,COLS,LAFY,3.9,USD,Coliseum,Lafayette
+833,COLS,ORIN,3.45,USD,Coliseum,Orinda
+834,COLS,ROCK,2.55,USD,Coliseum,Rockridge
+835,COLS,WOAK,2.4,USD,Coliseum,West Oakland
+836,COLS,EMBR,4.65,USD,Coliseum,Embarcadero
+837,COLS,MONT,4.65,USD,Coliseum,Montgomery Street
+838,COLS,POWL,4.65,USD,Coliseum,Powell Street
+839,COLS,CIVC,4.65,USD,Coliseum,Civic Center
+840,COLS,16TH,4.8,USD,Coliseum,16th Street Mission
+841,COLS,24TH,4.85,USD,Coliseum,24th Street Mission
+842,COLS,GLEN,5,USD,Coliseum,Glen Park
+843,COLS,BALB,5.1,USD,Coliseum,Balboa Park
+844,COLS,DALY,5.25,USD,Coliseum,Daly City
+845,COLS,OAKL,6.7,USD,Coliseum,Oakland City Center/12th St
+846,COLS,WARM,4.9,USD,Coliseum,Warm Springs/South Fremont
+847,COLS,MLPT,5.7,USD,Coliseum,Milpitas
+848,COLS,BERY,6,USD,Coliseum,Berryessa/North San Jose
+849,COLS,PCTR,5.9,USD,Coliseum,Pittsburg Center
+850,COLS,ANTC,6.6,USD,Coliseum,Antioch
+851,SANL,SSAN,5.75,USD,San Leandro,South San Francisco
+852,SANL,SBRN,6,USD,San Leandro,San Bruno
+853,SANL,SFIA,11.2,USD,San Leandro,San Francisco International Airport
+854,SANL,MLBR,6.4,USD,San Leandro,Millbrae
+855,SANL,WDUB,3.95,USD,San Leandro,West Dublin/Pleasanton
+856,SANL,RICH,4.15,USD,San Leandro,Richmond
+857,SANL,DELN,3.9,USD,San Leandro,Del Norte
+858,SANL,PLZA,3.7,USD,San Leandro,El Cerrito Plaza
+859,SANL,NBRK,3.5,USD,San Leandro,North Berkeley
+860,SANL,DBRK,3.45,USD,San Leandro,Downtown Berkeley
+861,SANL,ASHB,3.25,USD,San Leandro,Ashby
+862,SANL,MCAR,3,USD,San Leandro,MacArthur
+863,SANL,19TH,2.75,USD,San Leandro,19th Street Oakland
+864,SANL,12TH,2.75,USD,San Leandro,12th Street Oakland
+865,SANL,LAKE,2.75,USD,San Leandro,Lake Merritt
+866,SANL,FTVL,2.15,USD,San Leandro,Fruitvale
+867,SANL,COLS,2.15,USD,San Leandro,Coliseum
+868,SANL,SANL,6.4,USD,San Leandro,San Leandro
+869,SANL,BAYF,2.15,USD,San Leandro,Bay Fair
+870,SANL,HAYW,2.15,USD,San Leandro,Hayward
+871,SANL,SHAY,2.85,USD,San Leandro,South Hayward
+872,SANL,UCTY,3.65,USD,San Leandro,Union City
+873,SANL,FRMT,4.1,USD,San Leandro,Fremont
+874,SANL,CAST,2.15,USD,San Leandro,Castro Valley
+875,SANL,DUBL,4.1,USD,San Leandro,Dublin/Pleasanton
+876,SANL,PITT,6,USD,San Leandro,Pittsburg/Bay Point
+877,SANL,NCON,5.45,USD,San Leandro,North Concord/Martinez
+878,SANL,COLM,5.55,USD,San Leandro,Colma
+879,SANL,CONC,5.2,USD,San Leandro,Concord
+880,SANL,PHIL,4.8,USD,San Leandro,Pleasant Hill
+881,SANL,WCRK,4.6,USD,San Leandro,Walnut Creek
+882,SANL,LAFY,4.2,USD,San Leandro,Lafayette
+883,SANL,ORIN,3.8,USD,San Leandro,Orinda
+884,SANL,ROCK,3.05,USD,San Leandro,Rockridge
+885,SANL,WOAK,2.95,USD,San Leandro,West Oakland
+886,SANL,EMBR,5.05,USD,San Leandro,Embarcadero
+887,SANL,MONT,5.05,USD,San Leandro,Montgomery Street
+888,SANL,POWL,5.05,USD,San Leandro,Powell Street
+889,SANL,CIVC,5.05,USD,San Leandro,Civic Center
+890,SANL,16TH,5.15,USD,San Leandro,16th Street Mission
+891,SANL,24TH,5.15,USD,San Leandro,24th Street Mission
+892,SANL,GLEN,5.35,USD,San Leandro,Glen Park
+893,SANL,BALB,5.45,USD,San Leandro,Balboa Park
+894,SANL,DALY,5.55,USD,San Leandro,Daly City
+895,SANL,OAKL,8.85,USD,San Leandro,Oakland City Center/12th St
+896,SANL,WARM,4.6,USD,San Leandro,Warm Springs/South Fremont
+897,SANL,MLPT,5.4,USD,San Leandro,Milpitas
+898,SANL,BERY,5.65,USD,San Leandro,Berryessa/North San Jose
+899,SANL,PCTR,6.2,USD,San Leandro,Pittsburg Center
+900,SANL,ANTC,6.9,USD,San Leandro,Antioch
+901,BAYF,SSAN,6,USD,Bay Fair,South San Francisco
+902,BAYF,SBRN,6.3,USD,Bay Fair,San Bruno
+903,BAYF,SFIA,11.45,USD,Bay Fair,San Francisco International Airport
+904,BAYF,MLBR,6.65,USD,Bay Fair,Millbrae
+905,BAYF,WDUB,2.15,USD,Bay Fair,West Dublin/Pleasanton
+906,BAYF,RICH,4.4,USD,Bay Fair,Richmond
+907,BAYF,DELN,4.15,USD,Bay Fair,Del Norte
+908,BAYF,PLZA,3.95,USD,Bay Fair,El Cerrito Plaza
+909,BAYF,NBRK,3.75,USD,Bay Fair,North Berkeley
+910,BAYF,DBRK,3.7,USD,Bay Fair,Downtown Berkeley
+911,BAYF,ASHB,3.6,USD,Bay Fair,Ashby
+912,BAYF,MCAR,3.4,USD,Bay Fair,MacArthur
+913,BAYF,19TH,3.2,USD,Bay Fair,19th Street Oakland
+914,BAYF,12TH,3.2,USD,Bay Fair,12th Street Oakland
+915,BAYF,LAKE,3.2,USD,Bay Fair,Lake Merritt
+916,BAYF,FTVL,2.7,USD,Bay Fair,Fruitvale
+917,BAYF,COLS,2.15,USD,Bay Fair,Coliseum
+918,BAYF,SANL,2.15,USD,Bay Fair,San Leandro
+919,BAYF,BAYF,6.4,USD,Bay Fair,Bay Fair
+920,BAYF,HAYW,2.15,USD,Bay Fair,Hayward
+921,BAYF,SHAY,2.15,USD,Bay Fair,South Hayward
+922,BAYF,UCTY,2.15,USD,Bay Fair,Union City
+923,BAYF,FRMT,2.15,USD,Bay Fair,Fremont
+924,BAYF,CAST,2.15,USD,Bay Fair,Castro Valley
+925,BAYF,DUBL,2.15,USD,Bay Fair,Dublin/Pleasanton
+926,BAYF,PITT,6.3,USD,Bay Fair,Pittsburg/Bay Point
+927,BAYF,NCON,5.7,USD,Bay Fair,North Concord/Martinez
+928,BAYF,COLM,5.8,USD,Bay Fair,Colma
+929,BAYF,CONC,5.5,USD,Bay Fair,Concord
+930,BAYF,PHIL,5.05,USD,Bay Fair,Pleasant Hill
+931,BAYF,WCRK,4.85,USD,Bay Fair,Walnut Creek
+932,BAYF,LAFY,4.45,USD,Bay Fair,Lafayette
+933,BAYF,ORIN,4.05,USD,Bay Fair,Orinda
+934,BAYF,ROCK,3.45,USD,Bay Fair,Rockridge
+935,BAYF,WOAK,3.4,USD,Bay Fair,West Oakland
+936,BAYF,EMBR,5.3,USD,Bay Fair,Embarcadero
+937,BAYF,MONT,5.3,USD,Bay Fair,Montgomery Street
+938,BAYF,POWL,5.3,USD,Bay Fair,Powell Street
+939,BAYF,CIVC,5.3,USD,Bay Fair,Civic Center
+940,BAYF,16TH,5.4,USD,Bay Fair,16th Street Mission
+941,BAYF,24TH,5.45,USD,Bay Fair,24th Street Mission
+942,BAYF,GLEN,5.6,USD,Bay Fair,Glen Park
+943,BAYF,BALB,5.7,USD,Bay Fair,Balboa Park
+944,BAYF,DALY,5.8,USD,Bay Fair,Daly City
+945,BAYF,OAKL,8.85,USD,Bay Fair,Oakland City Center/12th St
+946,BAYF,WARM,4.3,USD,Bay Fair,Warm Springs/South Fremont
+947,BAYF,MLPT,5.15,USD,Bay Fair,Milpitas
+948,BAYF,BERY,5.4,USD,Bay Fair,Berryessa/North San Jose
+949,BAYF,PCTR,6.45,USD,Bay Fair,Pittsburg Center
+950,BAYF,ANTC,7.15,USD,Bay Fair,Antioch
+951,HAYW,SSAN,6.3,USD,Hayward,South San Francisco
+952,HAYW,SBRN,6.6,USD,Hayward,San Bruno
+953,HAYW,SFIA,11.75,USD,Hayward,San Francisco International Airport
+954,HAYW,MLBR,7,USD,Hayward,Millbrae
+955,HAYW,WDUB,3.95,USD,Hayward,West Dublin/Pleasanton
+956,HAYW,RICH,4.7,USD,Hayward,Richmond
+957,HAYW,DELN,4.45,USD,Hayward,Del Norte
+958,HAYW,PLZA,4.3,USD,Hayward,El Cerrito Plaza
+959,HAYW,NBRK,4.1,USD,Hayward,North Berkeley
+960,HAYW,DBRK,4,USD,Hayward,Downtown Berkeley
+961,HAYW,ASHB,3.9,USD,Hayward,Ashby
+962,HAYW,MCAR,3.8,USD,Hayward,MacArthur
+963,HAYW,19TH,3.7,USD,Hayward,19th Street Oakland
+964,HAYW,12TH,3.7,USD,Hayward,12th Street Oakland
+965,HAYW,LAKE,3.7,USD,Hayward,Lake Merritt
+966,HAYW,FTVL,3.2,USD,Hayward,Fruitvale
+967,HAYW,COLS,2.85,USD,Hayward,Coliseum
+968,HAYW,SANL,2.15,USD,Hayward,San Leandro
+969,HAYW,BAYF,2.15,USD,Hayward,Bay Fair
+970,HAYW,HAYW,6.4,USD,Hayward,Hayward
+971,HAYW,SHAY,2.15,USD,Hayward,South Hayward
+972,HAYW,UCTY,2.15,USD,Hayward,Union City
+973,HAYW,FRMT,2.15,USD,Hayward,Fremont
+974,HAYW,CAST,2.15,USD,Hayward,Castro Valley
+975,HAYW,DUBL,4.15,USD,Hayward,Dublin/Pleasanton
+976,HAYW,PITT,6.6,USD,Hayward,Pittsburg/Bay Point
+977,HAYW,NCON,6,USD,Hayward,North Concord/Martinez
+978,HAYW,COLM,6.1,USD,Hayward,Colma
+979,HAYW,CONC,5.8,USD,Hayward,Concord
+980,HAYW,PHIL,5.35,USD,Hayward,Pleasant Hill
+981,HAYW,WCRK,5.2,USD,Hayward,Walnut Creek
+982,HAYW,LAFY,4.8,USD,Hayward,Lafayette
+983,HAYW,ORIN,4.35,USD,Hayward,Orinda
+984,HAYW,ROCK,3.8,USD,Hayward,Rockridge
+985,HAYW,WOAK,3.8,USD,Hayward,West Oakland
+986,HAYW,EMBR,5.6,USD,Hayward,Embarcadero
+987,HAYW,MONT,5.6,USD,Hayward,Montgomery Street
+988,HAYW,POWL,5.6,USD,Hayward,Powell Street
+989,HAYW,CIVC,5.6,USD,Hayward,Civic Center
+990,HAYW,16TH,5.7,USD,Hayward,16th Street Mission
+991,HAYW,24TH,5.75,USD,Hayward,24th Street Mission
+992,HAYW,GLEN,5.9,USD,Hayward,Glen Park
+993,HAYW,BALB,6,USD,Hayward,Balboa Park
+994,HAYW,DALY,6.15,USD,Hayward,Daly City
+995,HAYW,OAKL,9.55,USD,Hayward,Oakland City Center/12th St
+996,HAYW,WARM,4,USD,Hayward,Warm Springs/South Fremont
+997,HAYW,MLPT,4.8,USD,Hayward,Milpitas
+998,HAYW,BERY,5.1,USD,Hayward,Berryessa/North San Jose
+999,HAYW,PCTR,6.75,USD,Hayward,Pittsburg Center
+1000,HAYW,ANTC,7.45,USD,Hayward,Antioch
+1001,SHAY,SSAN,6.65,USD,South Hayward,South San Francisco
+1002,SHAY,SBRN,6.95,USD,South Hayward,San Bruno
+1003,SHAY,SFIA,12.1,USD,South Hayward,San Francisco International Airport
+1004,SHAY,MLBR,7.3,USD,South Hayward,Millbrae
+1005,SHAY,WDUB,4.3,USD,South Hayward,West Dublin/Pleasanton
+1006,SHAY,RICH,5.05,USD,South Hayward,Richmond
+1007,SHAY,DELN,4.8,USD,South Hayward,Del Norte
+1008,SHAY,PLZA,4.6,USD,South Hayward,El Cerrito Plaza
+1009,SHAY,NBRK,4.4,USD,South Hayward,North Berkeley
+1010,SHAY,DBRK,4.35,USD,South Hayward,Downtown Berkeley
+1011,SHAY,ASHB,4.25,USD,South Hayward,Ashby
+1012,SHAY,MCAR,4.1,USD,South Hayward,MacArthur
+1013,SHAY,19TH,4,USD,South Hayward,19th Street Oakland
+1014,SHAY,12TH,4,USD,South Hayward,12th Street Oakland
+1015,SHAY,LAKE,4,USD,South Hayward,Lake Merritt
+1016,SHAY,FTVL,3.7,USD,South Hayward,Fruitvale
+1017,SHAY,COLS,3.35,USD,South Hayward,Coliseum
+1018,SHAY,SANL,2.85,USD,South Hayward,San Leandro
+1019,SHAY,BAYF,2.15,USD,South Hayward,Bay Fair
+1020,SHAY,HAYW,2.15,USD,South Hayward,Hayward
+1021,SHAY,SHAY,6.4,USD,South Hayward,South Hayward
+1022,SHAY,UCTY,2.15,USD,South Hayward,Union City
+1023,SHAY,FRMT,2.15,USD,South Hayward,Fremont
+1024,SHAY,CAST,2.9,USD,South Hayward,Castro Valley
+1025,SHAY,DUBL,4.45,USD,South Hayward,Dublin/Pleasanton
+1026,SHAY,PITT,6.95,USD,South Hayward,Pittsburg/Bay Point
+1027,SHAY,NCON,6.35,USD,South Hayward,North Concord/Martinez
+1028,SHAY,COLM,6.45,USD,South Hayward,Colma
+1029,SHAY,CONC,6.15,USD,South Hayward,Concord
+1030,SHAY,PHIL,5.65,USD,South Hayward,Pleasant Hill
+1031,SHAY,WCRK,5.5,USD,South Hayward,Walnut Creek
+1032,SHAY,LAFY,5.1,USD,South Hayward,Lafayette
+1033,SHAY,ORIN,4.7,USD,South Hayward,Orinda
+1034,SHAY,ROCK,4.1,USD,South Hayward,Rockridge
+1035,SHAY,WOAK,4.1,USD,South Hayward,West Oakland
+1036,SHAY,EMBR,5.95,USD,South Hayward,Embarcadero
+1037,SHAY,MONT,5.95,USD,South Hayward,Montgomery Street
+1038,SHAY,POWL,5.95,USD,South Hayward,Powell Street
+1039,SHAY,CIVC,5.95,USD,South Hayward,Civic Center
+1040,SHAY,16TH,6,USD,South Hayward,16th Street Mission
+1041,SHAY,24TH,6.1,USD,South Hayward,24th Street Mission
+1042,SHAY,GLEN,6.25,USD,South Hayward,Glen Park
+1043,SHAY,BALB,6.3,USD,South Hayward,Balboa Park
+1044,SHAY,DALY,6.45,USD,South Hayward,Daly City
+1045,SHAY,OAKL,10.05,USD,South Hayward,Oakland City Center/12th St
+1046,SHAY,WARM,2.15,USD,South Hayward,Warm Springs/South Fremont
+1047,SHAY,MLPT,4.5,USD,South Hayward,Milpitas
+1048,SHAY,BERY,4.75,USD,South Hayward,Berryessa/North San Jose
+1049,SHAY,PCTR,7.1,USD,South Hayward,Pittsburg Center
+1050,SHAY,ANTC,7.8,USD,South Hayward,Antioch
+1051,UCTY,SSAN,7.2,USD,Union City,South San Francisco
+1052,UCTY,SBRN,7.5,USD,Union City,San Bruno
+1053,UCTY,SFIA,12.65,USD,Union City,San Francisco International Airport
+1054,UCTY,MLBR,7.85,USD,Union City,Millbrae
+1055,UCTY,WDUB,4.8,USD,Union City,West Dublin/Pleasanton
+1056,UCTY,RICH,5.6,USD,Union City,Richmond
+1057,UCTY,DELN,5.35,USD,Union City,Del Norte
+1058,UCTY,PLZA,5.15,USD,Union City,El Cerrito Plaza
+1059,UCTY,NBRK,4.95,USD,Union City,North Berkeley
+1060,UCTY,DBRK,4.9,USD,Union City,Downtown Berkeley
+1061,UCTY,ASHB,4.8,USD,Union City,Ashby
+1062,UCTY,MCAR,4.65,USD,Union City,MacArthur
+1063,UCTY,19TH,4.55,USD,Union City,19th Street Oakland
+1064,UCTY,12TH,4.55,USD,Union City,12th Street Oakland
+1065,UCTY,LAKE,4.55,USD,Union City,Lake Merritt
+1066,UCTY,FTVL,4.25,USD,Union City,Fruitvale
+1067,UCTY,COLS,4.05,USD,Union City,Coliseum
+1068,UCTY,SANL,3.65,USD,Union City,San Leandro
+1069,UCTY,BAYF,2.15,USD,Union City,Bay Fair
+1070,UCTY,HAYW,2.15,USD,Union City,Hayward
+1071,UCTY,SHAY,2.15,USD,Union City,South Hayward
+1072,UCTY,UCTY,6.4,USD,Union City,Union City
+1073,UCTY,FRMT,2.15,USD,Union City,Fremont
+1074,UCTY,CAST,3.7,USD,Union City,Castro Valley
+1075,UCTY,DUBL,5,USD,Union City,Dublin/Pleasanton
+1076,UCTY,PITT,7.45,USD,Union City,Pittsburg/Bay Point
+1077,UCTY,NCON,6.9,USD,Union City,North Concord/Martinez
+1078,UCTY,COLM,7,USD,Union City,Colma
+1079,UCTY,CONC,6.7,USD,Union City,Concord
+1080,UCTY,PHIL,6.2,USD,Union City,Pleasant Hill
+1081,UCTY,WCRK,6.05,USD,Union City,Walnut Creek
+1082,UCTY,LAFY,5.65,USD,Union City,Lafayette
+1083,UCTY,ORIN,5.25,USD,Union City,Orinda
+1084,UCTY,ROCK,4.65,USD,Union City,Rockridge
+1085,UCTY,WOAK,4.65,USD,Union City,West Oakland
+1086,UCTY,EMBR,6.5,USD,Union City,Embarcadero
+1087,UCTY,MONT,6.5,USD,Union City,Montgomery Street
+1088,UCTY,POWL,6.5,USD,Union City,Powell Street
+1089,UCTY,CIVC,6.5,USD,Union City,Civic Center
+1090,UCTY,16TH,6.55,USD,Union City,16th Street Mission
+1091,UCTY,24TH,6.6,USD,Union City,24th Street Mission
+1092,UCTY,GLEN,6.8,USD,Union City,Glen Park
+1093,UCTY,BALB,6.85,USD,Union City,Balboa Park
+1094,UCTY,DALY,7,USD,Union City,Daly City
+1095,UCTY,OAKL,10.75,USD,Union City,Oakland City Center/12th St
+1096,UCTY,WARM,2.15,USD,Union City,Warm Springs/South Fremont
+1097,UCTY,MLPT,3.95,USD,Union City,Milpitas
+1098,UCTY,BERY,4.2,USD,Union City,Berryessa/North San Jose
+1099,UCTY,PCTR,7.65,USD,Union City,Pittsburg Center
+1100,UCTY,ANTC,8.35,USD,Union City,Antioch
+1101,FRMT,SSAN,7.55,USD,Fremont,South San Francisco
+1102,FRMT,SBRN,7.85,USD,Fremont,San Bruno
+1103,FRMT,SFIA,13,USD,Fremont,San Francisco International Airport
+1104,FRMT,MLBR,8.2,USD,Fremont,Millbrae
+1105,FRMT,WDUB,5.2,USD,Fremont,West Dublin/Pleasanton
+1106,FRMT,RICH,5.95,USD,Fremont,Richmond
+1107,FRMT,DELN,5.75,USD,Fremont,Del Norte
+1108,FRMT,PLZA,5.55,USD,Fremont,El Cerrito Plaza
+1109,FRMT,NBRK,5.35,USD,Fremont,North Berkeley
+1110,FRMT,DBRK,5.3,USD,Fremont,Downtown Berkeley
+1111,FRMT,ASHB,5.2,USD,Fremont,Ashby
+1112,FRMT,MCAR,5.05,USD,Fremont,MacArthur
+1113,FRMT,19TH,4.95,USD,Fremont,19th Street Oakland
+1114,FRMT,12TH,4.95,USD,Fremont,12th Street Oakland
+1115,FRMT,LAKE,4.95,USD,Fremont,Lake Merritt
+1116,FRMT,FTVL,4.65,USD,Fremont,Fruitvale
+1117,FRMT,COLS,4.45,USD,Fremont,Coliseum
+1118,FRMT,SANL,4.1,USD,Fremont,San Leandro
+1119,FRMT,BAYF,2.15,USD,Fremont,Bay Fair
+1120,FRMT,HAYW,2.15,USD,Fremont,Hayward
+1121,FRMT,SHAY,2.15,USD,Fremont,South Hayward
+1122,FRMT,UCTY,2.15,USD,Fremont,Union City
+1123,FRMT,FRMT,6.4,USD,Fremont,Fremont
+1124,FRMT,CAST,4.15,USD,Fremont,Castro Valley
+1125,FRMT,DUBL,5.4,USD,Fremont,Dublin/Pleasanton
+1126,FRMT,PITT,7.85,USD,Fremont,Pittsburg/Bay Point
+1127,FRMT,NCON,7.3,USD,Fremont,North Concord/Martinez
+1128,FRMT,COLM,7.35,USD,Fremont,Colma
+1129,FRMT,CONC,7.05,USD,Fremont,Concord
+1130,FRMT,PHIL,6.6,USD,Fremont,Pleasant Hill
+1131,FRMT,WCRK,6.45,USD,Fremont,Walnut Creek
+1132,FRMT,LAFY,6.05,USD,Fremont,Lafayette
+1133,FRMT,ORIN,5.6,USD,Fremont,Orinda
+1134,FRMT,ROCK,5.05,USD,Fremont,Rockridge
+1135,FRMT,WOAK,5.05,USD,Fremont,West Oakland
+1136,FRMT,EMBR,6.85,USD,Fremont,Embarcadero
+1137,FRMT,MONT,6.85,USD,Fremont,Montgomery Street
+1138,FRMT,POWL,6.85,USD,Fremont,Powell Street
+1139,FRMT,CIVC,6.85,USD,Fremont,Civic Center
+1140,FRMT,16TH,6.95,USD,Fremont,16th Street Mission
+1141,FRMT,24TH,7,USD,Fremont,24th Street Mission
+1142,FRMT,GLEN,7.15,USD,Fremont,Glen Park
+1143,FRMT,BALB,7.25,USD,Fremont,Balboa Park
+1144,FRMT,DALY,7.4,USD,Fremont,Daly City
+1145,FRMT,OAKL,11.15,USD,Fremont,Oakland City Center/12th St
+1146,FRMT,WARM,2.15,USD,Fremont,Warm Springs/South Fremont
+1147,FRMT,MLPT,3.4,USD,Fremont,Milpitas
+1148,FRMT,BERY,3.85,USD,Fremont,Berryessa/North San Jose
+1149,FRMT,PCTR,8.05,USD,Fremont,Pittsburg Center
+1150,FRMT,ANTC,8.75,USD,Fremont,Antioch
+1151,CAST,SSAN,6.3,USD,Castro Valley,South San Francisco
+1152,CAST,SBRN,6.6,USD,Castro Valley,San Bruno
+1153,CAST,SFIA,11.75,USD,Castro Valley,San Francisco International Airport
+1154,CAST,MLBR,6.95,USD,Castro Valley,Millbrae
+1155,CAST,WDUB,2.15,USD,Castro Valley,West Dublin/Pleasanton
+1156,CAST,RICH,4.7,USD,Castro Valley,Richmond
+1157,CAST,DELN,4.45,USD,Castro Valley,Del Norte
+1158,CAST,PLZA,4.3,USD,Castro Valley,El Cerrito Plaza
+1159,CAST,NBRK,4.1,USD,Castro Valley,North Berkeley
+1160,CAST,DBRK,4.05,USD,Castro Valley,Downtown Berkeley
+1161,CAST,ASHB,3.95,USD,Castro Valley,Ashby
+1162,CAST,MCAR,3.8,USD,Castro Valley,MacArthur
+1163,CAST,19TH,3.7,USD,Castro Valley,19th Street Oakland
+1164,CAST,12TH,3.7,USD,Castro Valley,12th Street Oakland
+1165,CAST,LAKE,3.7,USD,Castro Valley,Lake Merritt
+1166,CAST,FTVL,3.2,USD,Castro Valley,Fruitvale
+1167,CAST,COLS,2.85,USD,Castro Valley,Coliseum
+1168,CAST,SANL,2.15,USD,Castro Valley,San Leandro
+1169,CAST,BAYF,2.15,USD,Castro Valley,Bay Fair
+1170,CAST,HAYW,2.15,USD,Castro Valley,Hayward
+1171,CAST,SHAY,2.9,USD,Castro Valley,South Hayward
+1172,CAST,UCTY,3.7,USD,Castro Valley,Union City
+1173,CAST,FRMT,4.15,USD,Castro Valley,Fremont
+1174,CAST,CAST,6.4,USD,Castro Valley,Castro Valley
+1175,CAST,DUBL,2.15,USD,Castro Valley,Dublin/Pleasanton
+1176,CAST,PITT,6.6,USD,Castro Valley,Pittsburg/Bay Point
+1177,CAST,NCON,6,USD,Castro Valley,North Concord/Martinez
+1178,CAST,COLM,6.1,USD,Castro Valley,Colma
+1179,CAST,CONC,5.8,USD,Castro Valley,Concord
+1180,CAST,PHIL,5.35,USD,Castro Valley,Pleasant Hill
+1181,CAST,WCRK,5.2,USD,Castro Valley,Walnut Creek
+1182,CAST,LAFY,4.8,USD,Castro Valley,Lafayette
+1183,CAST,ORIN,4.35,USD,Castro Valley,Orinda
+1184,CAST,ROCK,3.8,USD,Castro Valley,Rockridge
+1185,CAST,WOAK,3.8,USD,Castro Valley,West Oakland
+1186,CAST,EMBR,5.6,USD,Castro Valley,Embarcadero
+1187,CAST,MONT,5.6,USD,Castro Valley,Montgomery Street
+1188,CAST,POWL,5.6,USD,Castro Valley,Powell Street
+1189,CAST,CIVC,5.6,USD,Castro Valley,Civic Center
+1190,CAST,16TH,5.7,USD,Castro Valley,16th Street Mission
+1191,CAST,24TH,5.75,USD,Castro Valley,24th Street Mission
+1192,CAST,GLEN,5.9,USD,Castro Valley,Glen Park
+1193,CAST,BALB,6,USD,Castro Valley,Balboa Park
+1194,CAST,DALY,6.15,USD,Castro Valley,Daly City
+1195,CAST,OAKL,9.55,USD,Castro Valley,Oakland City Center/12th St
+1196,CAST,WARM,4.65,USD,Castro Valley,Warm Springs/South Fremont
+1197,CAST,MLPT,5.45,USD,Castro Valley,Milpitas
+1198,CAST,BERY,5.7,USD,Castro Valley,Berryessa/North San Jose
+1199,CAST,PCTR,6.8,USD,Castro Valley,Pittsburg Center
+1200,CAST,ANTC,7.5,USD,Castro Valley,Antioch
+1201,DUBL,SSAN,7.55,USD,Dublin/Pleasanton,South San Francisco
+1202,DUBL,SBRN,7.85,USD,Dublin/Pleasanton,San Bruno
+1203,DUBL,SFIA,13,USD,Dublin/Pleasanton,San Francisco International Airport
+1204,DUBL,MLBR,8.2,USD,Dublin/Pleasanton,Millbrae
+1205,DUBL,WDUB,2.15,USD,Dublin/Pleasanton,West Dublin/Pleasanton
+1206,DUBL,RICH,5.95,USD,Dublin/Pleasanton,Richmond
+1207,DUBL,DELN,5.7,USD,Dublin/Pleasanton,Del Norte
+1208,DUBL,PLZA,5.5,USD,Dublin/Pleasanton,El Cerrito Plaza
+1209,DUBL,NBRK,5.3,USD,Dublin/Pleasanton,North Berkeley
+1210,DUBL,DBRK,5.25,USD,Dublin/Pleasanton,Downtown Berkeley
+1211,DUBL,ASHB,5.15,USD,Dublin/Pleasanton,Ashby
+1212,DUBL,MCAR,5,USD,Dublin/Pleasanton,MacArthur
+1213,DUBL,19TH,4.9,USD,Dublin/Pleasanton,19th Street Oakland
+1214,DUBL,12TH,4.9,USD,Dublin/Pleasanton,12th Street Oakland
+1215,DUBL,LAKE,4.9,USD,Dublin/Pleasanton,Lake Merritt
+1216,DUBL,FTVL,4.6,USD,Dublin/Pleasanton,Fruitvale
+1217,DUBL,COLS,4.4,USD,Dublin/Pleasanton,Coliseum
+1218,DUBL,SANL,4.1,USD,Dublin/Pleasanton,San Leandro
+1219,DUBL,BAYF,2.15,USD,Dublin/Pleasanton,Bay Fair
+1220,DUBL,HAYW,4.15,USD,Dublin/Pleasanton,Hayward
+1221,DUBL,SHAY,4.45,USD,Dublin/Pleasanton,South Hayward
+1222,DUBL,UCTY,5,USD,Dublin/Pleasanton,Union City
+1223,DUBL,FRMT,5.4,USD,Dublin/Pleasanton,Fremont
+1224,DUBL,CAST,2.15,USD,Dublin/Pleasanton,Castro Valley
+1225,DUBL,DUBL,6.4,USD,Dublin/Pleasanton,Dublin/Pleasanton
+1226,DUBL,PITT,7.85,USD,Dublin/Pleasanton,Pittsburg/Bay Point
+1227,DUBL,NCON,7.25,USD,Dublin/Pleasanton,North Concord/Martinez
+1228,DUBL,COLM,7.35,USD,Dublin/Pleasanton,Colma
+1229,DUBL,CONC,7.05,USD,Dublin/Pleasanton,Concord
+1230,DUBL,PHIL,6.6,USD,Dublin/Pleasanton,Pleasant Hill
+1231,DUBL,WCRK,6.4,USD,Dublin/Pleasanton,Walnut Creek
+1232,DUBL,LAFY,6,USD,Dublin/Pleasanton,Lafayette
+1233,DUBL,ORIN,5.6,USD,Dublin/Pleasanton,Orinda
+1234,DUBL,ROCK,5,USD,Dublin/Pleasanton,Rockridge
+1235,DUBL,WOAK,5,USD,Dublin/Pleasanton,West Oakland
+1236,DUBL,EMBR,6.85,USD,Dublin/Pleasanton,Embarcadero
+1237,DUBL,MONT,6.85,USD,Dublin/Pleasanton,Montgomery Street
+1238,DUBL,POWL,6.85,USD,Dublin/Pleasanton,Powell Street
+1239,DUBL,CIVC,6.85,USD,Dublin/Pleasanton,Civic Center
+1240,DUBL,16TH,6.9,USD,Dublin/Pleasanton,16th Street Mission
+1241,DUBL,24TH,7,USD,Dublin/Pleasanton,24th Street Mission
+1242,DUBL,GLEN,7.15,USD,Dublin/Pleasanton,Glen Park
+1243,DUBL,BALB,7.2,USD,Dublin/Pleasanton,Balboa Park
+1244,DUBL,DALY,7.35,USD,Dublin/Pleasanton,Daly City
+1245,DUBL,OAKL,11.1,USD,Dublin/Pleasanton,Oakland City Center/12th St
+1246,DUBL,WARM,5.85,USD,Dublin/Pleasanton,Warm Springs/South Fremont
+1247,DUBL,MLPT,6.65,USD,Dublin/Pleasanton,Milpitas
+1248,DUBL,BERY,6.95,USD,Dublin/Pleasanton,Berryessa/North San Jose
+1249,DUBL,PCTR,8,USD,Dublin/Pleasanton,Pittsburg Center
+1250,DUBL,ANTC,8.7,USD,Dublin/Pleasanton,Antioch
+1251,PITT,SSAN,8,USD,Pittsburg/Bay Point,South San Francisco
+1252,PITT,SBRN,8.3,USD,Pittsburg/Bay Point,San Bruno
+1253,PITT,SFIA,13.45,USD,Pittsburg/Bay Point,San Francisco International Airport
+1254,PITT,MLBR,8.65,USD,Pittsburg/Bay Point,Millbrae
+1255,PITT,WDUB,7.65,USD,Pittsburg/Bay Point,West Dublin/Pleasanton
+1256,PITT,RICH,6,USD,Pittsburg/Bay Point,Richmond
+1257,PITT,DELN,5.75,USD,Pittsburg/Bay Point,Del Norte
+1258,PITT,PLZA,5.6,USD,Pittsburg/Bay Point,El Cerrito Plaza
+1259,PITT,NBRK,5.4,USD,Pittsburg/Bay Point,North Berkeley
+1260,PITT,DBRK,5.3,USD,Pittsburg/Bay Point,Downtown Berkeley
+1261,PITT,ASHB,5.3,USD,Pittsburg/Bay Point,Ashby
+1262,PITT,MCAR,5.3,USD,Pittsburg/Bay Point,MacArthur
+1263,PITT,19TH,5.3,USD,Pittsburg/Bay Point,19th Street Oakland
+1264,PITT,12TH,5.3,USD,Pittsburg/Bay Point,12th Street Oakland
+1265,PITT,LAKE,5.3,USD,Pittsburg/Bay Point,Lake Merritt
+1266,PITT,FTVL,5.5,USD,Pittsburg/Bay Point,Fruitvale
+1267,PITT,COLS,5.7,USD,Pittsburg/Bay Point,Coliseum
+1268,PITT,SANL,6,USD,Pittsburg/Bay Point,San Leandro
+1269,PITT,BAYF,6.3,USD,Pittsburg/Bay Point,Bay Fair
+1270,PITT,HAYW,6.6,USD,Pittsburg/Bay Point,Hayward
+1271,PITT,SHAY,6.95,USD,Pittsburg/Bay Point,South Hayward
+1272,PITT,UCTY,7.45,USD,Pittsburg/Bay Point,Union City
+1273,PITT,FRMT,7.85,USD,Pittsburg/Bay Point,Fremont
+1274,PITT,CAST,6.6,USD,Pittsburg/Bay Point,Castro Valley
+1275,PITT,DUBL,7.85,USD,Pittsburg/Bay Point,Dublin/Pleasanton
+1276,PITT,PITT,6.4,USD,Pittsburg/Bay Point,Pittsburg/Bay Point
+1277,PITT,NCON,2.15,USD,Pittsburg/Bay Point,North Concord/Martinez
+1278,PITT,COLM,7.8,USD,Pittsburg/Bay Point,Colma
+1279,PITT,CONC,2.15,USD,Pittsburg/Bay Point,Concord
+1280,PITT,PHIL,2.15,USD,Pittsburg/Bay Point,Pleasant Hill
+1281,PITT,WCRK,2.15,USD,Pittsburg/Bay Point,Walnut Creek
+1282,PITT,LAFY,4.1,USD,Pittsburg/Bay Point,Lafayette
+1283,PITT,ORIN,4.5,USD,Pittsburg/Bay Point,Orinda
+1284,PITT,ROCK,5.15,USD,Pittsburg/Bay Point,Rockridge
+1285,PITT,WOAK,5.45,USD,Pittsburg/Bay Point,West Oakland
+1286,PITT,EMBR,7.3,USD,Pittsburg/Bay Point,Embarcadero
+1287,PITT,MONT,7.3,USD,Pittsburg/Bay Point,Montgomery Street
+1288,PITT,POWL,7.3,USD,Pittsburg/Bay Point,Powell Street
+1289,PITT,CIVC,7.3,USD,Pittsburg/Bay Point,Civic Center
+1290,PITT,16TH,7.4,USD,Pittsburg/Bay Point,16th Street Mission
+1291,PITT,24TH,7.45,USD,Pittsburg/Bay Point,24th Street Mission
+1292,PITT,GLEN,7.6,USD,Pittsburg/Bay Point,Glen Park
+1293,PITT,BALB,7.7,USD,Pittsburg/Bay Point,Balboa Park
+1294,PITT,DALY,7.8,USD,Pittsburg/Bay Point,Daly City
+1295,PITT,OAKL,12.4,USD,Pittsburg/Bay Point,Oakland City Center/12th St
+1296,PITT,WARM,8.35,USD,Pittsburg/Bay Point,Warm Springs/South Fremont
+1297,PITT,MLPT,9.15,USD,Pittsburg/Bay Point,Milpitas
+1298,PITT,BERY,9.4,USD,Pittsburg/Bay Point,Berryessa/North San Jose
+1299,PITT,PCTR,2.15,USD,Pittsburg/Bay Point,Pittsburg Center
+1300,PITT,ANTC,2.15,USD,Pittsburg/Bay Point,Antioch
+1301,NCON,SSAN,7.45,USD,North Concord/Martinez,South San Francisco
+1302,NCON,SBRN,7.7,USD,North Concord/Martinez,San Bruno
+1303,NCON,SFIA,12.9,USD,North Concord/Martinez,San Francisco International Airport
+1304,NCON,MLBR,8.1,USD,North Concord/Martinez,Millbrae
+1305,NCON,WDUB,7.05,USD,North Concord/Martinez,West Dublin/Pleasanton
+1306,NCON,RICH,5.4,USD,North Concord/Martinez,Richmond
+1307,NCON,DELN,5.2,USD,North Concord/Martinez,Del Norte
+1308,NCON,PLZA,5,USD,North Concord/Martinez,El Cerrito Plaza
+1309,NCON,NBRK,4.8,USD,North Concord/Martinez,North Berkeley
+1310,NCON,DBRK,4.75,USD,North Concord/Martinez,Downtown Berkeley
+1311,NCON,ASHB,4.7,USD,North Concord/Martinez,Ashby
+1312,NCON,MCAR,4.7,USD,North Concord/Martinez,MacArthur
+1313,NCON,19TH,4.75,USD,North Concord/Martinez,19th Street Oakland
+1314,NCON,12TH,4.75,USD,North Concord/Martinez,12th Street Oakland
+1315,NCON,LAKE,4.75,USD,North Concord/Martinez,Lake Merritt
+1316,NCON,FTVL,4.9,USD,North Concord/Martinez,Fruitvale
+1317,NCON,COLS,5.15,USD,North Concord/Martinez,Coliseum
+1318,NCON,SANL,5.45,USD,North Concord/Martinez,San Leandro
+1319,NCON,BAYF,5.7,USD,North Concord/Martinez,Bay Fair
+1320,NCON,HAYW,6,USD,North Concord/Martinez,Hayward
+1321,NCON,SHAY,6.35,USD,North Concord/Martinez,South Hayward
+1322,NCON,UCTY,6.9,USD,North Concord/Martinez,Union City
+1323,NCON,FRMT,7.3,USD,North Concord/Martinez,Fremont
+1324,NCON,CAST,6,USD,North Concord/Martinez,Castro Valley
+1325,NCON,DUBL,7.25,USD,North Concord/Martinez,Dublin/Pleasanton
+1326,NCON,PITT,2.15,USD,North Concord/Martinez,Pittsburg/Bay Point
+1327,NCON,NCON,6.4,USD,North Concord/Martinez,North Concord/Martinez
+1328,NCON,COLM,7.2,USD,North Concord/Martinez,Colma
+1329,NCON,CONC,2.15,USD,North Concord/Martinez,Concord
+1330,NCON,PHIL,2.15,USD,North Concord/Martinez,Pleasant Hill
+1331,NCON,WCRK,2.15,USD,North Concord/Martinez,Walnut Creek
+1332,NCON,LAFY,3.4,USD,North Concord/Martinez,Lafayette
+1333,NCON,ORIN,3.95,USD,North Concord/Martinez,Orinda
+1334,NCON,ROCK,4.55,USD,North Concord/Martinez,Rockridge
+1335,NCON,WOAK,4.9,USD,North Concord/Martinez,West Oakland
+1336,NCON,EMBR,6.7,USD,North Concord/Martinez,Embarcadero
+1337,NCON,MONT,6.7,USD,North Concord/Martinez,Montgomery Street
+1338,NCON,POWL,6.7,USD,North Concord/Martinez,Powell Street
+1339,NCON,CIVC,6.7,USD,North Concord/Martinez,Civic Center
+1340,NCON,16TH,6.8,USD,North Concord/Martinez,16th Street Mission
+1341,NCON,24TH,6.85,USD,North Concord/Martinez,24th Street Mission
+1342,NCON,GLEN,7.05,USD,North Concord/Martinez,Glen Park
+1343,NCON,BALB,7.1,USD,North Concord/Martinez,Balboa Park
+1344,NCON,DALY,7.25,USD,North Concord/Martinez,Daly City
+1345,NCON,OAKL,11.85,USD,North Concord/Martinez,Oakland City Center/12th St
+1346,NCON,WARM,7.75,USD,North Concord/Martinez,Warm Springs/South Fremont
+1347,NCON,MLPT,8.55,USD,North Concord/Martinez,Milpitas
+1348,NCON,BERY,8.85,USD,North Concord/Martinez,Berryessa/North San Jose
+1349,NCON,PCTR,2.15,USD,North Concord/Martinez,Pittsburg Center
+1350,NCON,ANTC,3.75,USD,North Concord/Martinez,Antioch
+1351,COLM,SSAN,3.6,USD,Colma,South San Francisco
+1352,COLM,SBRN,3.6,USD,Colma,San Bruno
+1353,COLM,SFIA,8.9,USD,Colma,San Francisco International Airport
+1354,COLM,MLBR,4.15,USD,Colma,Millbrae
+1355,COLM,WDUB,7.15,USD,Colma,West Dublin/Pleasanton
+1356,COLM,RICH,5.7,USD,Colma,Richmond
+1357,COLM,DELN,5.45,USD,Colma,Del Norte
+1358,COLM,PLZA,5.3,USD,Colma,El Cerrito Plaza
+1359,COLM,NBRK,5.1,USD,Colma,North Berkeley
+1360,COLM,DBRK,5,USD,Colma,Downtown Berkeley
+1361,COLM,ASHB,4.9,USD,Colma,Ashby
+1362,COLM,MCAR,4.8,USD,Colma,MacArthur
+1363,COLM,19TH,4.7,USD,Colma,19th Street Oakland
+1364,COLM,12TH,4.7,USD,Colma,12th Street Oakland
+1365,COLM,LAKE,4.7,USD,Colma,Lake Merritt
+1366,COLM,FTVL,5,USD,Colma,Fruitvale
+1367,COLM,COLS,5.2,USD,Colma,Coliseum
+1368,COLM,SANL,5.55,USD,Colma,San Leandro
+1369,COLM,BAYF,5.8,USD,Colma,Bay Fair
+1370,COLM,HAYW,6.1,USD,Colma,Hayward
+1371,COLM,SHAY,6.45,USD,Colma,South Hayward
+1372,COLM,UCTY,7,USD,Colma,Union City
+1373,COLM,FRMT,7.35,USD,Colma,Fremont
+1374,COLM,CAST,6.1,USD,Colma,Castro Valley
+1375,COLM,DUBL,7.35,USD,Colma,Dublin/Pleasanton
+1376,COLM,PITT,7.8,USD,Colma,Pittsburg/Bay Point
+1377,COLM,NCON,7.2,USD,Colma,North Concord/Martinez
+1378,COLM,COLM,6.4,USD,Colma,Colma
+1379,COLM,CONC,7,USD,Colma,Concord
+1380,COLM,PHIL,6.55,USD,Colma,Pleasant Hill
+1381,COLM,WCRK,6.35,USD,Colma,Walnut Creek
+1382,COLM,LAFY,5.95,USD,Colma,Lafayette
+1383,COLM,ORIN,5.55,USD,Colma,Orinda
+1384,COLM,ROCK,4.95,USD,Colma,Rockridge
+1385,COLM,WOAK,4.6,USD,Colma,West Oakland
+1386,COLM,EMBR,4.05,USD,Colma,Embarcadero
+1387,COLM,MONT,4.05,USD,Colma,Montgomery Street
+1388,COLM,POWL,4.05,USD,Colma,Powell Street
+1389,COLM,CIVC,4.05,USD,Colma,Civic Center
+1390,COLM,16TH,3.85,USD,Colma,16th Street Mission
+1391,COLM,24TH,3.7,USD,Colma,24th Street Mission
+1392,COLM,GLEN,3.6,USD,Colma,Glen Park
+1393,COLM,BALB,3.6,USD,Colma,Balboa Park
+1394,COLM,DALY,3.6,USD,Colma,Daly City
+1395,COLM,OAKL,11.9,USD,Colma,Oakland City Center/12th St
+1396,COLM,WARM,7.85,USD,Colma,Warm Springs/South Fremont
+1397,COLM,MLPT,8.65,USD,Colma,Milpitas
+1398,COLM,BERY,8.9,USD,Colma,Berryessa/North San Jose
+1399,COLM,PCTR,7.95,USD,Colma,Pittsburg Center
+1400,COLM,ANTC,8.7,USD,Colma,Antioch
+1401,CONC,SSAN,7.2,USD,Concord,South San Francisco
+1402,CONC,SBRN,7.5,USD,Concord,San Bruno
+1403,CONC,SFIA,12.65,USD,Concord,San Francisco International Airport
+1404,CONC,MLBR,7.85,USD,Concord,Millbrae
+1405,CONC,WDUB,6.85,USD,Concord,West Dublin/Pleasanton
+1406,CONC,RICH,5.2,USD,Concord,Richmond
+1407,CONC,DELN,5,USD,Concord,Del Norte
+1408,CONC,PLZA,4.8,USD,Concord,El Cerrito Plaza
+1409,CONC,NBRK,4.6,USD,Concord,North Berkeley
+1410,CONC,DBRK,4.5,USD,Concord,Downtown Berkeley
+1411,CONC,ASHB,4.5,USD,Concord,Ashby
+1412,CONC,MCAR,4.5,USD,Concord,MacArthur
+1413,CONC,19TH,4.5,USD,Concord,19th Street Oakland
+1414,CONC,12TH,4.5,USD,Concord,12th Street Oakland
+1415,CONC,LAKE,4.5,USD,Concord,Lake Merritt
+1416,CONC,FTVL,4.7,USD,Concord,Fruitvale
+1417,CONC,COLS,4.9,USD,Concord,Coliseum
+1418,CONC,SANL,5.2,USD,Concord,San Leandro
+1419,CONC,BAYF,5.5,USD,Concord,Bay Fair
+1420,CONC,HAYW,5.8,USD,Concord,Hayward
+1421,CONC,SHAY,6.15,USD,Concord,South Hayward
+1422,CONC,UCTY,6.7,USD,Concord,Union City
+1423,CONC,FRMT,7.05,USD,Concord,Fremont
+1424,CONC,CAST,5.8,USD,Concord,Castro Valley
+1425,CONC,DUBL,7.05,USD,Concord,Dublin/Pleasanton
+1426,CONC,PITT,2.15,USD,Concord,Pittsburg/Bay Point
+1427,CONC,NCON,2.15,USD,Concord,North Concord/Martinez
+1428,CONC,COLM,7,USD,Concord,Colma
+1429,CONC,CONC,6.4,USD,Concord,Concord
+1430,CONC,PHIL,2.15,USD,Concord,Pleasant Hill
+1431,CONC,WCRK,2.15,USD,Concord,Walnut Creek
+1432,CONC,LAFY,2.15,USD,Concord,Lafayette
+1433,CONC,ORIN,2.15,USD,Concord,Orinda
+1434,CONC,ROCK,4.35,USD,Concord,Rockridge
+1435,CONC,WOAK,4.65,USD,Concord,West Oakland
+1436,CONC,EMBR,6.5,USD,Concord,Embarcadero
+1437,CONC,MONT,6.5,USD,Concord,Montgomery Street
+1438,CONC,POWL,6.5,USD,Concord,Powell Street
+1439,CONC,CIVC,6.5,USD,Concord,Civic Center
+1440,CONC,16TH,6.6,USD,Concord,16th Street Mission
+1441,CONC,24TH,6.65,USD,Concord,24th Street Mission
+1442,CONC,GLEN,6.8,USD,Concord,Glen Park
+1443,CONC,BALB,6.9,USD,Concord,Balboa Park
+1444,CONC,DALY,7,USD,Concord,Daly City
+1445,CONC,OAKL,11.6,USD,Concord,Oakland City Center/12th St
+1446,CONC,WARM,7.55,USD,Concord,Warm Springs/South Fremont
+1447,CONC,MLPT,8.35,USD,Concord,Milpitas
+1448,CONC,BERY,8.6,USD,Concord,Berryessa/North San Jose
+1449,CONC,PCTR,2.15,USD,Concord,Pittsburg Center
+1450,CONC,ANTC,3.95,USD,Concord,Antioch
+1451,PHIL,SSAN,6.75,USD,Pleasant Hill,South San Francisco
+1452,PHIL,SBRN,7.05,USD,Pleasant Hill,San Bruno
+1453,PHIL,SFIA,12.2,USD,Pleasant Hill,San Francisco International Airport
+1454,PHIL,MLBR,7.4,USD,Pleasant Hill,Millbrae
+1455,PHIL,WDUB,6.4,USD,Pleasant Hill,West Dublin/Pleasanton
+1456,PHIL,RICH,4.75,USD,Pleasant Hill,Richmond
+1457,PHIL,DELN,4.5,USD,Pleasant Hill,Del Norte
+1458,PHIL,PLZA,4.35,USD,Pleasant Hill,El Cerrito Plaza
+1459,PHIL,NBRK,4.15,USD,Pleasant Hill,North Berkeley
+1460,PHIL,DBRK,4.05,USD,Pleasant Hill,Downtown Berkeley
+1461,PHIL,ASHB,4.05,USD,Pleasant Hill,Ashby
+1462,PHIL,MCAR,4.05,USD,Pleasant Hill,MacArthur
+1463,PHIL,19TH,4.05,USD,Pleasant Hill,19th Street Oakland
+1464,PHIL,12TH,4.05,USD,Pleasant Hill,12th Street Oakland
+1465,PHIL,LAKE,4.05,USD,Pleasant Hill,Lake Merritt
+1466,PHIL,FTVL,4.25,USD,Pleasant Hill,Fruitvale
+1467,PHIL,COLS,4.45,USD,Pleasant Hill,Coliseum
+1468,PHIL,SANL,4.8,USD,Pleasant Hill,San Leandro
+1469,PHIL,BAYF,5.05,USD,Pleasant Hill,Bay Fair
+1470,PHIL,HAYW,5.35,USD,Pleasant Hill,Hayward
+1471,PHIL,SHAY,5.65,USD,Pleasant Hill,South Hayward
+1472,PHIL,UCTY,6.2,USD,Pleasant Hill,Union City
+1473,PHIL,FRMT,6.6,USD,Pleasant Hill,Fremont
+1474,PHIL,CAST,5.35,USD,Pleasant Hill,Castro Valley
+1475,PHIL,DUBL,6.6,USD,Pleasant Hill,Dublin/Pleasanton
+1476,PHIL,PITT,2.15,USD,Pleasant Hill,Pittsburg/Bay Point
+1477,PHIL,NCON,2.15,USD,Pleasant Hill,North Concord/Martinez
+1478,PHIL,COLM,6.55,USD,Pleasant Hill,Colma
+1479,PHIL,CONC,2.15,USD,Pleasant Hill,Concord
+1480,PHIL,PHIL,6.4,USD,Pleasant Hill,Pleasant Hill
+1481,PHIL,WCRK,2.15,USD,Pleasant Hill,Walnut Creek
+1482,PHIL,LAFY,2.15,USD,Pleasant Hill,Lafayette
+1483,PHIL,ORIN,2.15,USD,Pleasant Hill,Orinda
+1484,PHIL,ROCK,3.85,USD,Pleasant Hill,Rockridge
+1485,PHIL,WOAK,4.25,USD,Pleasant Hill,West Oakland
+1486,PHIL,EMBR,6.05,USD,Pleasant Hill,Embarcadero
+1487,PHIL,MONT,6.05,USD,Pleasant Hill,Montgomery Street
+1488,PHIL,POWL,6.05,USD,Pleasant Hill,Powell Street
+1489,PHIL,CIVC,6.05,USD,Pleasant Hill,Civic Center
+1490,PHIL,16TH,6.1,USD,Pleasant Hill,16th Street Mission
+1491,PHIL,24TH,6.2,USD,Pleasant Hill,24th Street Mission
+1492,PHIL,GLEN,6.35,USD,Pleasant Hill,Glen Park
+1493,PHIL,BALB,6.4,USD,Pleasant Hill,Balboa Park
+1494,PHIL,DALY,6.55,USD,Pleasant Hill,Daly City
+1495,PHIL,OAKL,11.15,USD,Pleasant Hill,Oakland City Center/12th St
+1496,PHIL,WARM,7.1,USD,Pleasant Hill,Warm Springs/South Fremont
+1497,PHIL,MLPT,7.9,USD,Pleasant Hill,Milpitas
+1498,PHIL,BERY,8.15,USD,Pleasant Hill,Berryessa/North San Jose
+1499,PHIL,PCTR,3.7,USD,Pleasant Hill,Pittsburg Center
+1500,PHIL,ANTC,4.4,USD,Pleasant Hill,Antioch
+1501,WCRK,SSAN,6.6,USD,Walnut Creek,South San Francisco
+1502,WCRK,SBRN,6.85,USD,Walnut Creek,San Bruno
+1503,WCRK,SFIA,12.05,USD,Walnut Creek,San Francisco International Airport
+1504,WCRK,MLBR,7.25,USD,Walnut Creek,Millbrae
+1505,WCRK,WDUB,6.2,USD,Walnut Creek,West Dublin/Pleasanton
+1506,WCRK,RICH,4.55,USD,Walnut Creek,Richmond
+1507,WCRK,DELN,4.35,USD,Walnut Creek,Del Norte
+1508,WCRK,PLZA,4.15,USD,Walnut Creek,El Cerrito Plaza
+1509,WCRK,NBRK,3.95,USD,Walnut Creek,North Berkeley
+1510,WCRK,DBRK,3.9,USD,Walnut Creek,Downtown Berkeley
+1511,WCRK,ASHB,3.85,USD,Walnut Creek,Ashby
+1512,WCRK,MCAR,3.85,USD,Walnut Creek,MacArthur
+1513,WCRK,19TH,3.9,USD,Walnut Creek,19th Street Oakland
+1514,WCRK,12TH,3.9,USD,Walnut Creek,12th Street Oakland
+1515,WCRK,LAKE,3.9,USD,Walnut Creek,Lake Merritt
+1516,WCRK,FTVL,4.05,USD,Walnut Creek,Fruitvale
+1517,WCRK,COLS,4.3,USD,Walnut Creek,Coliseum
+1518,WCRK,SANL,4.6,USD,Walnut Creek,San Leandro
+1519,WCRK,BAYF,4.85,USD,Walnut Creek,Bay Fair
+1520,WCRK,HAYW,5.2,USD,Walnut Creek,Hayward
+1521,WCRK,SHAY,5.5,USD,Walnut Creek,South Hayward
+1522,WCRK,UCTY,6.05,USD,Walnut Creek,Union City
+1523,WCRK,FRMT,6.45,USD,Walnut Creek,Fremont
+1524,WCRK,CAST,5.2,USD,Walnut Creek,Castro Valley
+1525,WCRK,DUBL,6.4,USD,Walnut Creek,Dublin/Pleasanton
+1526,WCRK,PITT,2.15,USD,Walnut Creek,Pittsburg/Bay Point
+1527,WCRK,NCON,2.15,USD,Walnut Creek,North Concord/Martinez
+1528,WCRK,COLM,6.35,USD,Walnut Creek,Colma
+1529,WCRK,CONC,2.15,USD,Walnut Creek,Concord
+1530,WCRK,PHIL,2.15,USD,Walnut Creek,Pleasant Hill
+1531,WCRK,WCRK,6.4,USD,Walnut Creek,Walnut Creek
+1532,WCRK,LAFY,2.15,USD,Walnut Creek,Lafayette
+1533,WCRK,ORIN,2.15,USD,Walnut Creek,Orinda
+1534,WCRK,ROCK,3.6,USD,Walnut Creek,Rockridge
+1535,WCRK,WOAK,4.05,USD,Walnut Creek,West Oakland
+1536,WCRK,EMBR,5.85,USD,Walnut Creek,Embarcadero
+1537,WCRK,MONT,5.85,USD,Walnut Creek,Montgomery Street
+1538,WCRK,POWL,5.85,USD,Walnut Creek,Powell Street
+1539,WCRK,CIVC,5.85,USD,Walnut Creek,Civic Center
+1540,WCRK,16TH,5.95,USD,Walnut Creek,16th Street Mission
+1541,WCRK,24TH,6,USD,Walnut Creek,24th Street Mission
+1542,WCRK,GLEN,6.15,USD,Walnut Creek,Glen Park
+1543,WCRK,BALB,6.25,USD,Walnut Creek,Balboa Park
+1544,WCRK,DALY,6.4,USD,Walnut Creek,Daly City
+1545,WCRK,OAKL,11,USD,Walnut Creek,Oakland City Center/12th St
+1546,WCRK,WARM,6.9,USD,Walnut Creek,Warm Springs/South Fremont
+1547,WCRK,MLPT,7.7,USD,Walnut Creek,Milpitas
+1548,WCRK,BERY,8,USD,Walnut Creek,Berryessa/North San Jose
+1549,WCRK,PCTR,3.9,USD,Walnut Creek,Pittsburg Center
+1550,WCRK,ANTC,4.6,USD,Walnut Creek,Antioch
+1551,LAFY,SSAN,6.2,USD,Lafayette,South San Francisco
+1552,LAFY,SBRN,6.45,USD,Lafayette,San Bruno
+1553,LAFY,SFIA,11.65,USD,Lafayette,San Francisco International Airport
+1554,LAFY,MLBR,6.85,USD,Lafayette,Millbrae
+1555,LAFY,WDUB,5.8,USD,Lafayette,West Dublin/Pleasanton
+1556,LAFY,RICH,4.2,USD,Lafayette,Richmond
+1557,LAFY,DELN,3.95,USD,Lafayette,Del Norte
+1558,LAFY,PLZA,3.75,USD,Lafayette,El Cerrito Plaza
+1559,LAFY,NBRK,3.55,USD,Lafayette,North Berkeley
+1560,LAFY,DBRK,3.45,USD,Lafayette,Downtown Berkeley
+1561,LAFY,ASHB,3.3,USD,Lafayette,Ashby
+1562,LAFY,MCAR,3.2,USD,Lafayette,MacArthur
+1563,LAFY,19TH,3.4,USD,Lafayette,19th Street Oakland
+1564,LAFY,12TH,3.4,USD,Lafayette,12th Street Oakland
+1565,LAFY,LAKE,3.4,USD,Lafayette,Lake Merritt
+1566,LAFY,FTVL,3.65,USD,Lafayette,Fruitvale
+1567,LAFY,COLS,3.9,USD,Lafayette,Coliseum
+1568,LAFY,SANL,4.2,USD,Lafayette,San Leandro
+1569,LAFY,BAYF,4.45,USD,Lafayette,Bay Fair
+1570,LAFY,HAYW,4.8,USD,Lafayette,Hayward
+1571,LAFY,SHAY,5.1,USD,Lafayette,South Hayward
+1572,LAFY,UCTY,5.65,USD,Lafayette,Union City
+1573,LAFY,FRMT,6.05,USD,Lafayette,Fremont
+1574,LAFY,CAST,4.8,USD,Lafayette,Castro Valley
+1575,LAFY,DUBL,6,USD,Lafayette,Dublin/Pleasanton
+1576,LAFY,PITT,4.1,USD,Lafayette,Pittsburg/Bay Point
+1577,LAFY,NCON,3.4,USD,Lafayette,North Concord/Martinez
+1578,LAFY,COLM,5.95,USD,Lafayette,Colma
+1579,LAFY,CONC,2.15,USD,Lafayette,Concord
+1580,LAFY,PHIL,2.15,USD,Lafayette,Pleasant Hill
+1581,LAFY,WCRK,2.15,USD,Lafayette,Walnut Creek
+1582,LAFY,LAFY,6.4,USD,Lafayette,Lafayette
+1583,LAFY,ORIN,2.15,USD,Lafayette,Orinda
+1584,LAFY,ROCK,3,USD,Lafayette,Rockridge
+1585,LAFY,WOAK,3.65,USD,Lafayette,West Oakland
+1586,LAFY,EMBR,5.5,USD,Lafayette,Embarcadero
+1587,LAFY,MONT,5.5,USD,Lafayette,Montgomery Street
+1588,LAFY,POWL,5.5,USD,Lafayette,Powell Street
+1589,LAFY,CIVC,5.5,USD,Lafayette,Civic Center
+1590,LAFY,16TH,5.55,USD,Lafayette,16th Street Mission
+1591,LAFY,24TH,5.6,USD,Lafayette,24th Street Mission
+1592,LAFY,GLEN,5.8,USD,Lafayette,Glen Park
+1593,LAFY,BALB,5.85,USD,Lafayette,Balboa Park
+1594,LAFY,DALY,6,USD,Lafayette,Daly City
+1595,LAFY,OAKL,10.6,USD,Lafayette,Oakland City Center/12th St
+1596,LAFY,WARM,6.5,USD,Lafayette,Warm Springs/South Fremont
+1597,LAFY,MLPT,7.3,USD,Lafayette,Milpitas
+1598,LAFY,BERY,7.6,USD,Lafayette,Berryessa/North San Jose
+1599,LAFY,PCTR,4.3,USD,Lafayette,Pittsburg Center
+1600,LAFY,ANTC,5,USD,Lafayette,Antioch
+1601,ORIN,SSAN,5.75,USD,Orinda,South San Francisco
+1602,ORIN,SBRN,6.05,USD,Orinda,San Bruno
+1603,ORIN,SFIA,11.2,USD,Orinda,San Francisco International Airport
+1604,ORIN,MLBR,6.4,USD,Orinda,Millbrae
+1605,ORIN,WDUB,5.4,USD,Orinda,West Dublin/Pleasanton
+1606,ORIN,RICH,3.75,USD,Orinda,Richmond
+1607,ORIN,DELN,3.55,USD,Orinda,Del Norte
+1608,ORIN,PLZA,3.25,USD,Orinda,El Cerrito Plaza
+1609,ORIN,NBRK,2.9,USD,Orinda,North Berkeley
+1610,ORIN,DBRK,2.75,USD,Orinda,Downtown Berkeley
+1611,ORIN,ASHB,2.6,USD,Orinda,Ashby
+1612,ORIN,MCAR,2.15,USD,Orinda,MacArthur
+1613,ORIN,19TH,2.7,USD,Orinda,19th Street Oakland
+1614,ORIN,12TH,2.7,USD,Orinda,12th Street Oakland
+1615,ORIN,LAKE,2.7,USD,Orinda,Lake Merritt
+1616,ORIN,FTVL,3.05,USD,Orinda,Fruitvale
+1617,ORIN,COLS,3.45,USD,Orinda,Coliseum
+1618,ORIN,SANL,3.8,USD,Orinda,San Leandro
+1619,ORIN,BAYF,4.05,USD,Orinda,Bay Fair
+1620,ORIN,HAYW,4.35,USD,Orinda,Hayward
+1621,ORIN,SHAY,4.7,USD,Orinda,South Hayward
+1622,ORIN,UCTY,5.25,USD,Orinda,Union City
+1623,ORIN,FRMT,5.6,USD,Orinda,Fremont
+1624,ORIN,CAST,4.35,USD,Orinda,Castro Valley
+1625,ORIN,DUBL,5.6,USD,Orinda,Dublin/Pleasanton
+1626,ORIN,PITT,4.5,USD,Orinda,Pittsburg/Bay Point
+1627,ORIN,NCON,3.95,USD,Orinda,North Concord/Martinez
+1628,ORIN,COLM,5.55,USD,Orinda,Colma
+1629,ORIN,CONC,2.15,USD,Orinda,Concord
+1630,ORIN,PHIL,2.15,USD,Orinda,Pleasant Hill
+1631,ORIN,WCRK,2.15,USD,Orinda,Walnut Creek
+1632,ORIN,LAFY,2.15,USD,Orinda,Lafayette
+1633,ORIN,ORIN,6.4,USD,Orinda,Orinda
+1634,ORIN,ROCK,2.15,USD,Orinda,Rockridge
+1635,ORIN,WOAK,2.95,USD,Orinda,West Oakland
+1636,ORIN,EMBR,5.05,USD,Orinda,Embarcadero
+1637,ORIN,MONT,5.05,USD,Orinda,Montgomery Street
+1638,ORIN,POWL,5.05,USD,Orinda,Powell Street
+1639,ORIN,CIVC,5.05,USD,Orinda,Civic Center
+1640,ORIN,16TH,5.15,USD,Orinda,16th Street Mission
+1641,ORIN,24TH,5.2,USD,Orinda,24th Street Mission
+1642,ORIN,GLEN,5.35,USD,Orinda,Glen Park
+1643,ORIN,BALB,5.45,USD,Orinda,Balboa Park
+1644,ORIN,DALY,5.6,USD,Orinda,Daly City
+1645,ORIN,OAKL,10.15,USD,Orinda,Oakland City Center/12th St
+1646,ORIN,WARM,6.1,USD,Orinda,Warm Springs/South Fremont
+1647,ORIN,MLPT,6.9,USD,Orinda,Milpitas
+1648,ORIN,BERY,7.15,USD,Orinda,Berryessa/North San Jose
+1649,ORIN,PCTR,4.7,USD,Orinda,Pittsburg Center
+1650,ORIN,ANTC,5.4,USD,Orinda,Antioch
+1651,ROCK,SSAN,5.15,USD,Rockridge,South San Francisco
+1652,ROCK,SBRN,5.45,USD,Rockridge,San Bruno
+1653,ROCK,SFIA,10.6,USD,Rockridge,San Francisco International Airport
+1654,ROCK,MLBR,5.8,USD,Rockridge,Millbrae
+1655,ROCK,WDUB,4.85,USD,Rockridge,West Dublin/Pleasanton
+1656,ROCK,RICH,3.05,USD,Rockridge,Richmond
+1657,ROCK,DELN,2.65,USD,Rockridge,Del Norte
+1658,ROCK,PLZA,2.35,USD,Rockridge,El Cerrito Plaza
+1659,ROCK,NBRK,2.15,USD,Rockridge,North Berkeley
+1660,ROCK,DBRK,2.15,USD,Rockridge,Downtown Berkeley
+1661,ROCK,ASHB,2.15,USD,Rockridge,Ashby
+1662,ROCK,MCAR,2.15,USD,Rockridge,MacArthur
+1663,ROCK,19TH,2.15,USD,Rockridge,19th Street Oakland
+1664,ROCK,12TH,2.15,USD,Rockridge,12th Street Oakland
+1665,ROCK,LAKE,2.15,USD,Rockridge,Lake Merritt
+1666,ROCK,FTVL,2.2,USD,Rockridge,Fruitvale
+1667,ROCK,COLS,2.55,USD,Rockridge,Coliseum
+1668,ROCK,SANL,3.05,USD,Rockridge,San Leandro
+1669,ROCK,BAYF,3.45,USD,Rockridge,Bay Fair
+1670,ROCK,HAYW,3.8,USD,Rockridge,Hayward
+1671,ROCK,SHAY,4.1,USD,Rockridge,South Hayward
+1672,ROCK,UCTY,4.65,USD,Rockridge,Union City
+1673,ROCK,FRMT,5.05,USD,Rockridge,Fremont
+1674,ROCK,CAST,3.8,USD,Rockridge,Castro Valley
+1675,ROCK,DUBL,5,USD,Rockridge,Dublin/Pleasanton
+1676,ROCK,PITT,5.15,USD,Rockridge,Pittsburg/Bay Point
+1677,ROCK,NCON,4.55,USD,Rockridge,North Concord/Martinez
+1678,ROCK,COLM,4.95,USD,Rockridge,Colma
+1679,ROCK,CONC,4.35,USD,Rockridge,Concord
+1680,ROCK,PHIL,3.85,USD,Rockridge,Pleasant Hill
+1681,ROCK,WCRK,3.6,USD,Rockridge,Walnut Creek
+1682,ROCK,LAFY,3,USD,Rockridge,Lafayette
+1683,ROCK,ORIN,2.15,USD,Rockridge,Orinda
+1684,ROCK,ROCK,6.4,USD,Rockridge,Rockridge
+1685,ROCK,WOAK,2.15,USD,Rockridge,West Oakland
+1686,ROCK,EMBR,4.3,USD,Rockridge,Embarcadero
+1687,ROCK,MONT,4.3,USD,Rockridge,Montgomery Street
+1688,ROCK,POWL,4.3,USD,Rockridge,Powell Street
+1689,ROCK,CIVC,4.3,USD,Rockridge,Civic Center
+1690,ROCK,16TH,4.5,USD,Rockridge,16th Street Mission
+1691,ROCK,24TH,4.6,USD,Rockridge,24th Street Mission
+1692,ROCK,GLEN,4.75,USD,Rockridge,Glen Park
+1693,ROCK,BALB,4.8,USD,Rockridge,Balboa Park
+1694,ROCK,DALY,4.95,USD,Rockridge,Daly City
+1695,ROCK,OAKL,9.25,USD,Rockridge,Oakland City Center/12th St
+1696,ROCK,WARM,5.5,USD,Rockridge,Warm Springs/South Fremont
+1697,ROCK,MLPT,6.3,USD,Rockridge,Milpitas
+1698,ROCK,BERY,6.6,USD,Rockridge,Berryessa/North San Jose
+1699,ROCK,PCTR,5.3,USD,Rockridge,Pittsburg Center
+1700,ROCK,ANTC,6,USD,Rockridge,Antioch
+1701,WOAK,SSAN,4.8,USD,West Oakland,South San Francisco
+1702,WOAK,SBRN,5.1,USD,West Oakland,San Bruno
+1703,WOAK,SFIA,10.25,USD,West Oakland,San Francisco International Airport
+1704,WOAK,MLBR,5.45,USD,West Oakland,Millbrae
+1705,WOAK,WDUB,4.85,USD,West Oakland,West Dublin/Pleasanton
+1706,WOAK,RICH,3.4,USD,West Oakland,Richmond
+1707,WOAK,DELN,3,USD,West Oakland,Del Norte
+1708,WOAK,PLZA,2.75,USD,West Oakland,El Cerrito Plaza
+1709,WOAK,NBRK,2.35,USD,West Oakland,North Berkeley
+1710,WOAK,DBRK,2.25,USD,West Oakland,Downtown Berkeley
+1711,WOAK,ASHB,2.15,USD,West Oakland,Ashby
+1712,WOAK,MCAR,2.15,USD,West Oakland,MacArthur
+1713,WOAK,19TH,2.15,USD,West Oakland,19th Street Oakland
+1714,WOAK,12TH,2.15,USD,West Oakland,12th Street Oakland
+1715,WOAK,LAKE,2.15,USD,West Oakland,Lake Merritt
+1716,WOAK,FTVL,2.15,USD,West Oakland,Fruitvale
+1717,WOAK,COLS,2.4,USD,West Oakland,Coliseum
+1718,WOAK,SANL,2.95,USD,West Oakland,San Leandro
+1719,WOAK,BAYF,3.4,USD,West Oakland,Bay Fair
+1720,WOAK,HAYW,3.8,USD,West Oakland,Hayward
+1721,WOAK,SHAY,4.1,USD,West Oakland,South Hayward
+1722,WOAK,UCTY,4.65,USD,West Oakland,Union City
+1723,WOAK,FRMT,5.05,USD,West Oakland,Fremont
+1724,WOAK,CAST,3.8,USD,West Oakland,Castro Valley
+1725,WOAK,DUBL,5,USD,West Oakland,Dublin/Pleasanton
+1726,WOAK,PITT,5.45,USD,West Oakland,Pittsburg/Bay Point
+1727,WOAK,NCON,4.9,USD,West Oakland,North Concord/Martinez
+1728,WOAK,COLM,4.6,USD,West Oakland,Colma
+1729,WOAK,CONC,4.65,USD,West Oakland,Concord
+1730,WOAK,PHIL,4.25,USD,West Oakland,Pleasant Hill
+1731,WOAK,WCRK,4.05,USD,West Oakland,Walnut Creek
+1732,WOAK,LAFY,3.65,USD,West Oakland,Lafayette
+1733,WOAK,ORIN,2.95,USD,West Oakland,Orinda
+1734,WOAK,ROCK,2.15,USD,West Oakland,Rockridge
+1735,WOAK,WOAK,6.4,USD,West Oakland,West Oakland
+1736,WOAK,EMBR,3.55,USD,West Oakland,Embarcadero
+1737,WOAK,MONT,3.55,USD,West Oakland,Montgomery Street
+1738,WOAK,POWL,3.55,USD,West Oakland,Powell Street
+1739,WOAK,CIVC,3.55,USD,West Oakland,Civic Center
+1740,WOAK,16TH,3.85,USD,West Oakland,16th Street Mission
+1741,WOAK,24TH,3.95,USD,West Oakland,24th Street Mission
+1742,WOAK,GLEN,4.2,USD,West Oakland,Glen Park
+1743,WOAK,BALB,4.4,USD,West Oakland,Balboa Park
+1744,WOAK,DALY,4.6,USD,West Oakland,Daly City
+1745,WOAK,OAKL,9.15,USD,West Oakland,Oakland City Center/12th St
+1746,WOAK,WARM,5.5,USD,West Oakland,Warm Springs/South Fremont
+1747,WOAK,MLPT,6.35,USD,West Oakland,Milpitas
+1748,WOAK,BERY,6.6,USD,West Oakland,Berryessa/North San Jose
+1749,WOAK,PCTR,5.65,USD,West Oakland,Pittsburg Center
+1750,WOAK,ANTC,6.35,USD,West Oakland,Antioch
+1751,EMBR,SSAN,4.35,USD,Embarcadero,South San Francisco
+1752,EMBR,SBRN,4.8,USD,Embarcadero,San Bruno
+1753,EMBR,SFIA,10,USD,Embarcadero,San Francisco International Airport
+1754,EMBR,MLBR,5.2,USD,Embarcadero,Millbrae
+1755,EMBR,WDUB,6.65,USD,Embarcadero,West Dublin/Pleasanton
+1756,EMBR,RICH,5.2,USD,Embarcadero,Richmond
+1757,EMBR,DELN,5,USD,Embarcadero,Del Norte
+1758,EMBR,PLZA,4.8,USD,Embarcadero,El Cerrito Plaza
+1759,EMBR,NBRK,4.6,USD,Embarcadero,North Berkeley
+1760,EMBR,DBRK,4.5,USD,Embarcadero,Downtown Berkeley
+1761,EMBR,ASHB,4.3,USD,Embarcadero,Ashby
+1762,EMBR,MCAR,4.05,USD,Embarcadero,MacArthur
+1763,EMBR,19TH,3.85,USD,Embarcadero,19th Street Oakland
+1764,EMBR,12TH,3.85,USD,Embarcadero,12th Street Oakland
+1765,EMBR,LAKE,3.85,USD,Embarcadero,Lake Merritt
+1766,EMBR,FTVL,4.3,USD,Embarcadero,Fruitvale
+1767,EMBR,COLS,4.65,USD,Embarcadero,Coliseum
+1768,EMBR,SANL,5.05,USD,Embarcadero,San Leandro
+1769,EMBR,BAYF,5.3,USD,Embarcadero,Bay Fair
+1770,EMBR,HAYW,5.6,USD,Embarcadero,Hayward
+1771,EMBR,SHAY,5.95,USD,Embarcadero,South Hayward
+1772,EMBR,UCTY,6.5,USD,Embarcadero,Union City
+1773,EMBR,FRMT,6.85,USD,Embarcadero,Fremont
+1774,EMBR,CAST,5.6,USD,Embarcadero,Castro Valley
+1775,EMBR,DUBL,6.85,USD,Embarcadero,Dublin/Pleasanton
+1776,EMBR,PITT,7.3,USD,Embarcadero,Pittsburg/Bay Point
+1777,EMBR,NCON,6.7,USD,Embarcadero,North Concord/Martinez
+1778,EMBR,COLM,4.05,USD,Embarcadero,Colma
+1779,EMBR,CONC,6.5,USD,Embarcadero,Concord
+1780,EMBR,PHIL,6.05,USD,Embarcadero,Pleasant Hill
+1781,EMBR,WCRK,5.85,USD,Embarcadero,Walnut Creek
+1782,EMBR,LAFY,5.5,USD,Embarcadero,Lafayette
+1783,EMBR,ORIN,5.05,USD,Embarcadero,Orinda
+1784,EMBR,ROCK,4.3,USD,Embarcadero,Rockridge
+1785,EMBR,WOAK,3.55,USD,Embarcadero,West Oakland
+1786,EMBR,EMBR,6.4,USD,Embarcadero,Embarcadero
+1787,EMBR,MONT,2.15,USD,Embarcadero,Montgomery Street
+1788,EMBR,POWL,2.15,USD,Embarcadero,Powell Street
+1789,EMBR,CIVC,2.15,USD,Embarcadero,Civic Center
+1790,EMBR,16TH,2.15,USD,Embarcadero,16th Street Mission
+1791,EMBR,24TH,2.15,USD,Embarcadero,24th Street Mission
+1792,EMBR,GLEN,2.15,USD,Embarcadero,Glen Park
+1793,EMBR,BALB,2.15,USD,Embarcadero,Balboa Park
+1794,EMBR,DALY,3.65,USD,Embarcadero,Daly City
+1795,EMBR,OAKL,11.4,USD,Embarcadero,Oakland City Center/12th St
+1796,EMBR,WARM,7.35,USD,Embarcadero,Warm Springs/South Fremont
+1797,EMBR,MLPT,8.15,USD,Embarcadero,Milpitas
+1798,EMBR,BERY,8.4,USD,Embarcadero,Berryessa/North San Jose
+1799,EMBR,PCTR,7.45,USD,Embarcadero,Pittsburg Center
+1800,EMBR,ANTC,8.2,USD,Embarcadero,Antioch
+1801,MONT,SSAN,4.35,USD,Montgomery Street,South San Francisco
+1802,MONT,SBRN,4.8,USD,Montgomery Street,San Bruno
+1803,MONT,SFIA,10,USD,Montgomery Street,San Francisco International Airport
+1804,MONT,MLBR,5.2,USD,Montgomery Street,Millbrae
+1805,MONT,WDUB,6.65,USD,Montgomery Street,West Dublin/Pleasanton
+1806,MONT,RICH,5.2,USD,Montgomery Street,Richmond
+1807,MONT,DELN,5,USD,Montgomery Street,Del Norte
+1808,MONT,PLZA,4.8,USD,Montgomery Street,El Cerrito Plaza
+1809,MONT,NBRK,4.6,USD,Montgomery Street,North Berkeley
+1810,MONT,DBRK,4.5,USD,Montgomery Street,Downtown Berkeley
+1811,MONT,ASHB,4.3,USD,Montgomery Street,Ashby
+1812,MONT,MCAR,4.05,USD,Montgomery Street,MacArthur
+1813,MONT,19TH,3.85,USD,Montgomery Street,19th Street Oakland
+1814,MONT,12TH,3.85,USD,Montgomery Street,12th Street Oakland
+1815,MONT,LAKE,3.85,USD,Montgomery Street,Lake Merritt
+1816,MONT,FTVL,4.3,USD,Montgomery Street,Fruitvale
+1817,MONT,COLS,4.65,USD,Montgomery Street,Coliseum
+1818,MONT,SANL,5.05,USD,Montgomery Street,San Leandro
+1819,MONT,BAYF,5.3,USD,Montgomery Street,Bay Fair
+1820,MONT,HAYW,5.6,USD,Montgomery Street,Hayward
+1821,MONT,SHAY,5.95,USD,Montgomery Street,South Hayward
+1822,MONT,UCTY,6.5,USD,Montgomery Street,Union City
+1823,MONT,FRMT,6.85,USD,Montgomery Street,Fremont
+1824,MONT,CAST,5.6,USD,Montgomery Street,Castro Valley
+1825,MONT,DUBL,6.85,USD,Montgomery Street,Dublin/Pleasanton
+1826,MONT,PITT,7.3,USD,Montgomery Street,Pittsburg/Bay Point
+1827,MONT,NCON,6.7,USD,Montgomery Street,North Concord/Martinez
+1828,MONT,COLM,4.05,USD,Montgomery Street,Colma
+1829,MONT,CONC,6.5,USD,Montgomery Street,Concord
+1830,MONT,PHIL,6.05,USD,Montgomery Street,Pleasant Hill
+1831,MONT,WCRK,5.85,USD,Montgomery Street,Walnut Creek
+1832,MONT,LAFY,5.5,USD,Montgomery Street,Lafayette
+1833,MONT,ORIN,5.05,USD,Montgomery Street,Orinda
+1834,MONT,ROCK,4.3,USD,Montgomery Street,Rockridge
+1835,MONT,WOAK,3.55,USD,Montgomery Street,West Oakland
+1836,MONT,EMBR,2.15,USD,Montgomery Street,Embarcadero
+1837,MONT,MONT,6.4,USD,Montgomery Street,Montgomery Street
+1838,MONT,POWL,2.15,USD,Montgomery Street,Powell Street
+1839,MONT,CIVC,2.15,USD,Montgomery Street,Civic Center
+1840,MONT,16TH,2.15,USD,Montgomery Street,16th Street Mission
+1841,MONT,24TH,2.15,USD,Montgomery Street,24th Street Mission
+1842,MONT,GLEN,2.15,USD,Montgomery Street,Glen Park
+1843,MONT,BALB,2.15,USD,Montgomery Street,Balboa Park
+1844,MONT,DALY,3.65,USD,Montgomery Street,Daly City
+1845,MONT,OAKL,11.4,USD,Montgomery Street,Oakland City Center/12th St
+1846,MONT,WARM,7.35,USD,Montgomery Street,Warm Springs/South Fremont
+1847,MONT,MLPT,8.15,USD,Montgomery Street,Milpitas
+1848,MONT,BERY,8.4,USD,Montgomery Street,Berryessa/North San Jose
+1849,MONT,PCTR,7.45,USD,Montgomery Street,Pittsburg Center
+1850,MONT,ANTC,8.2,USD,Montgomery Street,Antioch
+1851,POWL,SSAN,4.35,USD,Powell Street,South San Francisco
+1852,POWL,SBRN,4.8,USD,Powell Street,San Bruno
+1853,POWL,SFIA,10,USD,Powell Street,San Francisco International Airport
+1854,POWL,MLBR,5.2,USD,Powell Street,Millbrae
+1855,POWL,WDUB,6.65,USD,Powell Street,West Dublin/Pleasanton
+1856,POWL,RICH,5.2,USD,Powell Street,Richmond
+1857,POWL,DELN,5,USD,Powell Street,Del Norte
+1858,POWL,PLZA,4.8,USD,Powell Street,El Cerrito Plaza
+1859,POWL,NBRK,4.6,USD,Powell Street,North Berkeley
+1860,POWL,DBRK,4.5,USD,Powell Street,Downtown Berkeley
+1861,POWL,ASHB,4.3,USD,Powell Street,Ashby
+1862,POWL,MCAR,4.05,USD,Powell Street,MacArthur
+1863,POWL,19TH,3.85,USD,Powell Street,19th Street Oakland
+1864,POWL,12TH,3.85,USD,Powell Street,12th Street Oakland
+1865,POWL,LAKE,3.85,USD,Powell Street,Lake Merritt
+1866,POWL,FTVL,4.3,USD,Powell Street,Fruitvale
+1867,POWL,COLS,4.65,USD,Powell Street,Coliseum
+1868,POWL,SANL,5.05,USD,Powell Street,San Leandro
+1869,POWL,BAYF,5.3,USD,Powell Street,Bay Fair
+1870,POWL,HAYW,5.6,USD,Powell Street,Hayward
+1871,POWL,SHAY,5.95,USD,Powell Street,South Hayward
+1872,POWL,UCTY,6.5,USD,Powell Street,Union City
+1873,POWL,FRMT,6.85,USD,Powell Street,Fremont
+1874,POWL,CAST,5.6,USD,Powell Street,Castro Valley
+1875,POWL,DUBL,6.85,USD,Powell Street,Dublin/Pleasanton
+1876,POWL,PITT,7.3,USD,Powell Street,Pittsburg/Bay Point
+1877,POWL,NCON,6.7,USD,Powell Street,North Concord/Martinez
+1878,POWL,COLM,4.05,USD,Powell Street,Colma
+1879,POWL,CONC,6.5,USD,Powell Street,Concord
+1880,POWL,PHIL,6.05,USD,Powell Street,Pleasant Hill
+1881,POWL,WCRK,5.85,USD,Powell Street,Walnut Creek
+1882,POWL,LAFY,5.5,USD,Powell Street,Lafayette
+1883,POWL,ORIN,5.05,USD,Powell Street,Orinda
+1884,POWL,ROCK,4.3,USD,Powell Street,Rockridge
+1885,POWL,WOAK,3.55,USD,Powell Street,West Oakland
+1886,POWL,EMBR,2.15,USD,Powell Street,Embarcadero
+1887,POWL,MONT,2.15,USD,Powell Street,Montgomery Street
+1888,POWL,POWL,6.4,USD,Powell Street,Powell Street
+1889,POWL,CIVC,2.15,USD,Powell Street,Civic Center
+1890,POWL,16TH,2.15,USD,Powell Street,16th Street Mission
+1891,POWL,24TH,2.15,USD,Powell Street,24th Street Mission
+1892,POWL,GLEN,2.15,USD,Powell Street,Glen Park
+1893,POWL,BALB,2.15,USD,Powell Street,Balboa Park
+1894,POWL,DALY,3.65,USD,Powell Street,Daly City
+1895,POWL,OAKL,11.4,USD,Powell Street,Oakland City Center/12th St
+1896,POWL,WARM,7.35,USD,Powell Street,Warm Springs/South Fremont
+1897,POWL,MLPT,8.15,USD,Powell Street,Milpitas
+1898,POWL,BERY,8.4,USD,Powell Street,Berryessa/North San Jose
+1899,POWL,PCTR,7.45,USD,Powell Street,Pittsburg Center
+1900,POWL,ANTC,8.2,USD,Powell Street,Antioch
+1901,CIVC,SSAN,4.35,USD,Civic Center,South San Francisco
+1902,CIVC,SBRN,4.8,USD,Civic Center,San Bruno
+1903,CIVC,SFIA,10,USD,Civic Center,San Francisco International Airport
+1904,CIVC,MLBR,5.2,USD,Civic Center,Millbrae
+1905,CIVC,WDUB,6.65,USD,Civic Center,West Dublin/Pleasanton
+1906,CIVC,RICH,5.2,USD,Civic Center,Richmond
+1907,CIVC,DELN,5,USD,Civic Center,Del Norte
+1908,CIVC,PLZA,4.8,USD,Civic Center,El Cerrito Plaza
+1909,CIVC,NBRK,4.6,USD,Civic Center,North Berkeley
+1910,CIVC,DBRK,4.5,USD,Civic Center,Downtown Berkeley
+1911,CIVC,ASHB,4.3,USD,Civic Center,Ashby
+1912,CIVC,MCAR,4.05,USD,Civic Center,MacArthur
+1913,CIVC,19TH,3.85,USD,Civic Center,19th Street Oakland
+1914,CIVC,12TH,3.85,USD,Civic Center,12th Street Oakland
+1915,CIVC,LAKE,3.85,USD,Civic Center,Lake Merritt
+1916,CIVC,FTVL,4.3,USD,Civic Center,Fruitvale
+1917,CIVC,COLS,4.65,USD,Civic Center,Coliseum
+1918,CIVC,SANL,5.05,USD,Civic Center,San Leandro
+1919,CIVC,BAYF,5.3,USD,Civic Center,Bay Fair
+1920,CIVC,HAYW,5.6,USD,Civic Center,Hayward
+1921,CIVC,SHAY,5.95,USD,Civic Center,South Hayward
+1922,CIVC,UCTY,6.5,USD,Civic Center,Union City
+1923,CIVC,FRMT,6.85,USD,Civic Center,Fremont
+1924,CIVC,CAST,5.6,USD,Civic Center,Castro Valley
+1925,CIVC,DUBL,6.85,USD,Civic Center,Dublin/Pleasanton
+1926,CIVC,PITT,7.3,USD,Civic Center,Pittsburg/Bay Point
+1927,CIVC,NCON,6.7,USD,Civic Center,North Concord/Martinez
+1928,CIVC,COLM,4.05,USD,Civic Center,Colma
+1929,CIVC,CONC,6.5,USD,Civic Center,Concord
+1930,CIVC,PHIL,6.05,USD,Civic Center,Pleasant Hill
+1931,CIVC,WCRK,5.85,USD,Civic Center,Walnut Creek
+1932,CIVC,LAFY,5.5,USD,Civic Center,Lafayette
+1933,CIVC,ORIN,5.05,USD,Civic Center,Orinda
+1934,CIVC,ROCK,4.3,USD,Civic Center,Rockridge
+1935,CIVC,WOAK,3.55,USD,Civic Center,West Oakland
+1936,CIVC,EMBR,2.15,USD,Civic Center,Embarcadero
+1937,CIVC,MONT,2.15,USD,Civic Center,Montgomery Street
+1938,CIVC,POWL,2.15,USD,Civic Center,Powell Street
+1939,CIVC,CIVC,6.4,USD,Civic Center,Civic Center
+1940,CIVC,16TH,2.15,USD,Civic Center,16th Street Mission
+1941,CIVC,24TH,2.15,USD,Civic Center,24th Street Mission
+1942,CIVC,GLEN,2.15,USD,Civic Center,Glen Park
+1943,CIVC,BALB,2.15,USD,Civic Center,Balboa Park
+1944,CIVC,DALY,3.65,USD,Civic Center,Daly City
+1945,CIVC,OAKL,11.4,USD,Civic Center,Oakland City Center/12th St
+1946,CIVC,WARM,7.35,USD,Civic Center,Warm Springs/South Fremont
+1947,CIVC,MLPT,8.15,USD,Civic Center,Milpitas
+1948,CIVC,BERY,8.4,USD,Civic Center,Berryessa/North San Jose
+1949,CIVC,PCTR,7.45,USD,Civic Center,Pittsburg Center
+1950,CIVC,ANTC,8.2,USD,Civic Center,Antioch
+1951,16TH,SSAN,4.15,USD,16th Street Mission,South San Francisco
+1952,16TH,SBRN,4.6,USD,16th Street Mission,San Bruno
+1953,16TH,SFIA,9.9,USD,16th Street Mission,San Francisco International Airport
+1954,16TH,MLBR,5.15,USD,16th Street Mission,Millbrae
+1955,16TH,WDUB,6.75,USD,16th Street Mission,West Dublin/Pleasanton
+1956,16TH,RICH,5.3,USD,16th Street Mission,Richmond
+1957,16TH,DELN,5.05,USD,16th Street Mission,Del Norte
+1958,16TH,PLZA,4.9,USD,16th Street Mission,El Cerrito Plaza
+1959,16TH,NBRK,4.65,USD,16th Street Mission,North Berkeley
+1960,16TH,DBRK,4.6,USD,16th Street Mission,Downtown Berkeley
+1961,16TH,ASHB,4.5,USD,16th Street Mission,Ashby
+1962,16TH,MCAR,4.25,USD,16th Street Mission,MacArthur
+1963,16TH,19TH,4.05,USD,16th Street Mission,19th Street Oakland
+1964,16TH,12TH,4.05,USD,16th Street Mission,12th Street Oakland
+1965,16TH,LAKE,4.05,USD,16th Street Mission,Lake Merritt
+1966,16TH,FTVL,4.5,USD,16th Street Mission,Fruitvale
+1967,16TH,COLS,4.8,USD,16th Street Mission,Coliseum
+1968,16TH,SANL,5.15,USD,16th Street Mission,San Leandro
+1969,16TH,BAYF,5.4,USD,16th Street Mission,Bay Fair
+1970,16TH,HAYW,5.7,USD,16th Street Mission,Hayward
+1971,16TH,SHAY,6,USD,16th Street Mission,South Hayward
+1972,16TH,UCTY,6.55,USD,16th Street Mission,Union City
+1973,16TH,FRMT,6.95,USD,16th Street Mission,Fremont
+1974,16TH,CAST,5.7,USD,16th Street Mission,Castro Valley
+1975,16TH,DUBL,6.9,USD,16th Street Mission,Dublin/Pleasanton
+1976,16TH,PITT,7.4,USD,16th Street Mission,Pittsburg/Bay Point
+1977,16TH,NCON,6.8,USD,16th Street Mission,North Concord/Martinez
+1978,16TH,COLM,3.85,USD,16th Street Mission,Colma
+1979,16TH,CONC,6.6,USD,16th Street Mission,Concord
+1980,16TH,PHIL,6.1,USD,16th Street Mission,Pleasant Hill
+1981,16TH,WCRK,5.95,USD,16th Street Mission,Walnut Creek
+1982,16TH,LAFY,5.55,USD,16th Street Mission,Lafayette
+1983,16TH,ORIN,5.15,USD,16th Street Mission,Orinda
+1984,16TH,ROCK,4.5,USD,16th Street Mission,Rockridge
+1985,16TH,WOAK,3.85,USD,16th Street Mission,West Oakland
+1986,16TH,EMBR,2.15,USD,16th Street Mission,Embarcadero
+1987,16TH,MONT,2.15,USD,16th Street Mission,Montgomery Street
+1988,16TH,POWL,2.15,USD,16th Street Mission,Powell Street
+1989,16TH,CIVC,2.15,USD,16th Street Mission,Civic Center
+1990,16TH,16TH,6.4,USD,16th Street Mission,16th Street Mission
+1991,16TH,24TH,2.15,USD,16th Street Mission,24th Street Mission
+1992,16TH,GLEN,2.15,USD,16th Street Mission,Glen Park
+1993,16TH,BALB,2.15,USD,16th Street Mission,Balboa Park
+1994,16TH,DALY,3.4,USD,16th Street Mission,Daly City
+1995,16TH,OAKL,11.5,USD,16th Street Mission,Oakland City Center/12th St
+1996,16TH,WARM,7.4,USD,16th Street Mission,Warm Springs/South Fremont
+1997,16TH,MLPT,8.2,USD,16th Street Mission,Milpitas
+1998,16TH,BERY,8.5,USD,16th Street Mission,Berryessa/North San Jose
+1999,16TH,PCTR,7.55,USD,16th Street Mission,Pittsburg Center
+2000,16TH,ANTC,8.25,USD,16th Street Mission,Antioch
+2001,24TH,SSAN,4.05,USD,24th Street Mission,South San Francisco
+2002,24TH,SBRN,4.5,USD,24th Street Mission,San Bruno
+2003,24TH,SFIA,9.8,USD,24th Street Mission,San Francisco International Airport
+2004,24TH,MLBR,5.05,USD,24th Street Mission,Millbrae
+2005,24TH,WDUB,6.8,USD,24th Street Mission,West Dublin/Pleasanton
+2006,24TH,RICH,5.35,USD,24th Street Mission,Richmond
+2007,24TH,DELN,5.1,USD,24th Street Mission,Del Norte
+2008,24TH,PLZA,4.95,USD,24th Street Mission,El Cerrito Plaza
+2009,24TH,NBRK,4.75,USD,24th Street Mission,North Berkeley
+2010,24TH,DBRK,4.65,USD,24th Street Mission,Downtown Berkeley
+2011,24TH,ASHB,4.55,USD,24th Street Mission,Ashby
+2012,24TH,MCAR,4.35,USD,24th Street Mission,MacArthur
+2013,24TH,19TH,4.15,USD,24th Street Mission,19th Street Oakland
+2014,24TH,12TH,4.15,USD,24th Street Mission,12th Street Oakland
+2015,24TH,LAKE,4.15,USD,24th Street Mission,Lake Merritt
+2016,24TH,FTVL,4.65,USD,24th Street Mission,Fruitvale
+2017,24TH,COLS,4.85,USD,24th Street Mission,Coliseum
+2018,24TH,SANL,5.15,USD,24th Street Mission,San Leandro
+2019,24TH,BAYF,5.45,USD,24th Street Mission,Bay Fair
+2020,24TH,HAYW,5.75,USD,24th Street Mission,Hayward
+2021,24TH,SHAY,6.1,USD,24th Street Mission,South Hayward
+2022,24TH,UCTY,6.6,USD,24th Street Mission,Union City
+2023,24TH,FRMT,7,USD,24th Street Mission,Fremont
+2024,24TH,CAST,5.75,USD,24th Street Mission,Castro Valley
+2025,24TH,DUBL,7,USD,24th Street Mission,Dublin/Pleasanton
+2026,24TH,PITT,7.45,USD,24th Street Mission,Pittsburg/Bay Point
+2027,24TH,NCON,6.85,USD,24th Street Mission,North Concord/Martinez
+2028,24TH,COLM,3.7,USD,24th Street Mission,Colma
+2029,24TH,CONC,6.65,USD,24th Street Mission,Concord
+2030,24TH,PHIL,6.2,USD,24th Street Mission,Pleasant Hill
+2031,24TH,WCRK,6,USD,24th Street Mission,Walnut Creek
+2032,24TH,LAFY,5.6,USD,24th Street Mission,Lafayette
+2033,24TH,ORIN,5.2,USD,24th Street Mission,Orinda
+2034,24TH,ROCK,4.6,USD,24th Street Mission,Rockridge
+2035,24TH,WOAK,3.95,USD,24th Street Mission,West Oakland
+2036,24TH,EMBR,2.15,USD,24th Street Mission,Embarcadero
+2037,24TH,MONT,2.15,USD,24th Street Mission,Montgomery Street
+2038,24TH,POWL,2.15,USD,24th Street Mission,Powell Street
+2039,24TH,CIVC,2.15,USD,24th Street Mission,Civic Center
+2040,24TH,16TH,2.15,USD,24th Street Mission,16th Street Mission
+2041,24TH,24TH,6.4,USD,24th Street Mission,24th Street Mission
+2042,24TH,GLEN,2.15,USD,24th Street Mission,Glen Park
+2043,24TH,BALB,2.15,USD,24th Street Mission,Balboa Park
+2044,24TH,DALY,3.4,USD,24th Street Mission,Daly City
+2045,24TH,OAKL,11.55,USD,24th Street Mission,Oakland City Center/12th St
+2046,24TH,WARM,7.5,USD,24th Street Mission,Warm Springs/South Fremont
+2047,24TH,MLPT,8.3,USD,24th Street Mission,Milpitas
+2048,24TH,BERY,8.55,USD,24th Street Mission,Berryessa/North San Jose
+2049,24TH,PCTR,7.6,USD,24th Street Mission,Pittsburg Center
+2050,24TH,ANTC,8.3,USD,24th Street Mission,Antioch
+2051,GLEN,SSAN,3.8,USD,Glen Park,South San Francisco
+2052,GLEN,SBRN,4.2,USD,Glen Park,San Bruno
+2053,GLEN,SFIA,9.55,USD,Glen Park,San Francisco International Airport
+2054,GLEN,MLBR,4.8,USD,Glen Park,Millbrae
+2055,GLEN,WDUB,6.95,USD,Glen Park,West Dublin/Pleasanton
+2056,GLEN,RICH,5.5,USD,Glen Park,Richmond
+2057,GLEN,DELN,5.3,USD,Glen Park,Del Norte
+2058,GLEN,PLZA,5.1,USD,Glen Park,El Cerrito Plaza
+2059,GLEN,NBRK,4.9,USD,Glen Park,North Berkeley
+2060,GLEN,DBRK,4.85,USD,Glen Park,Downtown Berkeley
+2061,GLEN,ASHB,4.75,USD,Glen Park,Ashby
+2062,GLEN,MCAR,4.6,USD,Glen Park,MacArthur
+2063,GLEN,19TH,4.4,USD,Glen Park,19th Street Oakland
+2064,GLEN,12TH,4.4,USD,Glen Park,12th Street Oakland
+2065,GLEN,LAKE,4.4,USD,Glen Park,Lake Merritt
+2066,GLEN,FTVL,4.8,USD,Glen Park,Fruitvale
+2067,GLEN,COLS,5,USD,Glen Park,Coliseum
+2068,GLEN,SANL,5.35,USD,Glen Park,San Leandro
+2069,GLEN,BAYF,5.6,USD,Glen Park,Bay Fair
+2070,GLEN,HAYW,5.9,USD,Glen Park,Hayward
+2071,GLEN,SHAY,6.25,USD,Glen Park,South Hayward
+2072,GLEN,UCTY,6.8,USD,Glen Park,Union City
+2073,GLEN,FRMT,7.15,USD,Glen Park,Fremont
+2074,GLEN,CAST,5.9,USD,Glen Park,Castro Valley
+2075,GLEN,DUBL,7.15,USD,Glen Park,Dublin/Pleasanton
+2076,GLEN,PITT,7.6,USD,Glen Park,Pittsburg/Bay Point
+2077,GLEN,NCON,7.05,USD,Glen Park,North Concord/Martinez
+2078,GLEN,COLM,3.6,USD,Glen Park,Colma
+2079,GLEN,CONC,6.8,USD,Glen Park,Concord
+2080,GLEN,PHIL,6.35,USD,Glen Park,Pleasant Hill
+2081,GLEN,WCRK,6.15,USD,Glen Park,Walnut Creek
+2082,GLEN,LAFY,5.8,USD,Glen Park,Lafayette
+2083,GLEN,ORIN,5.35,USD,Glen Park,Orinda
+2084,GLEN,ROCK,4.75,USD,Glen Park,Rockridge
+2085,GLEN,WOAK,4.2,USD,Glen Park,West Oakland
+2086,GLEN,EMBR,2.15,USD,Glen Park,Embarcadero
+2087,GLEN,MONT,2.15,USD,Glen Park,Montgomery Street
+2088,GLEN,POWL,2.15,USD,Glen Park,Powell Street
+2089,GLEN,CIVC,2.15,USD,Glen Park,Civic Center
+2090,GLEN,16TH,2.15,USD,Glen Park,16th Street Mission
+2091,GLEN,24TH,2.15,USD,Glen Park,24th Street Mission
+2092,GLEN,GLEN,6.4,USD,Glen Park,Glen Park
+2093,GLEN,BALB,2.15,USD,Glen Park,Balboa Park
+2094,GLEN,DALY,3.4,USD,Glen Park,Daly City
+2095,GLEN,OAKL,11.7,USD,Glen Park,Oakland City Center/12th St
+2096,GLEN,WARM,7.65,USD,Glen Park,Warm Springs/South Fremont
+2097,GLEN,MLPT,8.45,USD,Glen Park,Milpitas
+2098,GLEN,BERY,8.75,USD,Glen Park,Berryessa/North San Jose
+2099,GLEN,PCTR,7.8,USD,Glen Park,Pittsburg Center
+2100,GLEN,ANTC,8.5,USD,Glen Park,Antioch
+2101,BALB,SSAN,3.6,USD,Balboa Park,South San Francisco
+2102,BALB,SBRN,4.05,USD,Balboa Park,San Bruno
+2103,BALB,SFIA,9.4,USD,Balboa Park,San Francisco International Airport
+2104,BALB,MLBR,4.65,USD,Balboa Park,Millbrae
+2105,BALB,WDUB,7.05,USD,Balboa Park,West Dublin/Pleasanton
+2106,BALB,RICH,5.6,USD,Balboa Park,Richmond
+2107,BALB,DELN,5.35,USD,Balboa Park,Del Norte
+2108,BALB,PLZA,5.2,USD,Balboa Park,El Cerrito Plaza
+2109,BALB,NBRK,4.95,USD,Balboa Park,North Berkeley
+2110,BALB,DBRK,4.9,USD,Balboa Park,Downtown Berkeley
+2111,BALB,ASHB,4.8,USD,Balboa Park,Ashby
+2112,BALB,MCAR,4.65,USD,Balboa Park,MacArthur
+2113,BALB,19TH,4.55,USD,Balboa Park,19th Street Oakland
+2114,BALB,12TH,4.55,USD,Balboa Park,12th Street Oakland
+2115,BALB,LAKE,4.55,USD,Balboa Park,Lake Merritt
+2116,BALB,FTVL,4.85,USD,Balboa Park,Fruitvale
+2117,BALB,COLS,5.1,USD,Balboa Park,Coliseum
+2118,BALB,SANL,5.45,USD,Balboa Park,San Leandro
+2119,BALB,BAYF,5.7,USD,Balboa Park,Bay Fair
+2120,BALB,HAYW,6,USD,Balboa Park,Hayward
+2121,BALB,SHAY,6.3,USD,Balboa Park,South Hayward
+2122,BALB,UCTY,6.85,USD,Balboa Park,Union City
+2123,BALB,FRMT,7.25,USD,Balboa Park,Fremont
+2124,BALB,CAST,6,USD,Balboa Park,Castro Valley
+2125,BALB,DUBL,7.2,USD,Balboa Park,Dublin/Pleasanton
+2126,BALB,PITT,7.7,USD,Balboa Park,Pittsburg/Bay Point
+2127,BALB,NCON,7.1,USD,Balboa Park,North Concord/Martinez
+2128,BALB,COLM,3.6,USD,Balboa Park,Colma
+2129,BALB,CONC,6.9,USD,Balboa Park,Concord
+2130,BALB,PHIL,6.4,USD,Balboa Park,Pleasant Hill
+2131,BALB,WCRK,6.25,USD,Balboa Park,Walnut Creek
+2132,BALB,LAFY,5.85,USD,Balboa Park,Lafayette
+2133,BALB,ORIN,5.45,USD,Balboa Park,Orinda
+2134,BALB,ROCK,4.8,USD,Balboa Park,Rockridge
+2135,BALB,WOAK,4.4,USD,Balboa Park,West Oakland
+2136,BALB,EMBR,2.15,USD,Balboa Park,Embarcadero
+2137,BALB,MONT,2.15,USD,Balboa Park,Montgomery Street
+2138,BALB,POWL,2.15,USD,Balboa Park,Powell Street
+2139,BALB,CIVC,2.15,USD,Balboa Park,Civic Center
+2140,BALB,16TH,2.15,USD,Balboa Park,16th Street Mission
+2141,BALB,24TH,2.15,USD,Balboa Park,24th Street Mission
+2142,BALB,GLEN,2.15,USD,Balboa Park,Glen Park
+2143,BALB,BALB,6.4,USD,Balboa Park,Balboa Park
+2144,BALB,DALY,3.4,USD,Balboa Park,Daly City
+2145,BALB,OAKL,11.8,USD,Balboa Park,Oakland City Center/12th St
+2146,BALB,WARM,7.7,USD,Balboa Park,Warm Springs/South Fremont
+2147,BALB,MLPT,8.5,USD,Balboa Park,Milpitas
+2148,BALB,BERY,8.8,USD,Balboa Park,Berryessa/North San Jose
+2149,BALB,PCTR,7.85,USD,Balboa Park,Pittsburg Center
+2150,BALB,ANTC,8.55,USD,Balboa Park,Antioch
+2151,DALY,SSAN,3.6,USD,Daly City,South San Francisco
+2152,DALY,SBRN,3.6,USD,Daly City,San Bruno
+2153,DALY,SFIA,9.15,USD,Daly City,San Francisco International Airport
+2154,DALY,MLBR,4.4,USD,Daly City,Millbrae
+2155,DALY,WDUB,7.2,USD,Daly City,West Dublin/Pleasanton
+2156,DALY,RICH,5.75,USD,Daly City,Richmond
+2157,DALY,DELN,5.5,USD,Daly City,Del Norte
+2158,DALY,PLZA,5.3,USD,Daly City,El Cerrito Plaza
+2159,DALY,NBRK,5.1,USD,Daly City,North Berkeley
+2160,DALY,DBRK,5.05,USD,Daly City,Downtown Berkeley
+2161,DALY,ASHB,4.95,USD,Daly City,Ashby
+2162,DALY,MCAR,4.8,USD,Daly City,MacArthur
+2163,DALY,19TH,4.7,USD,Daly City,19th Street Oakland
+2164,DALY,12TH,4.7,USD,Daly City,12th Street Oakland
+2165,DALY,LAKE,4.7,USD,Daly City,Lake Merritt
+2166,DALY,FTVL,5,USD,Daly City,Fruitvale
+2167,DALY,COLS,5.25,USD,Daly City,Coliseum
+2168,DALY,SANL,5.55,USD,Daly City,San Leandro
+2169,DALY,BAYF,5.8,USD,Daly City,Bay Fair
+2170,DALY,HAYW,6.15,USD,Daly City,Hayward
+2171,DALY,SHAY,6.45,USD,Daly City,South Hayward
+2172,DALY,UCTY,7,USD,Daly City,Union City
+2173,DALY,FRMT,7.4,USD,Daly City,Fremont
+2174,DALY,CAST,6.15,USD,Daly City,Castro Valley
+2175,DALY,DUBL,7.35,USD,Daly City,Dublin/Pleasanton
+2176,DALY,PITT,7.8,USD,Daly City,Pittsburg/Bay Point
+2177,DALY,NCON,7.25,USD,Daly City,North Concord/Martinez
+2178,DALY,COLM,3.6,USD,Daly City,Colma
+2179,DALY,CONC,7,USD,Daly City,Concord
+2180,DALY,PHIL,6.55,USD,Daly City,Pleasant Hill
+2181,DALY,WCRK,6.4,USD,Daly City,Walnut Creek
+2182,DALY,LAFY,6,USD,Daly City,Lafayette
+2183,DALY,ORIN,5.6,USD,Daly City,Orinda
+2184,DALY,ROCK,4.95,USD,Daly City,Rockridge
+2185,DALY,WOAK,4.6,USD,Daly City,West Oakland
+2186,DALY,EMBR,3.65,USD,Daly City,Embarcadero
+2187,DALY,MONT,3.65,USD,Daly City,Montgomery Street
+2188,DALY,POWL,3.65,USD,Daly City,Powell Street
+2189,DALY,CIVC,3.65,USD,Daly City,Civic Center
+2190,DALY,16TH,3.4,USD,Daly City,16th Street Mission
+2191,DALY,24TH,3.4,USD,Daly City,24th Street Mission
+2192,DALY,GLEN,3.4,USD,Daly City,Glen Park
+2193,DALY,BALB,3.4,USD,Daly City,Balboa Park
+2194,DALY,DALY,6.4,USD,Daly City,Daly City
+2195,DALY,OAKL,11.95,USD,Daly City,Oakland City Center/12th St
+2196,DALY,WARM,7.85,USD,Daly City,Warm Springs/South Fremont
+2197,DALY,MLPT,8.65,USD,Daly City,Milpitas
+2198,DALY,BERY,8.95,USD,Daly City,Berryessa/North San Jose
+2199,DALY,PCTR,8,USD,Daly City,Pittsburg Center
+2200,DALY,ANTC,8.7,USD,Daly City,Antioch
+2201,OAKL,SSAN,12.1,USD,Oakland City Center/12th St,South San Francisco
+2202,OAKL,SBRN,12.4,USD,Oakland City Center/12th St,San Bruno
+2203,OAKL,SFIA,17.6,USD,Oakland City Center/12th St,San Francisco International Airport
+2204,OAKL,MLBR,12.8,USD,Oakland City Center/12th St,Millbrae
+2205,OAKL,WDUB,10.95,USD,Oakland City Center/12th St,West Dublin/Pleasanton
+2206,OAKL,RICH,10.5,USD,Oakland City Center/12th St,Richmond
+2207,OAKL,DELN,10.3,USD,Oakland City Center/12th St,Del Norte
+2208,OAKL,PLZA,10.1,USD,Oakland City Center/12th St,El Cerrito Plaza
+2209,OAKL,NBRK,9.75,USD,Oakland City Center/12th St,North Berkeley
+2210,OAKL,DBRK,9.6,USD,Oakland City Center/12th St,Downtown Berkeley
+2211,OAKL,ASHB,9.45,USD,Oakland City Center/12th St,Ashby
+2212,OAKL,MCAR,9.2,USD,Oakland City Center/12th St,MacArthur
+2213,OAKL,19TH,8.85,USD,Oakland City Center/12th St,19th Street Oakland
+2214,OAKL,12TH,8.85,USD,Oakland City Center/12th St,12th Street Oakland
+2215,OAKL,LAKE,8.85,USD,Oakland City Center/12th St,Lake Merritt
+2216,OAKL,FTVL,8.85,USD,Oakland City Center/12th St,Fruitvale
+2217,OAKL,COLS,6.7,USD,Oakland City Center/12th St,Coliseum
+2218,OAKL,SANL,8.85,USD,Oakland City Center/12th St,San Leandro
+2219,OAKL,BAYF,8.85,USD,Oakland City Center/12th St,Bay Fair
+2220,OAKL,HAYW,9.55,USD,Oakland City Center/12th St,Hayward
+2221,OAKL,SHAY,10.05,USD,Oakland City Center/12th St,South Hayward
+2222,OAKL,UCTY,10.75,USD,Oakland City Center/12th St,Union City
+2223,OAKL,FRMT,11.15,USD,Oakland City Center/12th St,Fremont
+2224,OAKL,CAST,9.55,USD,Oakland City Center/12th St,Castro Valley
+2225,OAKL,DUBL,11.1,USD,Oakland City Center/12th St,Dublin/Pleasanton
+2226,OAKL,PITT,12.4,USD,Oakland City Center/12th St,Pittsburg/Bay Point
+2227,OAKL,NCON,11.85,USD,Oakland City Center/12th St,North Concord/Martinez
+2228,OAKL,COLM,11.9,USD,Oakland City Center/12th St,Colma
+2229,OAKL,CONC,11.6,USD,Oakland City Center/12th St,Concord
+2230,OAKL,PHIL,11.15,USD,Oakland City Center/12th St,Pleasant Hill
+2231,OAKL,WCRK,11,USD,Oakland City Center/12th St,Walnut Creek
+2232,OAKL,LAFY,10.6,USD,Oakland City Center/12th St,Lafayette
+2233,OAKL,ORIN,10.15,USD,Oakland City Center/12th St,Orinda
+2234,OAKL,ROCK,9.25,USD,Oakland City Center/12th St,Rockridge
+2235,OAKL,WOAK,9.15,USD,Oakland City Center/12th St,West Oakland
+2236,OAKL,EMBR,11.4,USD,Oakland City Center/12th St,Embarcadero
+2237,OAKL,MONT,11.4,USD,Oakland City Center/12th St,Montgomery Street
+2238,OAKL,POWL,11.4,USD,Oakland City Center/12th St,Powell Street
+2239,OAKL,CIVC,11.4,USD,Oakland City Center/12th St,Civic Center
+2240,OAKL,16TH,11.5,USD,Oakland City Center/12th St,16th Street Mission
+2241,OAKL,24TH,11.55,USD,Oakland City Center/12th St,24th Street Mission
+2242,OAKL,GLEN,11.7,USD,Oakland City Center/12th St,Glen Park
+2243,OAKL,BALB,11.8,USD,Oakland City Center/12th St,Balboa Park
+2244,OAKL,DALY,11.95,USD,Oakland City Center/12th St,Daly City
+2245,OAKL,OAKL,6.4,USD,Oakland City Center/12th St,Oakland City Center/12th St
+2246,OAKL,WARM,11.6,USD,Oakland City Center/12th St,Warm Springs/South Fremont
+2247,OAKL,MLPT,12.4,USD,Oakland City Center/12th St,Milpitas
+2248,OAKL,BERY,12.7,USD,Oakland City Center/12th St,Berryessa/North San Jose
+2249,OAKL,PCTR,12.6,USD,Oakland City Center/12th St,Pittsburg Center
+2250,OAKL,ANTC,13.3,USD,Oakland City Center/12th St,Antioch
+2251,WARM,SSAN,8.05,USD,Warm Springs/South Fremont,South San Francisco
+2252,WARM,SBRN,8.35,USD,Warm Springs/South Fremont,San Bruno
+2253,WARM,SFIA,13.5,USD,Warm Springs/South Fremont,San Francisco International Airport
+2254,WARM,MLBR,8.7,USD,Warm Springs/South Fremont,Millbrae
+2255,WARM,WDUB,5.7,USD,Warm Springs/South Fremont,West Dublin/Pleasanton
+2256,WARM,RICH,6.45,USD,Warm Springs/South Fremont,Richmond
+2257,WARM,DELN,6.2,USD,Warm Springs/South Fremont,Del Norte
+2258,WARM,PLZA,6,USD,Warm Springs/South Fremont,El Cerrito Plaza
+2259,WARM,NBRK,5.8,USD,Warm Springs/South Fremont,North Berkeley
+2260,WARM,DBRK,5.75,USD,Warm Springs/South Fremont,Downtown Berkeley
+2261,WARM,ASHB,5.65,USD,Warm Springs/South Fremont,Ashby
+2262,WARM,MCAR,5.5,USD,Warm Springs/South Fremont,MacArthur
+2263,WARM,19TH,5.4,USD,Warm Springs/South Fremont,19th Street Oakland
+2264,WARM,12TH,5.4,USD,Warm Springs/South Fremont,12th Street Oakland
+2265,WARM,LAKE,5.4,USD,Warm Springs/South Fremont,Lake Merritt
+2266,WARM,FTVL,5.15,USD,Warm Springs/South Fremont,Fruitvale
+2267,WARM,COLS,4.9,USD,Warm Springs/South Fremont,Coliseum
+2268,WARM,SANL,4.6,USD,Warm Springs/South Fremont,San Leandro
+2269,WARM,BAYF,4.3,USD,Warm Springs/South Fremont,Bay Fair
+2270,WARM,HAYW,4,USD,Warm Springs/South Fremont,Hayward
+2271,WARM,SHAY,2.15,USD,Warm Springs/South Fremont,South Hayward
+2272,WARM,UCTY,2.15,USD,Warm Springs/South Fremont,Union City
+2273,WARM,FRMT,2.15,USD,Warm Springs/South Fremont,Fremont
+2274,WARM,CAST,4.65,USD,Warm Springs/South Fremont,Castro Valley
+2275,WARM,DUBL,5.85,USD,Warm Springs/South Fremont,Dublin/Pleasanton
+2276,WARM,PITT,8.35,USD,Warm Springs/South Fremont,Pittsburg/Bay Point
+2277,WARM,NCON,7.75,USD,Warm Springs/South Fremont,North Concord/Martinez
+2278,WARM,COLM,7.85,USD,Warm Springs/South Fremont,Colma
+2279,WARM,CONC,7.55,USD,Warm Springs/South Fremont,Concord
+2280,WARM,PHIL,7.1,USD,Warm Springs/South Fremont,Pleasant Hill
+2281,WARM,WCRK,6.9,USD,Warm Springs/South Fremont,Walnut Creek
+2282,WARM,LAFY,6.5,USD,Warm Springs/South Fremont,Lafayette
+2283,WARM,ORIN,6.1,USD,Warm Springs/South Fremont,Orinda
+2284,WARM,ROCK,5.5,USD,Warm Springs/South Fremont,Rockridge
+2285,WARM,WOAK,5.5,USD,Warm Springs/South Fremont,West Oakland
+2286,WARM,EMBR,7.35,USD,Warm Springs/South Fremont,Embarcadero
+2287,WARM,MONT,7.35,USD,Warm Springs/South Fremont,Montgomery Street
+2288,WARM,POWL,7.35,USD,Warm Springs/South Fremont,Powell Street
+2289,WARM,CIVC,7.35,USD,Warm Springs/South Fremont,Civic Center
+2290,WARM,16TH,7.4,USD,Warm Springs/South Fremont,16th Street Mission
+2291,WARM,24TH,7.5,USD,Warm Springs/South Fremont,24th Street Mission
+2292,WARM,GLEN,7.65,USD,Warm Springs/South Fremont,Glen Park
+2293,WARM,BALB,7.7,USD,Warm Springs/South Fremont,Balboa Park
+2294,WARM,DALY,7.85,USD,Warm Springs/South Fremont,Daly City
+2295,WARM,OAKL,11.6,USD,Warm Springs/South Fremont,Oakland City Center/12th St
+2296,WARM,WARM,6.4,USD,Warm Springs/South Fremont,Warm Springs/South Fremont
+2297,WARM,MLPT,2.65,USD,Warm Springs/South Fremont,Milpitas
+2298,WARM,BERY,3.1,USD,Warm Springs/South Fremont,Berryessa/North San Jose
+2299,WARM,PCTR,8.5,USD,Warm Springs/South Fremont,Pittsburg Center
+2300,WARM,ANTC,9.2,USD,Warm Springs/South Fremont,Antioch
+2301,MLPT,SSAN,8.85,USD,Milpitas,South San Francisco
+2302,MLPT,SBRN,9.15,USD,Milpitas,San Bruno
+2303,MLPT,SFIA,14.3,USD,Milpitas,San Francisco International Airport
+2304,MLPT,MLBR,9.5,USD,Milpitas,Millbrae
+2305,MLPT,WDUB,6.5,USD,Milpitas,West Dublin/Pleasanton
+2306,MLPT,RICH,7.25,USD,Milpitas,Richmond
+2307,MLPT,DELN,7,USD,Milpitas,Del Norte
+2308,MLPT,PLZA,6.8,USD,Milpitas,El Cerrito Plaza
+2309,MLPT,NBRK,6.6,USD,Milpitas,North Berkeley
+2310,MLPT,DBRK,6.55,USD,Milpitas,Downtown Berkeley
+2311,MLPT,ASHB,6.45,USD,Milpitas,Ashby
+2312,MLPT,MCAR,6.3,USD,Milpitas,MacArthur
+2313,MLPT,19TH,6.2,USD,Milpitas,19th Street Oakland
+2314,MLPT,12TH,6.2,USD,Milpitas,12th Street Oakland
+2315,MLPT,LAKE,6.2,USD,Milpitas,Lake Merritt
+2316,MLPT,FTVL,5.95,USD,Milpitas,Fruitvale
+2317,MLPT,COLS,5.7,USD,Milpitas,Coliseum
+2318,MLPT,SANL,5.4,USD,Milpitas,San Leandro
+2319,MLPT,BAYF,5.15,USD,Milpitas,Bay Fair
+2320,MLPT,HAYW,4.8,USD,Milpitas,Hayward
+2321,MLPT,SHAY,4.5,USD,Milpitas,South Hayward
+2322,MLPT,UCTY,3.95,USD,Milpitas,Union City
+2323,MLPT,FRMT,3.4,USD,Milpitas,Fremont
+2324,MLPT,CAST,5.45,USD,Milpitas,Castro Valley
+2325,MLPT,DUBL,6.65,USD,Milpitas,Dublin/Pleasanton
+2326,MLPT,PITT,9.15,USD,Milpitas,Pittsburg/Bay Point
+2327,MLPT,NCON,8.55,USD,Milpitas,North Concord/Martinez
+2328,MLPT,COLM,8.65,USD,Milpitas,Colma
+2329,MLPT,CONC,8.35,USD,Milpitas,Concord
+2330,MLPT,PHIL,7.9,USD,Milpitas,Pleasant Hill
+2331,MLPT,WCRK,7.7,USD,Milpitas,Walnut Creek
+2332,MLPT,LAFY,7.3,USD,Milpitas,Lafayette
+2333,MLPT,ORIN,6.9,USD,Milpitas,Orinda
+2334,MLPT,ROCK,6.3,USD,Milpitas,Rockridge
+2335,MLPT,WOAK,6.35,USD,Milpitas,West Oakland
+2336,MLPT,EMBR,8.15,USD,Milpitas,Embarcadero
+2337,MLPT,MONT,8.15,USD,Milpitas,Montgomery Street
+2338,MLPT,POWL,8.15,USD,Milpitas,Powell Street
+2339,MLPT,CIVC,8.15,USD,Milpitas,Civic Center
+2340,MLPT,16TH,8.2,USD,Milpitas,16th Street Mission
+2341,MLPT,24TH,8.3,USD,Milpitas,24th Street Mission
+2342,MLPT,GLEN,8.45,USD,Milpitas,Glen Park
+2343,MLPT,BALB,8.5,USD,Milpitas,Balboa Park
+2344,MLPT,DALY,8.65,USD,Milpitas,Daly City
+2345,MLPT,OAKL,12.4,USD,Milpitas,Oakland City Center/12th St
+2346,MLPT,WARM,2.65,USD,Milpitas,Warm Springs/South Fremont
+2347,MLPT,MLPT,6.4,USD,Milpitas,Milpitas
+2348,MLPT,BERY,2.15,USD,Milpitas,Berryessa/North San Jose
+2349,MLPT,PCTR,9.3,USD,Milpitas,Pittsburg Center
+2350,MLPT,ANTC,10,USD,Milpitas,Antioch
+2351,BERY,SSAN,9.1,USD,Berryessa/North San Jose,South San Francisco
+2352,BERY,SBRN,9.4,USD,Berryessa/North San Jose,San Bruno
+2353,BERY,SFIA,14.6,USD,Berryessa/North San Jose,San Francisco International Airport
+2354,BERY,MLBR,9.8,USD,Berryessa/North San Jose,Millbrae
+2355,BERY,WDUB,6.75,USD,Berryessa/North San Jose,West Dublin/Pleasanton
+2356,BERY,RICH,7.5,USD,Berryessa/North San Jose,Richmond
+2357,BERY,DELN,7.3,USD,Berryessa/North San Jose,Del Norte
+2358,BERY,PLZA,7.1,USD,Berryessa/North San Jose,El Cerrito Plaza
+2359,BERY,NBRK,6.9,USD,Berryessa/North San Jose,North Berkeley
+2360,BERY,DBRK,6.85,USD,Berryessa/North San Jose,Downtown Berkeley
+2361,BERY,ASHB,6.75,USD,Berryessa/North San Jose,Ashby
+2362,BERY,MCAR,6.6,USD,Berryessa/North San Jose,MacArthur
+2363,BERY,19TH,6.5,USD,Berryessa/North San Jose,19th Street Oakland
+2364,BERY,12TH,6.5,USD,Berryessa/North San Jose,12th Street Oakland
+2365,BERY,LAKE,6.5,USD,Berryessa/North San Jose,Lake Merritt
+2366,BERY,FTVL,6.2,USD,Berryessa/North San Jose,Fruitvale
+2367,BERY,COLS,6,USD,Berryessa/North San Jose,Coliseum
+2368,BERY,SANL,5.65,USD,Berryessa/North San Jose,San Leandro
+2369,BERY,BAYF,5.4,USD,Berryessa/North San Jose,Bay Fair
+2370,BERY,HAYW,5.1,USD,Berryessa/North San Jose,Hayward
+2371,BERY,SHAY,4.75,USD,Berryessa/North San Jose,South Hayward
+2372,BERY,UCTY,4.2,USD,Berryessa/North San Jose,Union City
+2373,BERY,FRMT,3.85,USD,Berryessa/North San Jose,Fremont
+2374,BERY,CAST,5.7,USD,Berryessa/North San Jose,Castro Valley
+2375,BERY,DUBL,6.95,USD,Berryessa/North San Jose,Dublin/Pleasanton
+2376,BERY,PITT,9.4,USD,Berryessa/North San Jose,Pittsburg/Bay Point
+2377,BERY,NCON,8.85,USD,Berryessa/North San Jose,North Concord/Martinez
+2378,BERY,COLM,8.9,USD,Berryessa/North San Jose,Colma
+2379,BERY,CONC,8.6,USD,Berryessa/North San Jose,Concord
+2380,BERY,PHIL,8.15,USD,Berryessa/North San Jose,Pleasant Hill
+2381,BERY,WCRK,8,USD,Berryessa/North San Jose,Walnut Creek
+2382,BERY,LAFY,7.6,USD,Berryessa/North San Jose,Lafayette
+2383,BERY,ORIN,7.15,USD,Berryessa/North San Jose,Orinda
+2384,BERY,ROCK,6.6,USD,Berryessa/North San Jose,Rockridge
+2385,BERY,WOAK,6.6,USD,Berryessa/North San Jose,West Oakland
+2386,BERY,EMBR,8.4,USD,Berryessa/North San Jose,Embarcadero
+2387,BERY,MONT,8.4,USD,Berryessa/North San Jose,Montgomery Street
+2388,BERY,POWL,8.4,USD,Berryessa/North San Jose,Powell Street
+2389,BERY,CIVC,8.4,USD,Berryessa/North San Jose,Civic Center
+2390,BERY,16TH,8.5,USD,Berryessa/North San Jose,16th Street Mission
+2391,BERY,24TH,8.55,USD,Berryessa/North San Jose,24th Street Mission
+2392,BERY,GLEN,8.75,USD,Berryessa/North San Jose,Glen Park
+2393,BERY,BALB,8.8,USD,Berryessa/North San Jose,Balboa Park
+2394,BERY,DALY,8.95,USD,Berryessa/North San Jose,Daly City
+2395,BERY,OAKL,12.7,USD,Berryessa/North San Jose,Oakland City Center/12th St
+2396,BERY,WARM,3.1,USD,Berryessa/North San Jose,Warm Springs/South Fremont
+2397,BERY,MLPT,2.15,USD,Berryessa/North San Jose,Milpitas
+2398,BERY,BERY,6.4,USD,Berryessa/North San Jose,Berryessa/North San Jose
+2399,BERY,PCTR,9.6,USD,Berryessa/North San Jose,Pittsburg Center
+2400,BERY,ANTC,10.3,USD,Berryessa/North San Jose,Antioch
+2401,PCTR,SSAN,8.2,USD,Pittsburg Center,South San Francisco
+2402,PCTR,SBRN,8.45,USD,Pittsburg Center,San Bruno
+2403,PCTR,SFIA,13.65,USD,Pittsburg Center,San Francisco International Airport
+2404,PCTR,MLBR,8.85,USD,Pittsburg Center,Millbrae
+2405,PCTR,WDUB,7.8,USD,Pittsburg Center,West Dublin/Pleasanton
+2406,PCTR,RICH,6.15,USD,Pittsburg Center,Richmond
+2407,PCTR,DELN,5.95,USD,Pittsburg Center,Del Norte
+2408,PCTR,PLZA,5.75,USD,Pittsburg Center,El Cerrito Plaza
+2409,PCTR,NBRK,5.55,USD,Pittsburg Center,North Berkeley
+2410,PCTR,DBRK,5.5,USD,Pittsburg Center,Downtown Berkeley
+2411,PCTR,ASHB,5.45,USD,Pittsburg Center,Ashby
+2412,PCTR,MCAR,5.45,USD,Pittsburg Center,MacArthur
+2413,PCTR,19TH,5.5,USD,Pittsburg Center,19th Street Oakland
+2414,PCTR,12TH,5.5,USD,Pittsburg Center,12th Street Oakland
+2415,PCTR,LAKE,5.5,USD,Pittsburg Center,Lake Merritt
+2416,PCTR,FTVL,5.65,USD,Pittsburg Center,Fruitvale
+2417,PCTR,COLS,5.9,USD,Pittsburg Center,Coliseum
+2418,PCTR,SANL,6.2,USD,Pittsburg Center,San Leandro
+2419,PCTR,BAYF,6.45,USD,Pittsburg Center,Bay Fair
+2420,PCTR,HAYW,6.75,USD,Pittsburg Center,Hayward
+2421,PCTR,SHAY,7.1,USD,Pittsburg Center,South Hayward
+2422,PCTR,UCTY,7.65,USD,Pittsburg Center,Union City
+2423,PCTR,FRMT,8.05,USD,Pittsburg Center,Fremont
+2424,PCTR,CAST,6.8,USD,Pittsburg Center,Castro Valley
+2425,PCTR,DUBL,8,USD,Pittsburg Center,Dublin/Pleasanton
+2426,PCTR,PITT,2.15,USD,Pittsburg Center,Pittsburg/Bay Point
+2427,PCTR,NCON,2.15,USD,Pittsburg Center,North Concord/Martinez
+2428,PCTR,COLM,7.95,USD,Pittsburg Center,Colma
+2429,PCTR,CONC,2.15,USD,Pittsburg Center,Concord
+2430,PCTR,PHIL,3.7,USD,Pittsburg Center,Pleasant Hill
+2431,PCTR,WCRK,3.9,USD,Pittsburg Center,Walnut Creek
+2432,PCTR,LAFY,4.3,USD,Pittsburg Center,Lafayette
+2433,PCTR,ORIN,4.7,USD,Pittsburg Center,Orinda
+2434,PCTR,ROCK,5.3,USD,Pittsburg Center,Rockridge
+2435,PCTR,WOAK,5.65,USD,Pittsburg Center,West Oakland
+2436,PCTR,EMBR,7.45,USD,Pittsburg Center,Embarcadero
+2437,PCTR,MONT,7.45,USD,Pittsburg Center,Montgomery Street
+2438,PCTR,POWL,7.45,USD,Pittsburg Center,Powell Street
+2439,PCTR,CIVC,7.45,USD,Pittsburg Center,Civic Center
+2440,PCTR,16TH,7.55,USD,Pittsburg Center,16th Street Mission
+2441,PCTR,24TH,7.6,USD,Pittsburg Center,24th Street Mission
+2442,PCTR,GLEN,7.8,USD,Pittsburg Center,Glen Park
+2443,PCTR,BALB,7.85,USD,Pittsburg Center,Balboa Park
+2444,PCTR,DALY,8,USD,Pittsburg Center,Daly City
+2445,PCTR,OAKL,12.6,USD,Pittsburg Center,Oakland City Center/12th St
+2446,PCTR,WARM,8.5,USD,Pittsburg Center,Warm Springs/South Fremont
+2447,PCTR,MLPT,9.3,USD,Pittsburg Center,Milpitas
+2448,PCTR,BERY,9.6,USD,Pittsburg Center,Berryessa/North San Jose
+2449,PCTR,PCTR,6.4,USD,Pittsburg Center,Pittsburg Center
+2450,PCTR,ANTC,2.15,USD,Pittsburg Center,Antioch
+2451,ANTC,SSAN,8.9,USD,Antioch,South San Francisco
+2452,ANTC,SBRN,9.15,USD,Antioch,San Bruno
+2453,ANTC,SFIA,14.35,USD,Antioch,San Francisco International Airport
+2454,ANTC,MLBR,9.55,USD,Antioch,Millbrae
+2455,ANTC,WDUB,8.55,USD,Antioch,West Dublin/Pleasanton
+2456,ANTC,RICH,6.9,USD,Antioch,Richmond
+2457,ANTC,DELN,6.65,USD,Antioch,Del Norte
+2458,ANTC,PLZA,6.5,USD,Antioch,El Cerrito Plaza
+2459,ANTC,NBRK,6.25,USD,Antioch,North Berkeley
+2460,ANTC,DBRK,6.2,USD,Antioch,Downtown Berkeley
+2461,ANTC,ASHB,6.15,USD,Antioch,Ashby
+2462,ANTC,MCAR,6.15,USD,Antioch,MacArthur
+2463,ANTC,19TH,6.2,USD,Antioch,19th Street Oakland
+2464,ANTC,12TH,6.2,USD,Antioch,12th Street Oakland
+2465,ANTC,LAKE,6.2,USD,Antioch,Lake Merritt
+2466,ANTC,FTVL,6.35,USD,Antioch,Fruitvale
+2467,ANTC,COLS,6.6,USD,Antioch,Coliseum
+2468,ANTC,SANL,6.9,USD,Antioch,San Leandro
+2469,ANTC,BAYF,7.15,USD,Antioch,Bay Fair
+2470,ANTC,HAYW,7.45,USD,Antioch,Hayward
+2471,ANTC,SHAY,7.8,USD,Antioch,South Hayward
+2472,ANTC,UCTY,8.35,USD,Antioch,Union City
+2473,ANTC,FRMT,8.75,USD,Antioch,Fremont
+2474,ANTC,CAST,7.5,USD,Antioch,Castro Valley
+2475,ANTC,DUBL,8.7,USD,Antioch,Dublin/Pleasanton
+2476,ANTC,PITT,2.15,USD,Antioch,Pittsburg/Bay Point
+2477,ANTC,NCON,3.75,USD,Antioch,North Concord/Martinez
+2478,ANTC,COLM,8.7,USD,Antioch,Colma
+2479,ANTC,CONC,3.95,USD,Antioch,Concord
+2480,ANTC,PHIL,4.4,USD,Antioch,Pleasant Hill
+2481,ANTC,WCRK,4.6,USD,Antioch,Walnut Creek
+2482,ANTC,LAFY,5,USD,Antioch,Lafayette
+2483,ANTC,ORIN,5.4,USD,Antioch,Orinda
+2484,ANTC,ROCK,6,USD,Antioch,Rockridge
+2485,ANTC,WOAK,6.35,USD,Antioch,West Oakland
+2486,ANTC,EMBR,8.2,USD,Antioch,Embarcadero
+2487,ANTC,MONT,8.2,USD,Antioch,Montgomery Street
+2488,ANTC,POWL,8.2,USD,Antioch,Powell Street
+2489,ANTC,CIVC,8.2,USD,Antioch,Civic Center
+2490,ANTC,16TH,8.25,USD,Antioch,16th Street Mission
+2491,ANTC,24TH,8.3,USD,Antioch,24th Street Mission
+2492,ANTC,GLEN,8.5,USD,Antioch,Glen Park
+2493,ANTC,BALB,8.55,USD,Antioch,Balboa Park
+2494,ANTC,DALY,8.7,USD,Antioch,Daly City
+2495,ANTC,OAKL,13.3,USD,Antioch,Oakland City Center/12th St
+2496,ANTC,WARM,9.2,USD,Antioch,Warm Springs/South Fremont
+2497,ANTC,MLPT,10,USD,Antioch,Milpitas
+2498,ANTC,BERY,10.3,USD,Antioch,Berryessa/North San Jose
+2499,ANTC,PCTR,2.15,USD,Antioch,Pittsburg Center
+2500,ANTC,ANTC,6.4,USD,Antioch,Antioch
