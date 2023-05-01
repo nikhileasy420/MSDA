@@ -1,4 +1,4 @@
-# MSDA
+# Exploring BART, VTA Transportation data models by implementing them through BigQuery, and answering some interesting analytics questions through Neo4j, and MongoDB
 Course related submissions
 
 This repository contains all the working files of our DB for Analytics Course Project. We have tried to explore the BART data model, and VTA data model, by creating 
