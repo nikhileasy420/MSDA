@@ -1,0 +1,532 @@
+﻿city,city_id
+Henderson,C01
+Los Angeles,C02
+Fort Lauderdale,C03
+Concord,C04
+Seattle,C05
+Fort Worth,C06
+Madison,C07
+West Jordan,C08
+San Francisco,C09
+Fremont,C10
+Philadelphia,C11
+Orem,C12
+Houston,C13
+Richardson,C14
+Naperville,C15
+Melbourne,C16
+Eagan,C17
+Westland,C18
+Dover,C19
+New Albany,C20
+New York City,C21
+Troy,C22
+Chicago,C23
+Gilbert,C24
+Springfield,C25
+Jackson,C26
+Memphis,C27
+Decatur,C28
+Durham,C29
+Columbia,C30
+Rochester,C31
+Minneapolis,C32
+Portland,C33
+Saint Paul,C34
+Aurora,C35
+Charlotte,C36
+Orland Park,C37
+Urbandale,C38
+Columbus,C39
+Bristol,C40
+Wilmington,C41
+Bloomington,C42
+Phoenix,C43
+Roseville,C44
+Independence,C45
+Pasadena,C46
+Newark,C47
+Franklin,C48
+Scottsdale,C49
+San Jose,C50
+Edmond,C51
+Carlsbad,C52
+San Antonio,C53
+Monroe,C54
+Fairfield,C55
+Grand Prairie,C56
+Redlands,C57
+Hamilton,C58
+Westfield,C59
+Akron,C60
+Denver,C61
+Dallas,C62
+Whittier,C63
+Saginaw,C64
+Medina,C65
+Dublin,C66
+Detroit,C67
+Tampa,C68
+Santa Clara,C69
+Lakeville,C70
+San Diego,C71
+Brentwood,C72
+Chapel Hill,C73
+Morristown,C74
+Cincinnati,C75
+Inglewood,C76
+Tamarac,C77
+Colorado Springs,C78
+Belleville,C79
+Taylor,C80
+Lakewood,C81
+Arlington,C82
+Arvada,C83
+Hackensack,C84
+Saint Petersburg,C85
+Long Beach,C86
+Hesperia,C87
+Murfreesboro,C88
+Layton,C89
+Austin,C90
+Lowell,C91
+Manchester,C92
+Harlingen,C93
+Tucson,C94
+Quincy,C95
+Pembroke Pines,C96
+Des Moines,C97
+Peoria,C98
+Las Vegas,C99
+Warwick,C100
+Miami,C101
+Huntington Beach,C102
+Richmond,C103
+Louisville,C104
+Lawrence,C105
+Canton,C106
+New Rochelle,C107
+Gastonia,C108
+Jacksonville,C109
+Auburn,C110
+Norman,C111
+Park Ridge,C112
+Amarillo,C113
+Lindenhurst,C114
+Huntsville,C115
+Fayetteville,C116
+Costa Mesa,C117
+Parker,C118
+Atlanta,C119
+Gladstone,C120
+Great Falls,C121
+Lakeland,C122
+Montgomery,C123
+Mesa,C124
+Green Bay,C125
+Anaheim,C126
+Marysville,C127
+Salem,C128
+Laredo,C129
+Grove City,C130
+Dearborn,C131
+Warner Robins,C132
+Vallejo,C133
+Mission Viejo,C134
+Rochester Hills,C135
+Plainfield,C136
+Sierra Vista,C137
+Vancouver,C138
+Cleveland,C139
+Tyler,C140
+Burlington,C141
+Waynesboro,C142
+Chester,C143
+Cary,C144
+Palm Coast,C145
+Mount Vernon,C146
+Hialeah,C147
+Oceanside,C148
+Evanston,C149
+Trenton,C150
+Cottage Grove,C151
+Bossier City,C152
+Lancaster,C153
+Asheville,C154
+Lake Elsinore,C155
+Omaha,C156
+Edmonds,C157
+Santa Ana,C158
+Milwaukee,C159
+Florence,C160
+Lorain,C161
+Linden,C162
+Salinas,C163
+New Brunswick,C164
+Garland,C165
+Norwich,C166
+Alexandria,C167
+Toledo,C168
+Farmington,C169
+Riverside,C170
+Torrance,C171
+Round Rock,C172
+Boca Raton,C173
+Virginia Beach,C174
+Murrieta,C175
+Olympia,C176
+Washington,C177
+Jefferson City,C178
+Saint Peters,C179
+Rockford,C180
+Brownsville,C181
+Yonkers,C182
+Oakland,C183
+Clinton,C184
+Encinitas,C185
+Roswell,C186
+Jonesboro,C187
+Antioch,C188
+Homestead,C189
+La Porte,C190
+Lansing,C191
+Cuyahoga Falls,C192
+Reno,C193
+Harrisonburg,C194
+Escondido,C195
+Royal Oak,C196
+Rockville,C197
+Coral Springs,C198
+Buffalo,C199
+Boynton Beach,C200
+Gulfport,C201
+Fresno,C202
+Greenville,C203
+Macon,C204
+Cedar Rapids,C205
+Providence,C206
+Pueblo,C207
+Deltona,C208
+Murray,C209
+Middletown,C210
+Freeport,C211
+Pico Rivera,C212
+Provo,C213
+Pleasant Grove,C214
+Smyrna,C215
+Parma,C216
+Mobile,C217
+New Bedford,C218
+Irving,C219
+Vineland,C220
+Glendale,C221
+Niagara Falls,C222
+Thomasville,C223
+Westminster,C224
+Coppell,C225
+Pomona,C226
+North Las Vegas,C227
+Allentown,C228
+Tempe,C229
+Laguna Niguel,C230
+Bridgeton,C231
+Everett,C232
+Watertown,C233
+Appleton,C234
+Bellevue,C235
+Allen,C236
+El Paso,C237
+Grapevine,C238
+Carrollton,C239
+Kent,C240
+Lafayette,C241
+Tigard,C242
+Skokie,C243
+Plano,C244
+Suffolk,C245
+Indianapolis,C246
+Bayonne,C247
+Greensboro,C248
+Baltimore,C249
+Kenosha,C250
+Olathe,C251
+Tulsa,C252
+Redmond,C253
+Raleigh,C254
+Muskogee,C255
+Meriden,C256
+Bowling Green,C257
+South Bend,C258
+Spokane,C259
+Keller,C260
+Port Orange,C261
+Medford,C262
+Charlottesville,C263
+Missoula,C264
+Apopka,C265
+Reading,C266
+Broomfield,C267
+Paterson,C268
+Oklahoma City,C269
+Chesapeake,C270
+Lubbock,C271
+Johnson City,C272
+San Bernardino,C273
+Leominster,C274
+Bozeman,C275
+Perth Amboy,C276
+Ontario,C277
+Rancho Cucamonga,C278
+Moorhead,C279
+Mesquite,C280
+Stockton,C281
+Ormond Beach,C282
+Sunnyvale,C283
+York,C284
+College Station,C285
+Saint Louis,C286
+Manteca,C287
+San Angelo,C288
+Salt Lake City,C289
+Knoxville,C290
+Little Rock,C291
+Lincoln Park,C292
+Marion,C293
+Littleton,C294
+Bangor,C295
+Southaven,C296
+New Castle,C297
+Midland,C298
+Sioux Falls,C299
+Fort Collins,C300
+Clarksville,C301
+Sacramento,C302
+Thousand Oaks,C303
+Malden,C304
+Holyoke,C305
+Albuquerque,C306
+Sparks,C307
+Coachella,C308
+Elmhurst,C309
+Passaic,C310
+North Charleston,C311
+Newport News,C312
+Jamestown,C313
+Mishawaka,C314
+La Quinta,C315
+Tallahassee,C316
+Nashville,C317
+Bellingham,C318
+Woodstock,C319
+Haltom City,C320
+Wheeling,C321
+Summerville,C322
+Hot Springs,C323
+Englewood,C324
+Las Cruces,C325
+Hoover,C326
+Frisco,C327
+Vacaville,C328
+Waukesha,C329
+Bakersfield,C330
+Pompano Beach,C331
+Corpus Christi,C332
+Redondo Beach,C333
+Orlando,C334
+Orange,C335
+Lake Charles,C336
+Highland Park,C337
+Hempstead,C338
+Noblesville,C339
+Apple Valley,C340
+Mount Pleasant,C341
+Sterling Heights,C342
+Eau Claire,C343
+Pharr,C344
+Billings,C345
+Gresham,C346
+Chattanooga,C347
+Meridian,C348
+Bolingbrook,C349
+Maple Grove,C350
+Woodland,C351
+Missouri City,C352
+Pearland,C353
+San Mateo,C354
+Grand Rapids,C355
+Visalia,C356
+Overland Park,C357
+Temecula,C358
+Yucaipa,C359
+Revere,C360
+Conroe,C361
+Tinley Park,C362
+Dubuque,C363
+Dearborn Heights,C364
+Santa Fe,C365
+Hickory,C366
+Carol Stream,C367
+Saint Cloud,C368
+North Miami,C369
+Plantation,C370
+Port Saint Lucie,C371
+Rock Hill,C372
+Odessa,C373
+West Allis,C374
+Chula Vista,C375
+Manhattan,C376
+Altoona,C377
+Thornton,C378
+Champaign,C379
+Texarkana,C380
+Edinburg,C381
+Baytown,C382
+Greenwood,C383
+Woonsocket,C384
+Superior,C385
+Bedford,C386
+Covington,C387
+Broken Arrow,C388
+Miramar,C389
+Hollywood,C390
+Deer Park,C391
+Wichita,C392
+Mcallen,C393
+Iowa City,C394
+Boise,C395
+Cranston,C396
+Port Arthur,C397
+Citrus Heights,C398
+The Colony,C399
+Daytona Beach,C400
+Bullhead City,C401
+Portage,C402
+Fargo,C403
+Elkhart,C404
+San Gabriel,C405
+Margate,C406
+Sandy Springs,C407
+Mentor,C408
+Lawton,C409
+Hampton,C410
+Rome,C411
+La Crosse,C412
+Lewiston,C413
+Hattiesburg,C414
+Danville,C415
+Logan,C416
+Waterbury,C417
+Athens,C418
+Avondale,C419
+Marietta,C420
+Yuma,C421
+Wausau,C422
+Pasco,C423
+Oak Park,C424
+Pensacola,C425
+League City,C426
+Gaithersburg,C427
+Lehi,C428
+Tuscaloosa,C429
+Moreno Valley,C430
+Georgetown,C431
+Loveland,C432
+Chandler,C433
+Helena,C434
+Kirkwood,C435
+Waco,C436
+Frankfort,C437
+Bethlehem,C438
+Grand Island,C439
+Woodbury,C440
+Rogers,C441
+Clovis,C442
+Jupiter,C443
+Santa Barbara,C444
+Cedar Hill,C445
+Norfolk,C446
+Draper,C447
+Ann Arbor,C448
+La Mesa,C449
+Pocatello,C450
+Holland,C451
+Milford,C452
+Buffalo Grove,C453
+Lake Forest,C454
+Redding,C455
+Chico,C456
+Utica,C457
+Conway,C458
+Cheyenne,C459
+Owensboro,C460
+Caldwell,C461
+Kenner,C462
+Nashua,C463
+Bartlett,C464
+Redwood City,C465
+Lebanon,C466
+Santa Maria,C467
+Des Plaines,C468
+Longview,C469
+Hendersonville,C470
+Waterloo,C471
+Cambridge,C472
+Palatine,C473
+Beverly,C474
+Eugene,C475
+Oxnard,C476
+Renton,C477
+Glenview,C478
+Delray Beach,C479
+Commerce City,C480
+Texas City,C481
+Wilson,C482
+Rio Rancho,C483
+Goldsboro,C484
+Montebello,C485
+El Cajon,C486
+Beaumont,C487
+West Palm Beach,C488
+Abilene,C489
+Normal,C490
+Saint Charles,C491
+Camarillo,C492
+Hillsboro,C493
+Burbank,C494
+Modesto,C495
+Garden City,C496
+Atlantic City,C497
+Longmont,C498
+Davis,C499
+Morgan Hill,C500
+Clifton,C501
+Sheboygan,C502
+East Point,C503
+Rapid City,C504
+Andover,C505
+Kissimmee,C506
+Shelton,C507
+Danbury,C508
+Sanford,C509
+San Marcos,C510
+Greeley,C511
+Mansfield,C512
+Elyria,C513
+Twin Falls,C514
+Coral Gables,C515
+Romeoville,C516
+Marlborough,C517
+Laurel,C518
+Bryan,C519
+Pine Bluff,C520
+Aberdeen,C521
+Hagerstown,C522
+East Orange,C523
+Arlington Heights,C524
+Oswego,C525
+Coon Rapids,C526
+San Clemente,C527
+San Luis Obispo,C528
+Springdale,C529
+Lodi,C530
+Mason,C531
