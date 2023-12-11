@@ -1,0 +1,39 @@
+
+January 29, 2020
+
+
+J-NaNA is a LaTeX class for authors of the Networking and Network Applications(NaNA) journals and conferences.
+The latest version of the J-NaNA package can be found at J-NaNA's site:
+
+https://iecscience.org/journals/J-NaNA
+
+For latest news, helpful tips, answers to frequently asked questions,
+beta releases and other support, visit the J-NaNA's site too.
+
+
+********************************** Files **********************************
+
+README                 - This file.
+
+J-NaNA.cls           - The J-NaNA LaTeX class file.
+
+J-NaNA.tex - A bare bones starter file for journal of networking and network applications.
+
+
+***************************************************************************
+Legal Notice:
+This code is offered as-is without any warranty either expressed or
+implied; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE! 
+User assumes all risk.
+In no event shall the NaNA or any contributor to this code be liable for
+any damages or losses, including, but not limited to, incidental,
+consequential, or any other damages, resulting from the use or misuse
+of any information contained here.
+
+All comments are the opinions of their respective authors and are not
+necessarily endorsed by the NaNA.
+
+
+File list of work: J-NaNA.cls, J-NaNA.tex
+***************************************************************************
