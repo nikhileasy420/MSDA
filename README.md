@@ -1,4 +1,4 @@
-#Welcome to the world of Nikhil's Data Adventures! 
+##Welcome to the world of Nikhil's Data Adventures! 
 
 This github repository contains the Projects I worked on as part of My Graduate studies at SJSU in Data Analytics. 
 The projects I worked on include: 
