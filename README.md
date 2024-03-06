@@ -1,24 +1,8 @@
-# Exploring BART, VTA Transportation data models by implementing them through BigQuery, and answering some interesting analytics questions through Neo4j, and MongoDB
-Course related submissions
+#Welcome to the world of Nikhil's Data Adventures! 
 
-This repository contains all the working files of our DB for Analytics Course Project. We have tried to explore the BART data model, and VTA data model, by creating 
-ER Diagrams using their respective GTFS Datasets, which are present in DBMSDA/DB-course-project/RDBMS/DBMS Course Project/.
+This github repository contains the Projects I worked on as part of My Graduate studies at SJSU in Data Analytics. 
+The projects I worked on include: 
 
-The files for bart and VTA are differentiated through the suffix of the files. We have also added the relevant ER - Diagrams for both the data models. 
+1. Urban Audio Classification using UrbanSound8k, ESC-50 audio datasets, by utilizing Vision transformers, with Transfer Learning, and a comparitive analysis against the CNN variants (CNN, CNN + LSTM, 2D-CNN). Data Augmentation was also involved, utilized SpecAugment, and some other Noise inducing augmentation techniques to help the models generalize better on unseen data. Achieved SOTA scores wrt Classification performance metrics -  Accuracy, precision, f1, AUC ROC, & recall - The brief report here https://shorturl.at/yFMP6
 
-Additional to this data modelling, we also tried to analyze the ridership data of BART frmo 2018, to currently across different dimensions, we have also included
-these notebooks in DBMSDA/DB-course-project/RDBMS/DBMS Course Project/MongoDB 
-
-We have also tried to use Neo4j, to answer some shortest path algorithms, and answer some interesting questions related to the path, and cost. 
-
-This is a team project, by Team 1 of DATA 225: Db For Analytics 
-
-Team 1: 
-
-Nikhil Thota
-Sowmya Kuruba
-Swathi Ramesh
-Madhura Bhatsoori
-Saketh Reddy
-
-Thank you for choosing to read till here, we hope this project will be of some use to you :)
+2. Predicting Side-effects from Drug-Drug Interactions using BioSNAP datasets, and Graph modeling. Modeled the drug-drug interactions to predict the possibility of a side-effect for a certain dr-dr reaction. This has high real time relevance as Polypharmacy is one of the key current areas of research. Utilized Neo4j to model the graphs, Utilized Jaccard distances to understand the distribution of nodes & edges in the network, Word2Vec for feature engineering, utilized standard ML algorithms like Decision tree, Logistic regression, but the performance metrics were too low. Utilized GCN to result in accuracy of 87%, along with significant improvement in other metrics - The brief report & code base here - https://shorturl.at/lwP45
